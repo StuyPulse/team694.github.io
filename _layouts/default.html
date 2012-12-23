@@ -38,15 +38,15 @@
                     <a class="brand" href="/">Stuypulse</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
-                            <li class="active"><a href="/">Home</a></li>
-                            <li class="dropdown">
+                            <li{% if page.url == '/index.html' %} class="active"{% endif %}><a href="/">Home</a></li>
+                            <li class="dropdown{% if page.url == '/about.html' or page.url contains '/history/' %} active{% endif %}">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="/about.html">About Us</a></li>
                                     <li><a href="/history/">Team History</a></li>
                                 </ul>
                             </li>
-                            <li><a href="/contact.html">Contact</a></li>
+                            <li{% if page.url == '/contact.html' %} class="active"{% endif %}><a href="/contact.html">Contact</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
                 </div>
