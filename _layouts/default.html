@@ -47,8 +47,9 @@
                                 </ul>
                             </li>
                             <li{% if page.url == '/first/index.html' %} class="active"{% endif %}><a href="/first/">FIRST</a></li>
-                            <li{% if page.url == '/contact/index.html' %} class="active"{% endif %}><a href="/contact/">Contact</a></li>
+                            <li{% if page.url contains '/blog/' %} class="active"{% endif %}><a href="/blog/">Blog</a></li>
                             <li{% if page.url == '/sponsors/index.html' %} class="active"{% endif %}><a href="/sponsors/">Sponsors</a></li>
+                            <li{% if page.url == '/contact/index.html' %} class="active"{% endif %}><a href="/contact/">Contact</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
                 </div>
