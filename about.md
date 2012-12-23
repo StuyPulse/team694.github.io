@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
+title: About Us
 ---
-# About Us
 We are Stuyvesant High School’s award-winning FIRST Robotics team. Otherwise known as Team 694, Stuypulse seeks to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST program. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.
 
 FIRST (For Inspiration and Recognition of Science and Technology) is a multi-national, non-profit organization that, in the words of its founder, Dean Kamen, seeks "to transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology heroes." Through partnerships with local and global businesses, dedicated volunteers with professional backgrounds, and the tireless efforts of students, teachers, and parents, FIRST opens a whole new world for generations of young adults and equips them with the skills to achieve success.
