@@ -8,7 +8,7 @@ Team 694 is now in our 12th year as a FIRST team, having just celebrated our 10t
 {% for year in (2001..2012) %}
     {% for page in site.pages %}
         {% if page.layout == 'history' and page.year == year %}
-- [{{ page.year }}: {{ page.title }}]({{ page.url }})
+- [{{ page.year }}: {{ page.title }}](/history/{{ page.year }}/)
         {% endif %}
     {% endfor %}
 {% endfor %}
