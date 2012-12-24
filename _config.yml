@@ -1,2 +1,2 @@
-exclude: README.md, CNAME, bootstrap
+exclude: [README.md, CNAME, bootstrap]
 permalink: /blog/:year/:month/:day/:title
