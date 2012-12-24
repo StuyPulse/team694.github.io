@@ -1,22 +1,12 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+/* Spacing for button in carousel caption */
+.carousel-btn {
+    margin-top: 14px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.sponsor-thumb {
+    text-align: center;
+}
