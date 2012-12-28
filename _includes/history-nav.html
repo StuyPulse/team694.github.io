@@ -1,0 +1,10 @@
+<ul class="nav nav-list">
+    <li class="nav-header">Team History</li>
+    {% for year in page.years %}
+        {% for p in site.pages %}
+            {% if p.layout == 'history' and p.year == year %}
+                <li {% if page.year == year %}class="active"{% endif %}><a href="/about/history/{{ p.year }}/">{{ p.year }}: {{ p.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</ul>
