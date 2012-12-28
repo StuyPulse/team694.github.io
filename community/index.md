@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: outreach
 title: Community and Outreach
 ---
 ## Helping Out Other Teams
