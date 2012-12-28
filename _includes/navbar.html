@@ -19,6 +19,14 @@
                                 </ul>
                             </li>
                             <li{% if page.url == '/first/index.html' %} class="active"{% endif %}><a href="/first/">FIRST</a></li>
+                            <li class="dropdown{% if page.url contains '/community/' %} active{% endif %}">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/community/">Outreach</a></li>
+                                    <li><a href="/community/projects/">Projects</a></li>
+                                </ul>
+                            </li>
+                            <li{% if page.url == '/resources/index.html' %} class="active"{% endif %}><a href="/resources/">Resources</a></li>
                             <li{% if page.url contains '/blog/' %} class="active"{% endif %}><a href="/blog/">Blog</a></li>
                             <li{% if page.url == '/sponsors/index.html' %} class="active"{% endif %}><a href="/sponsors/">Sponsors</a></li>
                             <li{% if page.url == '/contact/index.html' %} class="active"{% endif %}><a href="/contact/">Contact</a></li>
