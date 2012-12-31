@@ -1,5 +1,5 @@
 ---
-layout: ec
+layout: page-with-sidebar
 title: Team Leadership
 positions:
     poe:            Joanna "Po" Zhu
