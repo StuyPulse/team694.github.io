@@ -7,7 +7,7 @@ years: [2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
         {% include history-nav.html %}
     </div>
     <div class="span9">
-        <h1>{{ page.year }}: {{ page.title }}</h1>
+        <h1>{% if page.year %}{{ page.year }}: {% endif %}{{ page.title }}</h1>
         {{ content }}
     </div>
 </div>
