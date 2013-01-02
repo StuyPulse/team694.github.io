@@ -7,6 +7,11 @@
     margin-top: 14px;
 }
 
-.sponsor-thumb {
+/* For sponsor logos */
+.sponsor-logo-container {
     text-align: center;
+}
+
+.sponsor-logo {
+    padding: 15px;
 }
