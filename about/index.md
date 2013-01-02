@@ -6,6 +6,10 @@ We are Stuyvesant High School’s award-winning FIRST Robotics team. Otherwise k
 
 FIRST (For Inspiration and Recognition of Science and Technology) is a multi-national, non-profit organization that, in the words of its founder, Dean Kamen, seeks "to transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology heroes." Through partnerships with local and global businesses, dedicated volunteers with professional backgrounds, and the tireless efforts of students, teachers, and parents, FIRST opens a whole new world for generations of young adults and equips them with the skills to achieve success.
 
+<div style="text-align: center">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/Wi5rb44fdxI" frameborder="0"> </iframe>
+</div>
+
 ## Team 694 Today
 Today, Team 694 is comprised of approximately 100 Stuy students and participates annually in the FIRST robotics competition. During our six week build season, we work daily in our robotics lab at Stuyvesant High School. Meetings are held nearly everyday during the season as dedicated team members build our competing robot with the help of gracious parents and volunteer mentors.
 
