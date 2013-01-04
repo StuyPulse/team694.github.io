@@ -16,6 +16,7 @@
     padding: 15px;
 }
 
+/* EC page */
 .ec-description {
     display: inline-block;
 }
@@ -23,4 +24,5 @@
 .ec-photo {
     float: left;
     padding-right: 10px;
+    padding-bottom: 10px;
 }
