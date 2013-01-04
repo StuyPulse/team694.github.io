@@ -15,3 +15,12 @@
 .sponsor-logo {
     padding: 15px;
 }
+
+.ec-description {
+    display: inline-block;
+}
+
+.ec-photo {
+    float: left;
+    padding-right: 10px;
+}
