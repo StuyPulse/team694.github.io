@@ -52,7 +52,8 @@ positions:
         photo: /img/ec/alex.jpg
     webmasters:
         name: Kevin Wang and Sungwoo Park
-        photo: /img/ec/sungwoo.jpg
+        photo1: /img/ec/kevin.jpg
+        photo2: /img/ec/sungwoo.jpg
     outreach:
         name: Naoki "Snooks" Cho
         photo: http://placehold.it/150x150
@@ -160,7 +161,8 @@ The Director of Animation coordinates the animation efforts for events like the 
 
 ### Webmasters <small>{{ page.positions.webmasters.name }}</small>
 <div markdown="1" class="ec-description">
-<img src="{{ page.positions.webmasters.photo }}" class="ec-photo">
+<img src="{{ page.positions.webmasters.photo1 }}" class="ec-photo">
+<img src="{{ page.positions.webmasters.photo2 }}" class="ec-photo">
 The job of the two Webmasters is to maintain any and all team websites. They are to update them with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
 
