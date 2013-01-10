@@ -1,34 +1,31 @@
 ---
 layout: default
 title: Team 694
+carousel:
+    - img: http://placehold.it/960x480
+      caption-header: First Carousel Item
+      caption-body: Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+      read-more-link: /about/
+    - img: http://placehold.it/960x480
+      caption-header: Second Carousel Item
+      caption-body: Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+    - img: http://placehold.it/960x480
+      caption-header: Third Carousel Item
+      caption-body: Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
 ---
 <div id="myCarousel" class="carousel slide">
     <!-- Carousel items -->
     <div class="carousel-inner">
-        <div class="active item">
-            <img src="http://placehold.it/960x480">
-            <div class="carousel-caption">
-                <h4>First Carousel Item</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                <a href="#" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>
+        {% for item in page.carousel %}
+            <div class="{% if forloop.first %}active {% endif %}item">
+                <img src="{{ item.img }}">
+                <div class="carousel-caption">
+                    <h4>{{ item.caption-header }}</h4>
+                    <p>{{ item.caption-body }}</p>
+                    {% if item.read-more-link %}<a href="{{ item.read-more-link }}" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>{% endif %}
+                </div>
             </div>
-        </div>
-        <div class="item">
-            <img src="http://placehold.it/960x480">
-            <div class="carousel-caption">
-                <h4>Second Carousel Item</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                <a href="#" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>
-            </div>
-        </div>
-        <div class="item">
-            <img src="http://placehold.it/960x480">
-            <div class="carousel-caption">
-                <h4>Third Carousel Item</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                <a href="#" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>
-            </div>
-        </div>
+        {% endfor %}
     </div>
     <!-- Carousel nav -->
     <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
