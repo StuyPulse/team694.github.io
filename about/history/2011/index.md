@@ -4,6 +4,11 @@ title: DESdroid
 year: 2011
 photo: http://placehold.it/360x240
 source-link: https://github.com/prog694/frc/tree/master/desdroid
+youtube-links:
+    - name: Championship 2011
+      url: http://www.youtube.com/playlist?list=PLB8F9DB80E49A663C&feature=plcp
+    - name: Conneticut Regional 2011
+      url: http://www.youtube.com/playlist?list=PL38D3A82C2C4A2B65&feature=plcp
 ---
 2011 for StuyPulse could be described with two words, roller coaster. After kickoff in January, we started to design, build and program our robot from scratch. After six weeks of intense work, we were rewarded with DESdroid, our new robot for the season. We showed up at the New York City Regional with a lot of confidence and we got our teeth kicked in. Through great strategy we made it to the quarter finals but the robot was not up to par. We won the Autodesk Animation Award at the New York City Regional which was a giant step for our very young animation team. Also, to his complete surprise, Alex Carrillo, our Director of Programming, became a Dean’s List Finalist at the New York Regional. We showed up in Connecticut with a new attitude and a new mini-bot known as the WildCard. We played as hard as we possibly could, but again did not advance past the quater-finals. We played great but our competition season appeared to be over but during the award ceremonies we walked away with the very prestigious Chairman's award for the second year in a row which qualified us for the championship. We walked into the Edward Jones Dome in St. Louis for the Championship ready to roll. We played better than we ever had after a coaching change and many minor adjustments to the robot. For the first time ever we were an alliance captain at the Championship. We joined forces with 195 and, for the second year in a row, 341. We finished in the quarter-finals, captaining the 5th alliance that gave the alliance it faced quite a run for their money.
 

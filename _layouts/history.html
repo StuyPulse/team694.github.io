@@ -18,10 +18,14 @@ years: [2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
     <div class="span9">
         <h1>{% if page.year %}{{ page.year }}: {% endif %}{{ page.title }}</h1>
         {% if page.photo %}<img src="{{ page.photo }}">{% endif %}
-        {% if page.source-link or page.year >= 2003 %}
+        {% if page.source-link or page.year >= 2003 or youtube-links  %}
             <ul>
                 {% if page.source-link %}<li><a href="{{ page.source-link }}">Source code</a></li>{% endif %}
                 {% if page.year >= 2003 %}<li><a href="http://www.thebluealliance.com/team/694/{{ page.year }}">Season stats on The Blue Alliance</a></li>{% endif %}
+                {% if page.youtube-links %}{% for link in page.youtube-links %}
+                        <li> <a href="{{link.url}}">{{link.name}}</a></li>
+                    {% endfor %}
+                {% endif %}
             </ul>
         {% endif %}
         {{ content }}
