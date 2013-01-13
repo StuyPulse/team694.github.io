@@ -2,7 +2,7 @@
 layout: history
 title: Yvette
 year: 2005
-photo: http://placehold.it/360x240
+photo: http://placehold.it/420x280
 ---
 Our fifth year (2004-05) as a team was one of our best. The City Council conferred on us a proclamation from the City of New York in honor of our 2003 robot, Lola. We had an amazing recruiting season; the entire lab was packed with over 70 students for the lab safety lecture!
 

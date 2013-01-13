@@ -17,17 +17,38 @@ years: [2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
     </div>
     <div class="span9">
         <h1>{% if page.year %}{{ page.year }}: {% endif %}{{ page.title }}</h1>
-        {% if page.photo %}<img src="{{ page.photo }}">{% endif %}
-        {% if page.source-link or page.year >= 2003 or youtube-links  %}
-            <ul>
-                {% if page.source-link %}<li><a href="{{ page.source-link }}">Source code</a></li>{% endif %}
-                {% if page.year >= 2003 %}<li><a href="http://www.thebluealliance.com/team/694/{{ page.year }}">Season stats on The Blue Alliance</a></li>{% endif %}
-                {% if page.youtube-links %}{% for link in page.youtube-links %}
-                        <li> <a href="{{link.url}}">{{link.name}}</a></li>
-                    {% endfor %}
-                {% endif %}
-            </ul>
+        {% if page.year %}
+            <div class="row">
+                <div class="span6">
+                    <div class="well">
+                        <div style="text-align: center">
+                            {% if page.photo %}<img src="{{ page.photo }}">{% endif %}
+                        </div>
+                    </div>
+                </div>
+                <div class="span3">
+                    {% if page.source-link or page.year >= 2003 %}
+                        <h4>Additional Resources</h4>
+                        <ul>
+                            {% if page.source-link %}<li><a href="{{ page.source-link }}">{{ page.title }}'s source code</a></li>{% endif %}
+                            {% if page.year >= 2003 %}<li><a href="http://www.thebluealliance.com/team/694/{{ page.year }}">{{ page.year }} season stats on The Blue Alliance</a></li>{% endif %}
+                        </ul>
+                    {% endif %}
+                    {% if page.youtube-links %}
+                        <h4>Match Videos on YouTube</h4>
+                        <ul>
+                            {% for link in page.youtube-links %}
+                                <li> <a href="{{link.url}}">{{link.name}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+            </div>
         {% endif %}
-        {{ content }}
+        <div class="row">
+            <div class="span9">
+                {{ content }}
+            </div>
+        </div>
     </div>
 </div>

@@ -2,7 +2,7 @@
 layout: history
 title: Larry
 year: 2004
-photo: http://placehold.it/360x240
+photo: http://placehold.it/420x280
 ---
 The 2004 game was quite complex. The four main challenges were as follows: 1) cap a 30" diameter ball on a goal; 2) grip a movable goal; 3) herd kick balls into an opening where a human player would then shoot the balls into a goal; and 4) perform a "pull-up" on a nine-foot-high bar. Larry, the "well-built 'bot" had a two-jointed arm and a gripper similar in structure to that of Lola's; however, the hooped arms were built to encircle the 30" ball. Larry sported a pneumatic PVC "wing" on either side of the main body which flipped out to herd in kick balls and was able to grip the moveable goal by using a specially designed lock-on goal grabber. The only challenge Larry did not execute was the ability to hang from the bar.
 

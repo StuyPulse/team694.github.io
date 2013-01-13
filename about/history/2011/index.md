@@ -2,7 +2,7 @@
 layout: history
 title: DESdroid
 year: 2011
-photo: http://placehold.it/360x240
+photo: http://placehold.it/420x280
 source-link: https://github.com/prog694/frc/tree/master/desdroid
 youtube-links:
     - name: Connecticut Regional videos

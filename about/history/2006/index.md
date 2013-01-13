@@ -2,7 +2,7 @@
 layout: history
 title: Joshua
 year: 2006
-photo: http://placehold.it/360x240
+photo: http://placehold.it/420x280
 source-link: http://stuypulse-svn.dreamhosters.com/ififrc/joshua/
 ---
 Our sixth year was one where we reached new horizons. We kicked off the year organizing and running a Lego League tournament for FIRST, in which twenty teams came to our school from around New York City with their "Ocean Odyssey" robots.
