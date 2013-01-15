@@ -30,3 +30,28 @@
 .history_link
 {
 }
+
+/* Footer nav style adapted from http://www.controlgroup.com/ */
+.footer-nav {
+  display: block;
+  margin-top: 10px;
+  font-family: "europa", sans-serif;
+}
+.footer-nav ul {
+  list-style: none;
+}
+.footer-nav ul li:first-child {
+  padding-left: 0;
+  padding-right: 2%;
+  border-right: 0px;
+}
+.footer-nav ul li {
+  float: left;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-right: 1px solid #EEE;
+}
+.footer-nav ul li:last-child {
+  padding-right: 0;
+  border-right: 0;
+}
