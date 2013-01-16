@@ -27,7 +27,15 @@
                                     <li><a href="/community/projects/">Projects</a></li>
                                 </ul>
                             </li>
-                            <li{% if page.url == '/resources/index.html' %} class="active"{% endif %}><a href="/resources/">Resources</a></li>
+                            <li class="dropdown{% if page.url contains '/resources/' %} active{% endif %}">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/resources/calendar/">Calendar</a></li>
+                                    <li><a href="/resources/">Tutorials and Resources</a></li>
+                                    <li><a href="/resources/press/">Press Materials</a></li>
+                                    <li><a href="/resources/forms/">Team Forms</a></li>
+                                </ul>
+                            </li>
                             <li{% if page.url contains '/blog/' %} class="active"{% endif %}><a href="/blog/">Blog</a></li>
                             <li{% if page.url == '/sponsors/index.html' %} class="active"{% endif %}><a href="/sponsors/">Sponsors</a></li>
                             <li{% if page.url == '/contact/index.html' %} class="active"{% endif %}><a href="/contact/">Contact</a></li>
