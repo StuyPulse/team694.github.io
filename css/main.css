@@ -42,14 +42,15 @@
 }
 .footer-nav ul li:first-child {
   padding-left: 0;
-  padding-right: 2%;
+  padding-right: 18px;
   border-right: 0px;
 }
 .footer-nav ul li {
   float: left;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 18px;
+  padding-right: 18px;
   border-right: 1px solid #EEE;
+  line-height: 24px;
 }
 .footer-nav ul li:last-child {
   padding-right: 0;
