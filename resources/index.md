@@ -11,4 +11,4 @@ Our presentations from Stuy Splash 2012 can be found [here](/resources/stuysplas
 From our robot code to this very website, everything we develop is open source. Check out our code on [GitHub](https://github.com/prog694)!
 
 ### Driver Station Troubleshooting Guide
-A document published by our Software Engineering division in 2011 with solutions to common Driver Station issues. Click [here](#) to download.
+A document published by our Software Engineering division in 2011 with solutions to common Driver Station issues. Click [here](/downloads/694%20Troubleshooting%20Guide.docx) to download.
