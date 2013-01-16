@@ -2,7 +2,7 @@
 layout: history
 title: Donovan
 year: 2010
-photo: http://placehold.it/420x280
+photo: /img/history/donovan.jpg
 source-link: https://github.com/prog694/frc/tree/master/donovan/trunk/Donovan
 youtube-links:
     - name: New York City Regional videos

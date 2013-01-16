@@ -2,7 +2,7 @@
 layout: history
 title: JoeBot
 year: 2012
-photo: http://placehold.it/420x280
+photo: /img/history/joebot.jpg
 source-link: https://github.com/prog694/joebot
 youtube-links:
     - name: New York City Regional videos

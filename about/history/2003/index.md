@@ -2,7 +2,7 @@
 layout: history
 title: Lola
 year: 2003
-photo: http://placehold.it/420x280
+photo: /img/history/lola.jpg
 ---
 2003 was the year where we truly learned the lesson, "don't overcomplicate things." We began our build season with visions of grandeur for both a vector drive and a three-piece arm needed to stack plastic crates. However, our end product, named Lola, was a simple tank drive robot with a two-piece arm and an ingenious pneumatic box gripper.
 
