@@ -2,6 +2,9 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<h3>Author: {{ page.author }}</h3>
-<h3>Date: {{page.date | date: "%m/%d/%y"}}</h3>
+<div class="author-info">
+    <p class="author-info"> By {{ page.author }} on {{page.date | date: "%A, %B %d, %Y"}}</p>
+</div>
+<article>
 {{ content }}
+</article>

@@ -26,3 +26,22 @@
     padding-right: 10px;
     padding-bottom: 10px;
 }
+
+.author-info{
+    font-size: 17px;
+}
+
+.author-info .date{
+    display: inline;
+    float: right;
+    position: relative;
+    right: 700px;
+}
+
+.author-info .author{
+    display: inline;
+}
+
+article{
+    padding-top: 10px;
+}
