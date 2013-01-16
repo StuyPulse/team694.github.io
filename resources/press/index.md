@@ -6,7 +6,7 @@ title: Press Materials
 - ['12 - '13 Press Packet](#)
 
 ### Team Charter
-Short description of the charter. Download the charter [here](#).
+Short description of the charter. Download the charter [here](/downloads/StuypulseCharter1213.doc).
 
 ### Team Magazines
 - [2012 Magazine](#)
