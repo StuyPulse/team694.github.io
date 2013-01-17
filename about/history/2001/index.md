@@ -3,6 +3,8 @@ layout: history
 title: Stuyle
 year: 2001
 photo: /img/history/stuyle.jpg
+awards:
+    - NY Finalist
 ---
 Our team was founded in the fall of 2000 by a forward-looking group of dedicated students and their parents. We rallied together team members, sponsors, mentors, and entrance fees to the F.I.R.S.T. robotics competition. After the game was unveiled in January, we sifted through many complex ideas and prototypes, but finally decided upon a simple design which affectionally came to be known as Stuyle.
 
