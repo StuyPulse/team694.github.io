@@ -3,7 +3,7 @@ layout: page
 title: Press Materials
 ---
 ### Press Packet
-- ['12 - '13 Press Packet](#)
+- ['11 - '12 Press Packet](/downloads/PressPacket12.pdf)
 
 ### Team Charter
 Short description of the charter. Download the charter [here](/downloads/StuypulseCharter1213.doc).
