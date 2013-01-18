@@ -2,7 +2,9 @@
 layout: page
 title: Stuy Splash 2012 Presentations
 ---
-Stuy Splash is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight. In 2012 it was held at the New York City College of Technology in Brooklyn on December 15th.
+> [Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
+
+In 2012 we held Stuy Splash at the New York City College of Technology in Brooklyn on December 15th. Below are the presentations from the event.
 
 ### Introduction to Drive Trains <small>with Joanna Zhu</small>
 > We will discuss the advantages, disadvantages, and limitations of various commonly used drivetrains, as well as how to assemble the Kitbot on Steroids (from Simbotics Team 1114).
