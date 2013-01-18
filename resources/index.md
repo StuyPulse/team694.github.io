@@ -34,6 +34,8 @@ A formal description of our team's structure and government.
 A statement of the long-term vision and goals of our team, and a plan for the year. The Operations Plan is prepared every summer by the incoming team leadership.
 
 #### Team Magazines
+Annual magazines produced by our marketing department.
+
 - [2010 Magazine](/downloads/magazines/10mag.pdf)
 - [2009 Magazine](/downloads/magazines/09mag.pdf)
 - [2008 Magazine](/downloads/magazines/08mag.pdf)
@@ -46,7 +48,7 @@ A statement of the long-term vision and goals of our team, and a plan for the ye
 - [2001 Magazine](/downloads/magazines/01mag.pdf)
 
 ### For Members
-#### Team Forms
-See [here](/resources/forms/) for required team forms.
+#### [Team Forms](/resources/forms/)
+Team members must fill out these forms in order to participate on the team.
 </div>
 </div>
