@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-sidebar
 title: Team Forms
 ---
 Team members must fill out these forms in order to participate on the team.

@@ -7,6 +7,7 @@ layout: default
         {{ content }}
     </div>
     <div class="span3">
+        <hr>
         {% if page.url == '/about/index.html' %}
             {% include sidebar/about.html %}
         {% elsif page.url == '/about/ec/index.html' %}
@@ -15,6 +16,8 @@ layout: default
             {% include sidebar/mentors.html %}
         {% elsif page.url == '/community/index.html' %}
             {% include sidebar/outreach.html %}
+        {% elsif page.url contains '/resources/' %}
+            {% include sidebar/resource.html %}
         {% else %}
             {{ page.sidebar-content }}
         {% endif %}
