@@ -26,7 +26,7 @@ One of the things that Team 694 takes pride in is our overwhelming diversity. Ou
 Team 694 is a championship team. we won the prestigious New York City Regional Chairman’s Award in 2005, were finalists in 2006’s New York City Regional, won at the New York City Regional in 2010, and also won of Hartford Regional's Chairman award three years in a row, starting in 2010. We have also participated in several championship events during our twelve years as a team.
 
 ## About Stuyvesant High School
-Stuyvesant High School, a.k.a. "Stuy", one of New York City's specialized math/science public high schools, has demonstrated a tradition of excellence for over a century. Entrance is based on a rigorous and competitive test called the SHSAT. About 900 of the top scorers are admitted each year out of approximately 26,000 students who take the test.
+[Stuyvesant High School](http://stuy.enschool.org/), a.k.a. "Stuy", one of New York City's specialized math/science public high schools, has demonstrated a tradition of excellence for over a century. Entrance is based on a rigorous and competitive test called the SHSAT. About 900 of the top scorers are admitted each year out of approximately 26,000 students who take the test.
 
 Totaling over 3000 students from all five city boroughs with diverse international backgrounds, Stuy is located in a modern, ten-story building in Lower Manhattan, moved from its old building on East 15th Street to its current site in 1992.
 
