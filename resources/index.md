@@ -14,7 +14,7 @@ From our robot code to [this very website](/about/website/), everything we devel
 
 We have uploaded the presentations from the event, and they are available for download.
 
-#### [2012 Beta Seminar](#)
+#### [2012 Beta Seminar](/resources/2012betaseminar/)
 Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stuyvesant High School in December, 2011.
 
 #### [Driver Station Troubleshooting Guide](/downloads/694%20Troubleshooting%20Guide.docx)
