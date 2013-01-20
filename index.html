@@ -9,71 +9,115 @@ carousel:
       caption-header: December 2012 - Stuypulse hosts Stuy Splash
       caption-body: Stuy Splash is a series of FIRST seminars and workshops. Learn more <a href="/community/projects/stuysplash/">here</a>.
 ---
-<div id="myCarousel" class="carousel slide">
-    <!-- Carousel items -->
-    <div class="carousel-inner">
-        {% for item in page.carousel %}
-            <div class="{% if forloop.first %}active {% endif %}item">
-                <img src="{{ item.img }}">
-                <div class="carousel-caption">
-                    <h4>{{ item.caption-header }}</h4>
-                    <p>{{ item.caption-body }}</p>
-                    {% if item.read-more-link %}<a href="{{ item.read-more-link }}" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>{% endif %}
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-    <!-- Carousel nav -->
-    <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-    <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div>
-
-<div class="row">
-    <div class="span8">
-        <h1>Latest News</h1>
-        {% for post in site.posts | limit: 5 %}
-            <div class="post-preview">
-                <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
-                <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}}</div>
-                <p>{{ post.content | split: "<!-- more -->" | first }}</p>
-                {% if post.content contains "<!-- more -->" %}
-                    <p><a href="{{ post.url }}">Read more &raquo;</a></p>
-                {% endif %}
-            </div>
-            <hr>
-        {% endfor %}
-        <p><h4><a href="/blog/">See older posts &raquo;</a></h4></p>
-    </div>
-    <div class="span4">
-        <h2>About Stuypulse</h2>
-        <div class="sponsor-logo-container">
-            <img class="front-page-thumb" src="/img/694-logo.png">
-        </div>
-        <p>We are <a href="http://stuy.enschool.org/">Stuyvesant High School’s</a> award-winning FIRST Robotics team. Otherwise known as Team 694, Stuypulse seeks to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST program. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.</p>
-        <p>Today, Team 694 is comprised of approximately 100 Stuy students and participates annually in the FIRST robotics competition. During our six week build season, we work daily in our robotics lab at Stuyvesant High School. Meetings are held nearly everyday during the season as dedicated team members build our competing robot with the help of gracious parents and volunteer mentors.</p>
-        <p><a href="/about/">Learn more &raquo;</a></p>
-
-        <h2>About FIRST</h2>
-        <div class="sponsor-logo-container">
-            <a href="http://www.usfirst.org/"><img class="front-page-thumb" src="/img/first-logo.png"></a>
-        </div>
-        <p>FIRST (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization aimed at inspiring an interest in science and technology in today’s youth. Since its founding in 1989 by inventor and entrepreneur Dean Kamen (creator of the Segway Human Transporter), FIRST has positively impacted the lives of youths around the world through its accessible and innovative programs. Designed to inspire and encourage participants to pursue careers in science, technology and math, these programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, many of which are helpful and necessary in future careers and endeavors.</p>
-        <p><a href="/about/first/">Learn more &raquo;</a></p>
-
-        <h2>Sponsors</h2>
-        We would like to thank our <a href="/sponsors/">sponsors</a>:
-        {% for p in site.pages %} {% if p.url == "/sponsors/index.html" %}
-                <div class="flexslider sponsor-logo-container">
-                    <div class="slides">
-                    {% for sponsor in p.sponsors %}
-                        <div class="slide" style="display: none">
-                            {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
-                            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
-                            {% if sponsor.site %}</a>{% endif %}
-                        </div>
-                    {% endfor %}
+{% comment %} Hack to properly paginate a subdirectory because Jekyll only renders pagination with the root index.html. {% endcomment %}
+{% unless page.url contains '/blog/page' %} {% comment %} Actual front page content should go in the unless block. {% endcomment %}
+    <div id="myCarousel" class="carousel slide">
+        <!-- Carousel items -->
+        <div class="carousel-inner">
+            {% for item in page.carousel %}
+                <div class="{% if forloop.first %}active {% endif %}item">
+                    <img src="{{ item.img }}">
+                    <div class="carousel-caption">
+                        <h4>{{ item.caption-header }}</h4>
+                        <p>{{ item.caption-body }}</p>
+                        {% if item.read-more-link %}<a href="{{ item.read-more-link }}" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>{% endif %}
                     </div>
                 </div>
-        {% endif %} {% endfor %}
+            {% endfor %}
+        </div>
+        <!-- Carousel nav -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
     </div>
-</div>
+
+    <div class="row">
+        <div class="span8">
+            <h1>Latest News</h1>
+            {% for post in site.posts | limit: 5 %}
+                <div class="post-preview">
+                    <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
+                    <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}}</div>
+                    <p>{{ post.content | split: "<!-- more -->" | first }}</p>
+                    {% if post.content contains "<!-- more -->" %}
+                        <p><a href="{{ post.url }}">Read more &raquo;</a></p>
+                    {% endif %}
+                </div>
+                <hr>
+            {% endfor %}
+            <p><h4><a href="/blog/">See older posts &raquo;</a></h4></p>
+        </div>
+        <div class="span4">
+            <h2>About Stuypulse</h2>
+            <div class="sponsor-logo-container">
+                <img class="front-page-thumb" src="/img/694-logo.png">
+            </div>
+            <p>We are <a href="http://stuy.enschool.org/">Stuyvesant High School’s</a> award-winning FIRST Robotics team. Otherwise known as Team 694, Stuypulse seeks to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST program. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.</p>
+            <p>Today, Team 694 is comprised of approximately 100 Stuy students and participates annually in the FIRST robotics competition. During our six week build season, we work daily in our robotics lab at Stuyvesant High School. Meetings are held nearly everyday during the season as dedicated team members build our competing robot with the help of gracious parents and volunteer mentors.</p>
+            <p><a href="/about/">Learn more &raquo;</a></p>
+
+            <h2>About FIRST</h2>
+            <div class="sponsor-logo-container">
+                <a href="http://www.usfirst.org/"><img class="front-page-thumb" src="/img/first-logo.png"></a>
+            </div>
+            <p>FIRST (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization aimed at inspiring an interest in science and technology in today’s youth. Since its founding in 1989 by inventor and entrepreneur Dean Kamen (creator of the Segway Human Transporter), FIRST has positively impacted the lives of youths around the world through its accessible and innovative programs. Designed to inspire and encourage participants to pursue careers in science, technology and math, these programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, many of which are helpful and necessary in future careers and endeavors.</p>
+            <p><a href="/about/first/">Learn more &raquo;</a></p>
+
+            <h2>Sponsors</h2>
+            We would like to thank our <a href="/sponsors/">sponsors</a>:
+            {% for p in site.pages %} {% if p.url == "/sponsors/index.html" %}
+                    <div class="flexslider sponsor-logo-container">
+                        <div class="slides">
+                            {% for sponsor in p.sponsors %}
+                                <div class="slide" style="display: none">
+                                    {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
+                                        <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+                                        {% if sponsor.site %}</a>{% endif %}
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+            {% endif %} {% endfor %}
+        </div>
+    </div>
+{% else %} {% comment %} The else block should be an exact copy of /blog/index.html. {% endcomment %}
+    {% for post in paginator.posts %}
+        <div class="post-preview">
+            <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
+            <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}}</div>
+            <p>{{ post.content | split: "<!-- more -->" | first }}</p>
+            {% if post.content contains "<!-- more -->" %}
+                <p><a href="{{ post.url }}">Read more &raquo;</a></p>
+            {% endif %}
+        </div>
+        {% unless forloop.last %}
+            <hr>
+        {% endunless %}
+    {% endfor %}
+    <div class="pagination pagination-centered">
+        <ul>
+            {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                    <li><a href="/blog/">&laquo;</a></li>
+                {% else %}
+                    <li><a href="/blog/page{{ paginator.previous_page }}/">&laquo;</a></li>
+                {% endif %}
+            {% else %}
+                <li class="disabled"><span>&laquo;</span></li>
+            {% endif %}
+            {% for count in (1..paginator.total_pages) %}
+                {% if paginator.page == forloop.index %}
+                    <li class="active"><span>{{ count }}</span></li>
+                {% elsif count == 1 %}
+                    <li><a href="/blog/">{{ count }}</a></li>
+                {% else %}
+                    <li><a href="/blog/page{{ count }}/">{{ count }}</a></li>
+                {% endif %}
+            {% endfor %}
+            {% if paginator.next_page %}
+                <li><a href="/blog/page{{ paginator.next_page }}/">&raquo;</a></li>
+            {% else %}
+                <li class="disabled"><span>&raquo;</span></li>
+            {% endif %}
+        </ul>
+    </div>
+{% endunless %}
