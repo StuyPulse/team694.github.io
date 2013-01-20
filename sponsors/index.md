@@ -1,68 +1,79 @@
 ---
 layout: page
 title: Sponsors
+sponsors:
+    - name: D.E. Shaw &amp; Co.
+      logo: http://placehold.it/160x120
+      site: http://www.deshaw.com/
+    - name: Credit Suisse
+      logo: http://placehold.it/160x120
+      site: https://www.credit-suisse.com/us/en/
+    - name: Con Edison
+      logo: http://placehold.it/160x120
+      site: http://www.coned.com/
+    - name: The Wallace Foundation
+      logo: http://placehold.it/160x120
+      site: http://www.wallacefoundation.org/Pages/default.aspx
+    - name: SEP Tech Consulting
+      logo: http://placehold.it/160x120
+    - name: SHS Alumni Association
+      logo: http://placehold.it/160x120
+      site: http://www.shsaa.org/
+    - name: SHS Parents' Association
+      logo: http://placehold.it/160x120
+      site: http://stuy-pa.org/home/
+    - name: SHS Class of 1961
+      logo: http://placehold.it/160x120
+    - name: W.Y.N.
+      logo: http://placehold.it/160x120
+    - name: Joe Ricci
+      logo: http://placehold.it/160x120
+    - name: Abby &amp; Tom Ferguson
+      logo: http://placehold.it/160x120
+    - name: Ann &amp; Donovan Moore
+      logo: http://placehold.it/160x120
+special-thanks:
+    - name: Control Group
+      logo: http://placehold.it/160x120
+      site: http://www.controlgroup.com/
+    - name: Funny Garbage
+      logo: http://placehold.it/160x120
+      site: http://www.funnygarbage.com/
+    - name: JavaRanch
+      logo: http://placehold.it/160x120
+      site: http://www.javaranch.com/
+    - name: New York Stock Exchange
+      logo: http://placehold.it/160x120
+      site: https://nyse.nyx.com/
 ---
 <div class="row">
+{% for sponsor in page.sponsors %}
     <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
+        {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
+        <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+        {% if sponsor.site %}</a>{% endif %}
     </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3">
-        <div class="well">
-            <h4>Interested in becoming a sponsor?</h4>
-            <p>Scroll down for details!</p>
+    {% if forloop.index0 == 2 %}
+        <div class="span3">
+            <div class="well">
+                <h4>Interested in becoming a sponsor?</h4>
+                <p>Scroll down for details!</p>
+            </div>
         </div>
-    </div>
-</div>
-<div class="row">
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-</div>
-<div class="row">
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
+    {% endif %}
+{% endfor %}
 </div>
 
 ## Special Thanks To
 
 <div class="row">
+{% for thanks in page.special-thanks %}
     <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
+        {% if thanks.site %}<a href="{{ thanks.site }}">{% endif %}
+        <img class="sponsor-logo" alt="{{ thanks.name }}" title="{{ thanks.name }}" src="{{ thanks.logo }}">
+        {% if thanks.site %}</a>{% endif %}
     </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
-    <div class="span3 sponsor-logo-container">
-        <img class="sponsor-logo" src="http://placehold.it/160x120">
-    </div>
+{% endfor %}
 </div>
 
 ---

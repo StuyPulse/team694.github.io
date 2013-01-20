@@ -49,7 +49,7 @@ carousel:
         <div class="sponsor-logo-container">
             <img class="front-page-thumb" src="/img/694-logo.png">
         </div>
-        <p>We are Stuyvesant High School’s award-winning FIRST Robotics team. Otherwise known as Team 694, Stuypulse seeks to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST program. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.</p>
+        <p>We are <a href="http://stuy.enschool.org/">Stuyvesant High School’s</a> award-winning FIRST Robotics team. Otherwise known as Team 694, Stuypulse seeks to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST program. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.</p>
         <p>Today, Team 694 is comprised of approximately 100 Stuy students and participates annually in the FIRST robotics competition. During our six week build season, we work daily in our robotics lab at Stuyvesant High School. Meetings are held nearly everyday during the season as dedicated team members build our competing robot with the help of gracious parents and volunteer mentors.</p>
         <p><a href="/about/">Learn more &raquo;</a></p>
 
@@ -61,10 +61,19 @@ carousel:
         <p><a href="/about/first/">Learn more &raquo;</a></p>
 
         <h2>Sponsors</h2>
-        We would like to thank our sponsors:
-        <div class="sponsor-logo-container">
-            <a href="#"><img class="sponsor-logo" src="http://placehold.it/160x120"></a>
-        </div>
-        <p><a href="/sponsors/">All sponsors &raquo;</a></p>
+        We would like to thank our <a href="/sponsors/">sponsors</a>:
+        {% for p in site.pages %} {% if p.url == "/sponsors/index.html" %}
+                <div class="flexslider sponsor-logo-container">
+                    <div class="slides">
+                    {% for sponsor in p.sponsors %}
+                        <div class="slide" style="display: none">
+                            {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
+                            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+                            {% if sponsor.site %}</a>{% endif %}
+                        </div>
+                    {% endfor %}
+                    </div>
+                </div>
+        {% endif %} {% endfor %}
     </div>
 </div>
