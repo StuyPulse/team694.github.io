@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Documents &amp; Tutorials
 ---
 <div markdown="1" class="row">
 <div class="span8">
