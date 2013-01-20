@@ -31,6 +31,18 @@
     padding-bottom: 10px;
 }
 
+.photo-left {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.photo-right {
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
 /* Footer nav style adapted from http://www.controlgroup.com/ */
 .footer-nav {
   display: block;
