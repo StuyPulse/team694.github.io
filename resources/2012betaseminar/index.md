@@ -20,7 +20,7 @@ New York, NY 10282
 </div>
 
 ## Links and Resources
-- [Download presentation](/downloads/Beta%20Seminar%20Presentation.pptx)
+- [Download presentation](/downloads/docs/Beta%20Seminar%20Presentation.pptx)
 - [Team 341 scoring with the Kinect](http://www.youtube.com/watch?v=8qSt1ZUmtjI)
 - [Example Command-based Programming project](https://github.com/prog694/Beta2012/tree/master/DESdroidCommand2/src/edu/stuy)
 - [Example use of new cRIO module order](https://github.com/prog694/Beta2012/blob/donovan-simple/2012DonovanBeta/src/edu/wpi/first/wpilibj/templates/RobotTemplate.java)

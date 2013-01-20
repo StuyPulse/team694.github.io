@@ -17,7 +17,7 @@ We have uploaded the presentations from the event, and they are available for do
 #### [2012 Beta Seminar](/resources/2012betaseminar/)
 Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stuyvesant High School in December, 2011.
 
-#### [Driver Station Troubleshooting Guide](/downloads/694%20Troubleshooting%20Guide.docx)
+#### [Driver Station Troubleshooting Guide](/downloads/docs/694%20Troubleshooting%20Guide.docx)
 A document published by our Software Engineering division in 2011 with solutions to common Driver Station issues.
 
 ### Tutorials
@@ -34,28 +34,28 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 <div class="span4">
 ## Stuypulse
 ### Team Documents
-#### ['11 - '12 Press Packet](/downloads/PressPacket12.pdf)
+#### ['11 - '12 Press Packet](/downloads/teamdocs/PressPacket12.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
-#### [Team Charter](/downloads/StuypulseCharter1213.doc)
+#### [Team Charter](/downloads/teamdocs/StuypulseCharter1213.doc)
 A formal description of our team's structure and government.
 
-#### ['12 - '13 Operations Plan](/downloads/2012-2013OpsPlan.pdf)
+#### ['12 - '13 Operations Plan](/downloads/teamdocs/2012-2013OpsPlan.pdf)
 A statement of the long-term vision and goals of our team, and a plan for the year. The Operations Plan is prepared every summer by the incoming team leadership.
 
 #### Team Magazines
 Annual magazines produced by our marketing department.
 
-- [2010 Magazine](/downloads/magazines/10mag.pdf)
-- [2009 Magazine](/downloads/magazines/09mag.pdf)
-- [2008 Magazine](/downloads/magazines/08mag.pdf)
-- [2007 Magazine](/downloads/magazines/07mag.pdf)
-- [2006 Magazine](/downloads/magazines/06mag.pdf)
-- [2005 Magazine](/downloads/magazines/05mag.pdf)
-- [2004 Magazine](/downloads/magazines/04mag.pdf)
-- [2003 Magazine](/downloads/magazines/03mag.pdf)
-- [2002 Magazine](/downloads/magazines/02mag.pdf)
-- [2001 Magazine](/downloads/magazines/01mag.pdf)
+- [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
+- [2009 Magazine](/downloads/teamdocs/magazines/09mag.pdf)
+- [2008 Magazine](/downloads/teamdocs/magazines/08mag.pdf)
+- [2007 Magazine](/downloads/teamdocs/magazines/07mag.pdf)
+- [2006 Magazine](/downloads/teamdocs/magazines/06mag.pdf)
+- [2005 Magazine](/downloads/teamdocs/magazines/05mag.pdf)
+- [2004 Magazine](/downloads/teamdocs/magazines/04mag.pdf)
+- [2003 Magazine](/downloads/teamdocs/magazines/03mag.pdf)
+- [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
+- [2001 Magazine](/downloads/teamdocs/magazines/01mag.pdf)
 
 ### For Members
 #### [Team Forms](/resources/forms/)
