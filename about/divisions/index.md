@@ -16,7 +16,7 @@ Because most incoming members having little or no programming experience, we tak
 
 Team 694 also believes in open source software and the free distribution of our code to the greater community. All of our code is free for anyone to look at and learn from. Note: Some files may not be under the same open license, please check the comments of each file for specific licensing information.
 
-Though more resources are soon to come, our subversion repository with all code (past and present) is available for viewing at www.github.com/prog694 (popup).
+All of our code (past and present) is open source and available for viewing on [GitHub](https://github.com/prog694).
 
 ## Marketing and Logistics
 <img class="photo-right" src="/img/divisions/marketing2012.jpg">
@@ -30,4 +30,4 @@ Our animation division specializes in creating 3-D models and manipulating them 
 The videography and photography divisions are responsible for capturing the spirit of FIRST and Stuyvesant Robotics through still images and high-definition video. Documenting our build season and hosted events such as the TriBeCa Film Festival Booksale and the FIRST Lego League Manhattan Practice Tournament, the division captures the raw material used to create our press releases and promotional materials. The videography division is also responsible for creating promotional videos using professional software such as Final Cut Pro, Livetype, and Adobe Premiere Pro. The videography division is also responsible for doing sound post-production work on animations.
 
 ## Website
-Our website team consists of a hardworking Marketing sub team. They are responsible for everything related to the website, including but not limited to, hosting, back-end programming (done in PHP), front-end programming (done in CSS, HTML, JavaScript), and content. To learn more about this year's new site, visit the About the Site page.
+Our website team consists of a hardworking Marketing sub team. They are responsible for everything related to the website, including but not limited to, hosting, back-end programming (done in PHP), front-end programming (done in CSS, HTML, JavaScript), and content. To learn more about this year's new site, visit the [About This Website](/about/website/) page.

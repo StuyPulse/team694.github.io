@@ -10,6 +10,8 @@ layout: default
         <hr>
         {% if page.url == '/about/index.html' %}
             {% include sidebar/about.html %}
+        {% elsif page.url == '/about/divisions/index.html' %}
+            {% include sidebar/divisions.html %}
         {% elsif page.url == '/about/ec/index.html' %}
             {% include sidebar/ec.html %}
         {% elsif page.url == '/about/mentors/index.html' %}
