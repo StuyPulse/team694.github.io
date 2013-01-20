@@ -31,7 +31,7 @@ carousel:
 <div class="row">
     <div class="span8">
         <h1>Latest News</h1>
-        {% for post in site.posts | limit: 3 %}
+        {% for post in site.posts | limit: 5 %}
             <div class="post-preview">
                 <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
                 <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}}</div>
