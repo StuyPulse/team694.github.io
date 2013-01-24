@@ -2,7 +2,7 @@
 layout: history
 title: DESbot
 year: 2008
-photo: http://placehold.it/420x280
+photo: /img/history/desbot.jpg
 source-link: http://stuypulse-svn.dreamhosters.com/ififrc/desbot/
 awards:
     - NY Engineering Inspiration Awards

@@ -2,7 +2,7 @@
 layout: history
 title: Joshua
 year: 2006
-photo: http://placehold.it/420x280
+photo: /img/history/joshua.jpg
 source-link: http://stuypulse-svn.dreamhosters.com/ififrc/joshua/
 awards:
     - NY Regional Finalist

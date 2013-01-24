@@ -2,7 +2,7 @@
 layout: history
 title: Yvette
 year: 2005
-photo: http://placehold.it/420x280
+photo: /img/history/yvette.jpg
 awards:
     - NY Woodie Flowers Regional Award (Tom Ferguson)
     - NY Regional Chairman's Award

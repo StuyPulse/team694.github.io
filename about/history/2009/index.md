@@ -2,7 +2,7 @@
 layout: history
 title: Michael1
 year: 2009
-photo: http://placehold.it/420x280
+photo: /img/history/michael1.jpg
 source-link: https://github.com/prog694/frc/tree/master/michael1/trunk/java/Michael1
 youtube-links:
     - name: New York City Regional videos
