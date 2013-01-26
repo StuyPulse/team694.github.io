@@ -76,3 +76,8 @@
 article{
     padding-top: 10px;
 }
+
+/* community project list style */
+.project-description{
+    height:200px;
+}
