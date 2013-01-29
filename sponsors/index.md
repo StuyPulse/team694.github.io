@@ -3,54 +3,56 @@ layout: page
 title: Sponsors
 sponsors:
     - name: D.E. Shaw &amp; Co.
-      logo: http://placehold.it/160x120
+      logo: /img/sponsors/deshaw.gif
       site: http://www.deshaw.com/
-    - name: Credit Suisse
-      logo: http://placehold.it/160x120
-      site: https://www.credit-suisse.com/us/en/
-    - name: Con Edison
-      logo: http://placehold.it/160x120
-      site: http://www.coned.com/
     - name: The Wallace Foundation
-      logo: http://placehold.it/160x120
+      logo: /img/sponsors/wallacefoundation.gif
       site: http://www.wallacefoundation.org/Pages/default.aspx
+    - name: Con Edison
+      logo: /img/sponsors/conedison.gif
+      site: http://www.coned.com/
     - name: SEP Tech Consulting
-      logo: http://placehold.it/160x120
+      logo: /img/sponsors/septechconsulting.gif
+    - name: Credit Suisse
+      logo: /img/sponsors/creditsuisse.gif
+      site: https://www.credit-suisse.com/us/en/
     - name: SHS Alumni Association
-      logo: http://placehold.it/160x120
+      logo: /img/sponsors/shsaa.gif
       site: http://www.shsaa.org/
     - name: SHS Parents' Association
-      logo: http://placehold.it/160x120
       site: http://stuy-pa.org/home/
     - name: SHS Class of 1961
-      logo: http://placehold.it/160x120
-    - name: W.Y.N.
-      logo: http://placehold.it/160x120
-    - name: Joe Ricci
-      logo: http://placehold.it/160x120
-    - name: Abby &amp; Tom Ferguson
-      logo: http://placehold.it/160x120
     - name: Ann &amp; Donovan Moore
-      logo: http://placehold.it/160x120
+      site: http://www.timeinc.com/aboutus/executives/moore.php
+    - name: Abby &amp; Tom Ferguson
+      site: http://www.coxandco.com/management/tom-ferguson.html
+    - name: Bloomberg
+      logo: /img/sponsors/bloomberg.gif
+      site: http://www.bloomberg.com/
+    - name: W.Y.N.
+    - name: Joe Ricci
+    - name: Evan Greene
 special-thanks:
+    - name: CodeRanch
+      site: http://www.coderanch.com/
     - name: Control Group
-      logo: http://placehold.it/160x120
+      logo: /img/sponsors/controlgroup.png
       site: http://www.controlgroup.com/
     - name: Funny Garbage
-      logo: http://placehold.it/160x120
+      logo: /img/sponsors/funnygarbage.gif
       site: http://www.funnygarbage.com/
-    - name: JavaRanch
-      logo: http://placehold.it/160x120
-      site: http://www.javaranch.com/
-    - name: New York Stock Exchange
-      logo: http://placehold.it/160x120
-      site: https://nyse.nyx.com/
+    - name: The Roberts Group
+      site: http://www.trgrp.com/
 ---
 <div class="row">
 {% for sponsor in page.sponsors %}
     <div class="span3 sponsor-logo-container">
         {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
-        <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+        {% if sponsor.logo %}
+            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+        {% else %}
+            <div class="sponsor-text"><h4><strong>{{ sponsor.name }}</strong></h4></div>
+        {% endif %}
         {% if sponsor.site %}</a>{% endif %}
     </div>
     {% if forloop.index0 == 2 %}
@@ -60,6 +62,13 @@ special-thanks:
                 <p>Scroll down for details!</p>
             </div>
         </div>
+    </div>
+<div class="row">
+    {% endif %}
+    {% capture modulo %}{{ forloop.index0 | modulo:4 }}{% endcapture %}
+    {% if modulo == '2' %} {% comment %} To make the rows align nicely. {% endcomment %}
+    </div>
+<div class="row">
     {% endif %}
 {% endfor %}
 </div>
@@ -70,7 +79,11 @@ special-thanks:
 {% for thanks in page.special-thanks %}
     <div class="span3 sponsor-logo-container">
         {% if thanks.site %}<a href="{{ thanks.site }}">{% endif %}
-        <img class="sponsor-logo" alt="{{ thanks.name }}" title="{{ thanks.name }}" src="{{ thanks.logo }}">
+        {% if thanks.logo %}
+            <img class="sponsor-logo" alt="{{ thanks.name }}" title="{{ thanks.name }}" src="{{ thanks.logo }}">
+        {% else %}
+            <div class="sponsor-text"><h4><strong>{{ thanks.name }}</strong></h4></div>
+        {% endif %}
         {% if thanks.site %}</a>{% endif %}
     </div>
 {% endfor %}
