@@ -2,6 +2,10 @@
 layout: page
 title: About FIRST
 ---
+<div markdown="1" style="text-align: center">
+    ![FIRST logo](/img/first-horizontal-logo.gif)
+</div>
+
 ## FIRST at a glance
 FIRST (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization aimed at inspiring an interest in science and technology in today’s youth. Since its founding in 1989 by inventor and entrepreneur Dean Kamen (creator of the Segway Human Transporter), FIRST has positively impacted the lives of youths around the world through its accessible and innovative programs. Designed to inspire and encourage participants to pursue careers in science, technology and math, these programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, many of which are helpful and necessary in future careers and endeavors.
 
@@ -23,22 +27,33 @@ Awards are bestowed based upon a wide range of criteria which rewards not only t
 
 Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please visit our Team section.
 
-Click Here for the Official FRC site!
+[Go to the official FRC site &raquo;](http://www.usfirst.org/roboticsprograms/frc)
 
-<div class="row">
-    <div class="span6">
-        <h3>FTC</h3>
-        <p>FTC is a national program which allows creative and intelligent kids to compete in head to head in various sports related challenges. The participants, composed of coaches, mentors, and volenteers, are responsible for designing, building, and programming their robot to compete in alliances against other robots. The annual challenges require strategic planning and dedication from all team members. Awards are given during the competition both for the robot and real world achomplishments.</p>
-        <p>Started in 2005, FVC (FIRST Vex Challenge) was FIRST's newest competition. Similar to FRC, FVC was also directed toward high school students with all of the same FIRST ideals and spirit. However, the primary purpose of FVC was to reach more students through its more affordable and accessible nature. This was partially achieved by making the primary competition material a significantly upgraded version of the FIRST Robovation Kit, now known as the Vex Robotics Design System.</p>
-        <p>Despite its recent beginnings, FVC quickly grew to accommodate over 400 teams and some 4,000 students in 2006. Unlike its older counterpart, FVC does not include the same time limitations on robot construction as FRC since the game is released around September and competitions commence in November and run until March. A championship event is then held simultaneously with that of FRC in Atlanta, Georgia during late April.</p>
-        <p>In 2008, FVC was discontinued in favor of FTC (FIRST Tech Challenge).</p>
-        <p>Click Here for the Official FTC site!</p>
-    </div>
-    <div class="span6">
-        <h3>FLL</h3>
-        <p>Started in 1999, the FLL (FIRST Lego League) is directed toward the younger audience of 9-14 years where the primary material of construction is the Lego Mindstorms Kit. Quickly expanding, the FLL now includes over 9,200 teams in 45 countries around the world. Meant to instill the same wonderment in science and technology at an earlier age, the FLL is comprised of two major parts. Participants must first create a robot to complete a new challenge released each year as well and then research and propose a solution to a current technological problem. The challenge is released in September with the competition season taking place from November to January.</p>
-        <p>FLL Tournaments hosted by Team 694</p>
-        <p>Since 2005, Team 694 has hosted the Manhattan Borough Lego League Tournament. In addition, we have provided FLL mentoring to local schools such as I.S. 89 across the street from Stuyvesant. Visit our Outreach page to learn more about our efforts to inspire middle school students.</p>
-        <p>Click Here for the Official FLL site!</p>
-    </div>
+<div markdown="1" class="row">
+<div class="span6">
+
+### FTC
+FTC is a national program which allows creative and intelligent kids to compete in head to head in various sports related challenges. The participants, composed of coaches, mentors, and volenteers, are responsible for designing, building, and programming their robot to compete in alliances against other robots. The annual challenges require strategic planning and dedication from all team members. Awards are given during the competition both for the robot and real world achomplishments.
+
+Started in 2005, FVC (FIRST Vex Challenge) was FIRST's newest competition. Similar to FRC, FVC was also directed toward high school students with all of the same FIRST ideals and spirit. However, the primary purpose of FVC was to reach more students through its more affordable and accessible nature. This was partially achieved by making the primary competition material a significantly upgraded version of the FIRST Robovation Kit, now known as the Vex Robotics Design System.
+
+Despite its recent beginnings, FVC quickly grew to accommodate over 400 teams and some 4,000 students in 2006. Unlike its older counterpart, FVC does not include the same time limitations on robot construction as FRC since the game is released around September and competitions commence in November and run until March. A championship event is then held simultaneously with that of FRC in Atlanta, Georgia during late April.
+
+In 2008, FVC was discontinued in favor of FTC (FIRST Tech Challenge).
+
+[Go to the official FTC site &raquo;](http://www.usfirst.org/roboticsprograms/ftc)
+
+</div>
+<div class="span6">
+
+### FLL
+Started in 1999, the FLL (FIRST Lego League) is directed toward the younger audience of 9-14 years where the primary material of construction is the Lego Mindstorms Kit. Quickly expanding, the FLL now includes over 9,200 teams in 45 countries around the world. Meant to instill the same wonderment in science and technology at an earlier age, the FLL is comprised of two major parts. Participants must first create a robot to complete a new challenge released each year as well and then research and propose a solution to a current technological problem. The challenge is released in September with the competition season taking place from November to January.
+
+#### FLL Tournaments hosted by Team 694
+
+Since 2005, Team 694 has hosted the Manhattan Borough Lego League Tournament. In addition, we have provided FLL mentoring to local schools such as I.S. 89 across the street from Stuyvesant. Visit our Outreach page to learn more about our efforts to inspire middle school students.
+
+[Go to the official FLL site &raquo;](http://www.usfirst.org/roboticsprograms/fll)
+
+</div>
 </div>
