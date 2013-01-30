@@ -25,6 +25,11 @@
     padding-top: 20px;
 }
 
+.sponsor-text-front-page {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /* EC and Mentors pages */
 .ec-description {
     display: inline-block;

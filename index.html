@@ -70,7 +70,11 @@ carousel:
                             {% for sponsor in p.sponsors %}
                                 <div class="slide" style="display: none">
                                     {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
-                                        <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+                                        {% if sponsor.logo %}
+                                            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+                                        {% else %}
+                                            <div class="sponsor-text-front-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
+                                        {% endif %}
                                         {% if sponsor.site %}</a>{% endif %}
                                 </div>
                             {% endfor %}
