@@ -3,7 +3,7 @@ layout: page
 title: About FIRST
 ---
 <div markdown="1" style="text-align: center">
-    ![FIRST logo](/img/first-horizontal-logo.gif)
+    [![FIRST logo](/img/first-horizontal-logo.gif)](http://www.usfirst.org/)
 </div>
 
 ## FIRST at a glance
