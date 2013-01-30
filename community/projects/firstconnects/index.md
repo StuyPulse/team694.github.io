@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-sidebar
 title: FIRSTConnects.Us
 ---
 [FIRSTConnects.Us](http://firstconnects.us/) started out in response to Dean's Homework, a challenge to keep track of FIRST Robotics alumni. When it was first written, it was a database of all team members, mentors, alumni, and FIRST volunteers, and it grew to hold hundreds of users from around the globe.

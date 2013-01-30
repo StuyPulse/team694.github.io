@@ -18,6 +18,8 @@ layout: default
             {% include sidebar/mentors.html %}
         {% elsif page.url == '/community/index.html' %}
             {% include sidebar/outreach.html %}
+        {% elsif page.url contains '/community/projects/' %}
+            {% include sidebar/project.html %}
         {% elsif page.url contains '/resources/' %}
             {% include sidebar/resource.html %}
         {% else %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-sidebar
 title: Team Manager
 ---
 Description of the Team Manager.

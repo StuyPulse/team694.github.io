@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-sidebar
 title: FIRSTthoughts
 ---
 FIRSTthoughts collects the expertise of individual team members and mentors, and shares it with the greater FIRST community, for years to come, in the spirit of gracious professionalism. This project aims to tackle the “wealth gap” in experience and resources between veteran and rookie teams, and make the FIRST experience as valuable as possible for all participants.
