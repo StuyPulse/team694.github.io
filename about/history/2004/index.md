@@ -2,7 +2,7 @@
 layout: history
 title: Larry
 year: 2004
-photo: http://placehold.it/420x280
+photo: /img/history/larry.jpg
 awards:
     - NY KPC&B Entrepreunership
     - NY Regional quarterfinalist
