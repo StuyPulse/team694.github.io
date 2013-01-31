@@ -8,7 +8,7 @@ Team 694 would like to thank any individual who has mentored us in the past, inc
 
 ### Rafael Colón
 <div markdown="1" class="ec-description">
-<img src="/img/mentors/colon.jpg" class="ec-photo">
+<img src="/img/mentors/colon.jpg" class="ec-photo" alt="Rafael Colón">
 Rafael gives his time generously all year long. Our team is able to work in our school’s lab until nine at night after school, on weekends, and throughout school vacations only because he is willing to be with us. Rafael is so completely dedicated that three years ago, when he sustained a life-threatening injury in our lab, he not only called us every day to see how things were going, but also made the robotics lab his first stop after being discharged from the hospital. Rafael's spirit that robotics is your home away from home" has become the Stuypulse mantra.
 
 As a teacher, Rafael knows how to guide members without doing their work for them. He starts off the day with a team-wide meeting where everyone, from president to newbie, figures out exactly what to do, how to do it, and what is needed to accomplish it. By holding us strictly to our deadlines, we are taught time management skills. More significantly, Rafael emphasizes teamwork above victory. When tempers flare in the lab, he reminds us that what we'll remember years from now are the people we worked with, not the matches we won.
@@ -41,7 +41,7 @@ Read about Joe in the Woodie Flowers essay that we wrote for him! Click here!
 
 ### Joe Blay
 <div markdown="1" class="ec-description">
-<img src="/img/mentors/blay.jpg" class="ec-photo">
+<img src="/img/mentors/blay.jpg" class="ec-photo" alt="Joe Blay">
 Like Joe Ricci, Joe Blay was a former StuyPulse student, graduating in 2009. While a student, he was an engineer and the main driver. After graduating, he made sure to stay with the team, despite his time studying in Stony Brook University. He mentors every aspect of the team in one way or another trying to make sure that every division of 694 is constantly growing. His main departments are engineering and strategy. During competitions, he works on the drive team, as the coach, setting up our match strategy and making sure the drivers are ready to play as well as making sure that the strategy team is gets us ready for every match and the elimination rounds..
 </div>
 
@@ -57,13 +57,13 @@ Mark helped our team become more wired than ever. He repaired and then donated s
 
 ### Dan Lavin
 <div markdown="1" class="ec-description">
-<img src="/img/mentors/dan.jpg" class="ec-photo">
+<img src="/img/mentors/dan.jpg" class="ec-photo" alt="Dan Lavin">
 Dan Lavin was integral in helping us use this year's new control system. He pored over manuals with us and contributed to everything electronics-related, including wiring signal lights and bringing in old security cameras to scrap for potentiometers. He was key in learning how to use the new camera and make precise movements in autonomous mode.
 </div>
 
 ### Jeanne Boyarsky
 <div markdown="1" class="ec-description">
-<img src="/img/mentors/jeanne.jpg" class="ec-photo">
+<img src="/img/mentors/jeanne.jpg" class="ec-photo" alt="Jeanne Boyarsky">
 Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addition to her volunteering at JavaRanch. She has not only provided invaluable guidance with code, but also has kept us organized, and helped lead us to our Innovation in Control award in 2010.
 
 Read about Jeanne in the Woodie Flowers essay that we wrote for her! Click here!
@@ -76,7 +76,7 @@ Robert was our head animation mentor in 2009 and made our fledgling animation te
 
 ### Jim Potter
 <div markdown="1" class="ec-description">
-<img src="/img/mentors/jim.jpg" class="ec-photo">
+<img src="/img/mentors/jim.jpg" class="ec-photo" alt="Jim Potter">
 James Potter was invaluable to the engineering department this year. In the words of President Seth Berg, “When I first saw him, I thought he was an old mentor who decided to come back.” Jim jumped right into the robotics spirit, attended numerous meetings and competitions, and offered innovative solutions that greatly improved the robot, such as the empty cell holder.
 </div>
 
