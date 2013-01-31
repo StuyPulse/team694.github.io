@@ -22,7 +22,7 @@ years: [2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
                 <div class="span6">
                     <div class="well">
                         <div style="text-align: center">
-                            {% if page.photo %}<img src="{{ page.photo }}">{% endif %}
+                            {% if page.photo %}<img src="{{ page.photo }}" alt="{{ page.title }}">{% endif %}
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ years: [2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
                 {{ content }}
                 {% if page.awards %}
                     <hr>
-                    <h3>Awards</h4>
+                    <h3>Awards</h3>
                     <ul>
                         {% for award in page.awards %}
                             <li>{{ award }}</li>
