@@ -91,7 +91,7 @@ carousel:
         <div class="post-preview">
             <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
             <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}}</div>
-            <p>{{ post.content | split: "<!-- more -->" | first }}</p>
+            {{ post.content | split: "<!-- more -->" | first }}
             {% if post.content contains "<!-- more -->" %}
                 <p><a href="{{ post.url }}">Read more &raquo;</a></p>
             {% endif %}
