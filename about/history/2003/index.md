@@ -3,6 +3,7 @@ layout: history
 title: Lola
 year: 2003
 photo: /img/history/lola.jpg
+flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632642129019/
 awards:
     - NY Regional Champion
     - PA Regional semifinalist

@@ -4,6 +4,7 @@ title: Tom
 year: 2007
 photo: /img/history/tom.jpg
 source-link: http://stuypulse-svn.dreamhosters.com/ififrc/tom/
+flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632646273578/
 awards:
     - NY UL Industrial Safety Award
     - NY Regional Finalist

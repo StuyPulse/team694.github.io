@@ -34,6 +34,12 @@ years: [2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
                             {% if page.year >= 2003 %}<li><a href="http://www.thebluealliance.com/team/694/{{ page.year }}">{{ page.year }} season stats on The Blue Alliance</a></li>{% endif %}
                         </ul>
                     {% endif %}
+                    {% if page.flickr-collection-url %}
+                        <h4>Photo Gallery</h4>
+                        <ul>
+                            <li><a href="{{ page.flickr-collection-url }}">{{ page.year }} photos on Flickr</a></li>
+                        </ul>
+                    {% endif %}
                     {% if page.youtube-links %}
                         <h4>Match Videos on YouTube</h4>
                         <ul>

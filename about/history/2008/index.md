@@ -4,6 +4,7 @@ title: DESbot
 year: 2008
 photo: /img/history/desbot.jpg
 source-link: http://stuypulse-svn.dreamhosters.com/ififrc/desbot/
+flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632643550497/
 awards:
     - NY Engineering Inspiration Awards
     - 1190 Great Sportsmanship Award

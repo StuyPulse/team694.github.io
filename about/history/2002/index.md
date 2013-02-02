@@ -3,6 +3,7 @@ layout: history
 title: Jack
 year: 2002
 photo: /img/history/jack.jpg
+flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632642127367/
 awards:
     - NY Engineering Inspiration Award
     - NY Regional quarterfinalist

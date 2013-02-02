@@ -3,6 +3,7 @@ layout: history
 title: Stuyle
 year: 2001
 photo: /img/history/stuyle.jpg
+flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632642125679/
 awards:
     - NY Finalist
 ---

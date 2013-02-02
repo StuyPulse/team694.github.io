@@ -4,6 +4,7 @@ title: Michael1
 year: 2009
 photo: /img/history/michael1.jpg
 source-link: https://github.com/prog694/frc/tree/master/michael1/trunk/java/Michael1
+flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632643594119/
 youtube-links:
     - name: New York City Regional videos
       url: http://www.youtube.com/playlist?list=PLC554C0FE476EBF01&feature=plcp
