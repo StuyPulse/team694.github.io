@@ -25,7 +25,7 @@ Participants are given only six weeks to complete their robot using a standard k
 
 Awards are bestowed based upon a wide range of criteria which rewards not only technical excellence but also the team’s fulfillment of FIRST ideals such as gracious professionalism and team spirit. The Chairman’s Award is the most prestigious award available in FIRST and is awarded to the team who best embodies these ideals.
 
-Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please [visit our Team section.](http://new.stuypulse.com/about
+Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please [visit our Team section.](http://new.stuypulse.com/about)
 
 [Go to the official FRC site &raquo;](http://www.usfirst.org/roboticsprograms/frc)
 
