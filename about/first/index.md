@@ -12,7 +12,7 @@ FIRST (For Inspiration and Recognition in Science and Technology) is a multi-nat
 ## Growth and Impact
 The FIRST Robotics Competition was first held in 1992 with only 28 teams in a high school gymnasium in New Hampshire. Since then, FIRST has grown tremendously, now reaching over 130,000 students with numerous mentors and volunteers. FIRST has also expanded to include countries around the world, including Brazil, Great Britain, Israel, and Canada.
 
-According to a recent study done by Brandeis University, students who participate in FIRST are far more likely to pursue a career in science, technology or engineering and achieve a more extensive education in their field of choice. For more information on the impact of FIRST and the Brandeis study, please [visit the FIRST website](http://www.usfirst.org/)
+According to a recent study done by Brandeis University, students who participate in FIRST are far more likely to pursue a career in science, technology or engineering and achieve a more extensive education in their field of choice. For more information on the impact of FIRST and the Brandeis study, please [visit the FIRST website.](http://www.usfirst.org/aboutus/impact)
 
 ## Gracious Professionalism
 Originally coined by Dr. Woodie Flowers, “Gracious Professionalism” is much more than a pleasant phrase. One of the core concepts of FIRST, Gracious Professionalism is meant to apply not only to behavior during FIRST competitions, but also as a guide for participants throughout the rest of their lives.
