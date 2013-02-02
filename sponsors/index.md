@@ -34,6 +34,7 @@ sponsors:
     - name: Evan Greene
 special-thanks:
     - name: CodeRanch
+      logo: /img/sponsors/coderanch.gif
       site: http://www.coderanch.com/
     - name: Control Group
       logo: /img/sponsors/controlgroup.png
