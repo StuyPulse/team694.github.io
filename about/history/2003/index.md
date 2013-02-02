@@ -11,4 +11,4 @@ awards:
 
 At the New York City Regional Lola shone and she was selected by McKee High School in Staten Island to join their alliance. With the strength of our teams working together, we sped over the "bridge" knocking boxes towards our side and knocking down our opponent's stacks. Our alliance became the New York City Regional Winner!
 
-In Fall 2003, the Stuyvesant High School Alumni Association kicked off a year-long centennial celebration with a walk from the old school building on East 14th Street to the new location in Battery Park City. Our 2002 robot, Jack, led the "Stuy Strut" as he was driven by our various team members and even our principal, Stanley Teitel.
+In Fall 2003, the Stuyvesant High School Alumni Association kicked off a year-long centennial celebration with a walk from the old school building on East 15th Street to the new location in Battery Park City. Our 2002 robot, Jack, led the "Stuy Strut" as he was driven by our various team members and even our principal, Stanley Teitel.
