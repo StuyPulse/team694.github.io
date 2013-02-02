@@ -2,6 +2,8 @@
 layout: page-with-sidebar
 title: Team Manager
 ---
-In an effort to better organize data of the team, our web team has developed Team Manager. The neat interface conveniently allows team leaders to enter members' information much more easily than the conventional spreadsheet. Tracking the status of forms and papers has never been easier. This project is open source, so other teams are free to fork our code and use it themselves.
+In an effort to better unify and organize the logistics and paperwork of our team, our web team has developed the Team Manager. The Team Manager interface allows team leaders to conveniently record and organize members' information much more effectively than with a traditional spreadsheet. Tracking the status of forms and documents (such as safety tests, team dues, medical documents, trip permission forms, etc.) has never been easier.
 
-Check out the source code for Team Manager on [GitHub](https://github.com/prog694/teammanager).
+Furthermore, since our team depends on team parents to provide dinner for the team on meeting days, the Team Manager includes a utility which facilitates the organization of meal assignments.
+
+This project is open source, so others are free to fork our code and adapt it for their own teams. Check out the [source code](https://github.com/prog694/teammanager)!
