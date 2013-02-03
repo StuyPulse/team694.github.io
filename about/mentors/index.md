@@ -15,28 +15,28 @@ As a teacher, Rafael knows how to guide members without doing their work for the
 
 Rafael was selected by New York 1, the local news channel at NYC, as the New Yorker of the week for his hardwork, commitment, and contributions.The article and the video for the report can be found here !
  
-Read about Mr. Colón in the Woodie Flowers essay that we wrote for him! Click here!
+[Read about Mr. Colón in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/colon)
 </div>
 
 ### Tom Ferguson
 <div markdown="1" class="ec-description">
 Tom Ferguson is an engineer with years of experience. He serves as Vice President of Engineering at Cox and Co., the industry leader in aerospace design. He exhibits a polite personality and is a responsible leader. He has a will not of iron, but of aluminum honeycomb. And he is one of the most beloved and respected mentors of the Stuyvesant Robotics Team. Tom Ferguson has inspired generations of engineers on the team. Tom's deft understanding of many mathematical and physical concepts in engineering is invaluable to us when we design and build our robot. He encourages us to use abstract formulas and laws to determine concrete requirements and limitations in our designs
 
-Read about Tom in the Woodie Flowers essay that we wrote for him! Click here!
+[Read about Tom in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/tom)
 </div>
 
 ### Ron Kunicki
 <div markdown="1" class="ec-description">
 Dedicated, resourceful, precise, compassionate, funny, - who is this jolly ole mentor who never fails to show up to save the day? None other than engineer and "father of the team," Ron Kunicki. Not only has his easygoing nature captured our hearts and minds, his dedication to FIRST has given him an essential role on our team. When asked why he was so committed, he replied, "With team 694, my mind continues to be entertained, and sometimes I even have to go home and research the problems the team asks me." Whatever the reason, Ron's leadership and dedication have become a vital part of the team. Ron joined the team as a parent for his daughter Theo, who has graduated and is currently a student at MIT, yet he continues to return year after year.
  
-Read about Ron in the Woodie Flowers essay that we wrote for him! Click here!
+[Read about Ron in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/ron)
 </div>
 
 ### Joe "The Beast" Ricci
 <div markdown="1" class="ec-description">
 Joe Ricci is a FIRST success story. He joined the team in its second year, and since then, he's never left. While attending medical school, he has devoted more hours to our team than any other mentor, parent, or member in the eight years he has been with us. On graduating in 2003, Joe acquired a heightened sense of purpose, responsibility, and integrity that contributed greatly to his success in medical school and his research pursuits. As one of the driving forces behind our team, he strives to foster in us the same values that FIRST instilled in him.
 
-Read about Joe in the Woodie Flowers essay that we wrote for him! Click here!
+[Read about Joe in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/joe)
 </div>
 
 ### Joe Blay
@@ -66,7 +66,7 @@ Dan Lavin was integral in helping us use this year's new control system. He pore
 <img src="/img/mentors/jeanne.jpg" class="ec-photo" alt="Jeanne Boyarsky">
 Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addition to her volunteering at JavaRanch. She has not only provided invaluable guidance with code, but also has kept us organized, and helped lead us to our Innovation in Control award in 2010.
 
-Read about Jeanne in the Woodie Flowers essay that we wrote for her! Click here!
+[Read about Jeanne in her Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/jeanne)
 </div>
 
 ### Robert Lin

@@ -16,6 +16,8 @@ layout: default
             {% include sidebar/ec.html %}
         {% elsif page.url == '/about/mentors/index.html' %}
             {% include sidebar/mentors.html %}
+        {% elsif page.url contains '/about/mentors/woodieflowers/' %}
+            {% include sidebar/woodieflowersessay.html %}
         {% elsif page.url == '/about/website/index.html' %}
             {% include sidebar/website.html %}
         {% elsif page.url == '/community/index.html' %}
