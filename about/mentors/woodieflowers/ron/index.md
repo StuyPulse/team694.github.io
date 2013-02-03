@@ -20,7 +20,7 @@ team, but also worked to create a new generation of machinists by teaching anyon
 helping hand.
 
 “I have a fun job, I help people,” Ron said of his involvement in our team. “Teachers
-like Mr. Colón [our faculty advisor], do not necessarily have the time to work on everything,
+like Mr. Colón \[our faculty advisor\], do not necessarily have the time to work on everything,
 so I come in.” Almost everyone on the team has a story to tell about how Ron helped them,
 and when he's in the lab, he's usually seen patiently teaching new members. Said one
 freshman, “He focuses on us individually and treats us like people, not projects.” He also shows
