@@ -15,6 +15,7 @@
     Standards: HTML5, CSS3
     Components: Jekyll, Bootstrap
     Software: Vim ...and Emacs
+    Hosted on: GitHub Pages
     Inspired by: Control Group (http://www.controlgroup.com/)
 
     Source: https://github.com/prog694/prog694.github.com
