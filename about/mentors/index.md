@@ -1,6 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Mentors
+description: The success of Stuypulse is thanks to the generous help of our mentors, who tutor, assist, and teach us.
 ---
 Team 694's successes are not without the help of our mentors. We are extremely thankful for the help they provide to us and it is due to the valued contribution of each mentor that Team 694 has been able to change lives throughout its history.
 

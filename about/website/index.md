@@ -1,6 +1,7 @@
 ---
 layout: page-with-sidebar
 title: About This Website
+description: Stuypulse.com was built in 2013 using Jekyll and Boostrap, and the source code is available on Github.
 ---
 The current iteration of Stuypulse.com, which launched in February 2013, replaced the aging PHP framework and website design which had been in use since 2008. Originally developed by the Stuypulse Web Team of 2013, led by webmasters Kevin Wang and Sungwoo Park, the 2013 Stuypulse.com reboot was both a functional and visual modernization endeavor.
 

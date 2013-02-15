@@ -1,6 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Community and Outreach
+description: Stuypulse Robotics is actively engaged with its community, offering demonstrations of the robot and teaching children at the FLL level.
 ---
 ## Helping Out Other Teams
 Team 694 is always ready to help out teams in struggle, whether it is during the hectic build season or at the competitions themselves. Throughout the years, we have visited other teams and invited them to our lab to share knowledge and experiences about safety, organization, fundraising, as well as engineering and software engineering. Even during competitions, our team is ready to send members to help other teams with their robots, and cheer with them as they win awards or advance to the finals. Helping other teams also provides us a way to bond with them and form a long-lasting friendships, an incentive that has kept us in action. 

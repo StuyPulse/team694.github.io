@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Documents &amp; Tutorials
+description: Stuypulse has many resources available, including source code, documents, and tutorials on a variety of subjects.
 ---
 <div markdown="1" class="row">
 <div class="span8">

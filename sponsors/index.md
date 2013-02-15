@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sponsors
+description: Stuypulse Robotics can function and participate in FIRST due to the generous support of our many sponsors. All donations support the team and help to keep it running.
 sponsors:
     - name: D.E. Shaw &amp; Co.
       logo: /img/sponsors/deshaw.gif
