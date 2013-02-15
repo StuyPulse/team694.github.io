@@ -11,7 +11,7 @@ Have a recruitment meeting within the first few weeks of the year, preferably in
 Ask your school administration and faculty advisor if you can display old robots in heavily tracked areas of the building (make sure that you have at least one team member monitoring the robot at all times!). Try to demonstrate the robots at the recruitment itself, and show videos of the competition challenges.
 
 ### Get involved
-Ask if the robotics team can appear at school Open Houses, freshmen orientations, Parents’ Association meetings, homecomings, or any other high-profile events at the school.  Not only will you wow potential recruits, but you're also getting the word out to potential sponsors.
+Ask if the robotics team can appear at school Open Houses, freshmen orientations, Parents' Association meetings, homecomings, or any other high-profile events at the school.  Not only will you wow potential recruits, but you're also getting the word out to potential sponsors.
 
 ### Diversify
 Students not interested in power tools? Show them how to use AutoCAD software. A robotics team does far more than build a robot, they also design, program, drive, advertise, and write. Starting a public relations department that handles sponsor relations, fundraising, and outreach is a great way to get people involved in the team who might not ordinarily be interested.

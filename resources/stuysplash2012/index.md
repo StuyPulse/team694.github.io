@@ -45,10 +45,10 @@ In 2012 we held Stuy Splash at the New York City College of Technology in Brookl
 [Download presentation](https://docs.google.com/presentation/d/1kQa_0J94D-I8ghu8fpdEAJUOKhxlFVpPaGAvzfn7xQ8/edit)
 
 ### Scouting and Conceptual Design Flaws <small>with Sebastian Conybeare</small>
-> We will identify “obvious” design errors from a strategist’s perspective, and how to avoid them. You will also learn about scouting, how to make it effective, how to use that information, and how to win with just a boxbot.
+> We will identify “obvious” design errors from a strategist's perspective, and how to avoid them. You will also learn about scouting, how to make it effective, how to use that information, and how to win with just a boxbot.
 
 ### Robot Electronics <small>with Samuel Lijin</small>
-> We will begin with a brief overview of the current FRC control system and then proceed to discuss tips of the trade, including effective tools, recommended wiring configurations, and a brief overview of troubleshooting procedures, followed by what’s new in 2013.
+> We will begin with a brief overview of the current FRC control system and then proceed to discuss tips of the trade, including effective tools, recommended wiring configurations, and a brief overview of troubleshooting procedures, followed by what's new in 2013.
 [Download presentation](/downloads/splash2012/Robot%20Electronics.pdf)
 
 ### Animation and CGI <small>with Alex Pan</small>

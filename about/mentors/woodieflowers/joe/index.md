@@ -14,7 +14,7 @@ Despite his many other obligations, Joe never hesitates to sacrifice his time an
 for the team. Training to become a surgeon at the Weil Cornell School of Medicine, he
 spends his days conducting hospital research and serving as a volunteer EMT. But when the
 build season starts, he puts in as many hours as any of us do. Alumnus Andrew
-Mandelbaum ('08) says, “He’s studying for medical school, in his ambulance saving lives,
+Mandelbaum ('08) says, “He's studying for medical school, in his ambulance saving lives,
 and after all that, he still comes here. Watching him balance that and robotics and do all the
 things he does has convinced me that I can do the same.”
 
@@ -44,7 +44,7 @@ in. Thanks to his meticulous attention to safety, we've never had another major 
 since.
 
 Joe Ricci's fusion of engineering ability, deep involvement, affable personality makes him
-one of our team’s most valuable assets. A 694 team member for eight years, he's willing to
-share the same traits which have earned his team members’ respect. Through mentoring,
+one of our team's most valuable assets. A 694 team member for eight years, he's willing to
+share the same traits which have earned his team members' respect. Through mentoring,
 Joe brings back the same experiences that turned him into a Stuyvesant Robotics' FIRST
 success story— which makes him deserving of this year's Woodie Flowers Award.

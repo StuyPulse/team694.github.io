@@ -80,19 +80,19 @@ The President of Software Engineering (PSE) primarily manages the development of
 ### Vice President of Engineering <small>{{ page.positions.vpoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.vpoe.photo %} <img src="{{ page.positions.vpoe.photo }}" class="ec-photo" alt="Vice President of Engineering"> {% endif %}
-The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President’s absence. He/she should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
+The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. He/she should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
 </div>
 
 ### Vice President of Marketing <small>{{ page.positions.vpom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.vpom.photo %} <img src="{{ page.positions.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
-The Vice President of Marketing is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President’s absence. He/she should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
+The Vice President of Marketing is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. He/she should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
 </div>
 
 ### Vice President of Software Engineering <small>{{ page.positions.vpse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.vpse.photo %} <img src="{{ page.positions.vpse.photo }}" class="ec-photo" alt="Vice President of Software Engineering"> {% endif %}
-The Vice President of Software Engineering is considered to be the second-in-command in developing robot code. The VPSE should have knowledge of what the PSE is currently doing and be able to direct the programmers in the event of the PSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
+The Vice President of Software Engineering is considered to be the second-in-command in developing robot code. The VPSE should have knowledge of what the PSE is currently doing and be able to direct the programmers in the event of the PSE's absence, as well as collaborate with the President of Engineering in managing the overall robot project.
 </div>
 
 ### Director of Outreach <small>{{ page.positions.outreach.name }}</small>
@@ -158,13 +158,13 @@ The Director of Safety makes sure everyone is following safety rules in the lab.
 ### Director of Media <small>{{ page.positions.media.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.media.photo %} <img src="{{ page.positions.media.photo }}" class="ec-photo" alt="Director of Media"> {% endif %}
-The Director of Media is primarily responsible for maintaining the team’s image through the creation and upkeep of all promotional materials and maintaining an audiovisual narrative of the team throughout the year.
+The Director of Media is primarily responsible for maintaining the team's image through the creation and upkeep of all promotional materials and maintaining an audiovisual narrative of the team throughout the year.
 </div>
 
 ### Director of Animation <small>{{ page.positions.animation.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.animation.photo %} <img src="{{ page.positions.animation.photo }}" class="ec-photo" alt="Director of Animation"> {% endif %}
-The Director of Animation is responsible for coordinating the team’s animation efforts, including, but not limited to, participation in the annual FIRST animation competition and off-season competitions, and creating promotional animations.
+The Director of Animation is responsible for coordinating the team's animation efforts, including, but not limited to, participation in the annual FIRST animation competition and off-season competitions, and creating promotional animations.
 </div>
 
 ### Webmasters <small>{{ page.positions.webmasters.name }}</small>

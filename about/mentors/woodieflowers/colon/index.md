@@ -5,11 +5,11 @@ title: 'Woodie Flowers Nomination: Rafael Colón'
 When Mr. Rafael Colón first started mentoring Team 694, it was accidental. Our rookie team
 abruptly needed a chaperone for the National Championship, and the robotics trip that was
 supposed to last three days has now lasted ten years. Now, his leadership defines how our
-team is run, and whether he’s motivating us, helping us organize our time, or guiding the
+team is run, and whether he's motivating us, helping us organize our time, or guiding the
 more than 100 members of our team, Rafael has left an indelible mark on generations of
 team members.
 
-Rafael generously gives his time all year long. Our team is able to work in our school’s lab
+Rafael generously gives his time all year long. Our team is able to work in our school's lab
 until ten at night after school, on weekends, and throughout school vacations only because
 he is willing to be with us. Rafael is so completely dedicated that three years ago, when he
 sustained a life-threatening injury in our lab, he not only called us every day to see how
@@ -25,7 +25,7 @@ tools to mills, and the safety procedures associated with each. As team alumnus 
 puts it, "if he hadn't showed me that safety guard on the band saw, I'd be missing a finger
 now.”
 
-Rafael’s influence on students goes beyond the team. By basing assignments in his robotics
+Rafael's influence on students goes beyond the team. By basing assignments in his robotics
 class on FIRST game challenges, Rafael brings the technology, teamwork, creative thinking,
 and good organization of a FIRST team into the classroom. Team members are encouraged
 to take these classes both to gain technical skills and to learn how to communicate their

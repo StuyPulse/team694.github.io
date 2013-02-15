@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About FIRST
-description: FIRST is a non-profit organization aimed at inspiring an interest in science and technology in today’s youth. It hosts the FRC, FTC, and FLL robotics competitions.
+description: FIRST is a non-profit organization aimed at inspiring an interest in science and technology in today's youth. It hosts the FRC, FTC, and FLL robotics competitions.
 ---
 <div markdown="1" style="text-align: center">
     [![FIRST logo](/img/first-horizontal-logo.gif)](http://www.usfirst.org/)
 </div>
 
 ## FIRST at a glance
-FIRST (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization aimed at inspiring an interest in science and technology in today’s youth. Since its founding in 1989 by inventor and entrepreneur Dean Kamen (creator of the Segway Human Transporter), FIRST has positively impacted the lives of young students around the world through its accessible and innovative programs. Designed to inspire and encourage participants to pursue careers in science, technology and math, these programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, which are helpful and often necessary in future careers and endeavors.
+FIRST (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization aimed at inspiring an interest in science and technology in today's youth. Since its founding in 1989 by inventor and entrepreneur Dean Kamen (creator of the Segway Human Transporter), FIRST has positively impacted the lives of young students around the world through its accessible and innovative programs. Designed to inspire and encourage participants to pursue careers in science, technology and math, these programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, which are helpful and often necessary in future careers and endeavors.
 
 ## Growth and Impact
 The FIRST Robotics Competition was first held in 1992 with only 28 teams in a high school gymnasium in New Hampshire. Since then, FIRST has grown tremendously, now reaching over 130,000 students with numerous mentors and volunteers. FIRST has also expanded to include countries around the world, including Brazil, Great Britain, Israel, and Canada.
@@ -24,7 +24,7 @@ FRC (FIRST Robotics Competition) is the oldest competition in FIRST and geared t
 
 Participants are given only six weeks to complete their robot using a standard kit of parts from FIRST as well as guidance from volunteers and mentors. At the end of this period, teams send their robots to their first regional competition and may also choose to participate in one other regional. The regional competitions occur in several locations around the nation from early March through April. The FRC championship event is then held by FIRST in St. Louis, Missouri around mid to late April.
 
-Awards are bestowed based upon a wide range of criteria which rewards not only technical excellence but also the team’s fulfillment of FIRST ideals such as gracious professionalism and team spirit. The Chairman’s Award is the most prestigious award available in FIRST and is awarded to the team who best embodies these ideals.
+Awards are bestowed based upon a wide range of criteria which rewards not only technical excellence but also the team's fulfillment of FIRST ideals such as gracious professionalism and team spirit. The Chairman's Award is the most prestigious award available in FIRST and is awarded to the team who best embodies these ideals.
 
 Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please [visit our Team section.](http://new.stuypulse.com/about)
 

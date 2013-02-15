@@ -2,15 +2,15 @@
 layout: page-with-sidebar
 title: 'Woodie Flowers Nomination: Jeanne Boyarsky'
 ---
-Jeanne Boyarsky, Team 694’s mentor, has dedicated herself to FIRST for 
+Jeanne Boyarsky, Team 694's mentor, has dedicated herself to FIRST for 
 four years.  In that time, not only has she volunteered at the NYC Regional, 
-served as a judge for FLL competitions, and co-run NY FIRST’s presence at the 
+served as a judge for FLL competitions, and co-run NY FIRST's presence at the 
 World Maker Faire, but the significance of her programming mentoring can be 
-seen across all divisions of our team. Jeanne’s passionate and professional 
+seen across all divisions of our team. Jeanne's passionate and professional 
 involvement with robotics has not only led our team to success, but has also 
 taught us valuable skills that will be useful for years to come.
 
-A technology expert in the banking industry, Jeanne’s experience and 
+A technology expert in the banking industry, Jeanne's experience and 
 leadership skills have allowed her to teach professionalism in software 
 development and effective communication among team members. Her friendly 
 attitude has also transformed many new members who are at first shy and 
@@ -35,7 +35,7 @@ To Jeanne, robotics is not only about building a robot. As she says, “There
 are all the subtle things that become part of them, like team work. When they 
 don't realize they are learning, they learn more.”
 
-Jeanne’s involvement goes beyond Stuypulse. Not only has she recruited 
+Jeanne's involvement goes beyond Stuypulse. Not only has she recruited 
 many new mentors for rookie teams, but when Jeanne heard that the Steel 
 Hawks did not have a programming mentor, she began assisting them as well.
 

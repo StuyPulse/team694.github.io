@@ -14,7 +14,7 @@ Ron brought more than his expertise as an architect to our team; he also brought
 knowledge that can only be acquired from years of experience. In our lab, Ron is considered
 the authority on everything related to machining, but his innate understanding of how machines
 function is what surprises us most. At a time when our team depended on the creation of a solid
-design for our 2006 robot’s tower, Ron helped fabricate a spiral mechanism that pushed us to
+design for our 2006 robot's tower, Ron helped fabricate a spiral mechanism that pushed us to
 the finals in the 2006 New York Regional. Ron not only utilized his skills to benefit the entire
 team, but also worked to create a new generation of machinists by teaching anyone needing a
 helping hand.
