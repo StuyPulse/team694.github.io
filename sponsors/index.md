@@ -57,9 +57,8 @@ special-thanks:
     </div>
     {% if forloop.index0 == 2 %}
         <div class="span3">
-            <div class="well">
+            <div class="btn become-sponsor">
                 <h4>Interested in becoming a sponsor?</h4>
-                <p>Scroll down for details!</p>
             </div>
         </div>
     </div>
