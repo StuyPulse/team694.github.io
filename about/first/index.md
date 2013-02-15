@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About FIRST
+description: FIRST is a non-profit organization aimed at inspiring an interest in science and technology in today’s youth. It hosts the FRC, FTC, and FLL robotics competitions.
 ---
 <div markdown="1" style="text-align: center">
     [![FIRST logo](/img/first-horizontal-logo.gif)](http://www.usfirst.org/)

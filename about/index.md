@@ -1,6 +1,7 @@
 ---
 layout: page-with-sidebar
 title: About Us
+description: We are Stuyvesant HS’s award-winning FIRST Robotics team. Team 694 cultivates skills in engineering, programming, marketing, and team leadership.
 ---
 We are Stuypulse, Stuyvesant High School’s award-winning FIRST Robotics team. Otherwise known as Team 694, we seek to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST competitions. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.
 

@@ -1,6 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Divisions
+description: Stuypulse Robotics is divided into engineering, software engineering, marketing, and animation.
 ---
 ## Engineering
 <img class="photo-right" src="/img/divisions/engineering2012.jpg" alt="Engineering">
