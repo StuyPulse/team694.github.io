@@ -26,7 +26,7 @@ Participants are given only six weeks to complete their robot using a standard k
 
 Awards are bestowed based upon a wide range of criteria which rewards not only technical excellence but also the team's fulfillment of FIRST ideals such as gracious professionalism and team spirit. The Chairman's Award is the most prestigious award available in FIRST and is awarded to the team who best embodies these ideals.
 
-Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please [visit our Team section.](http://stuypulse.com/about)
+Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please [visit our Team section.](/about/)
 
 [Go to the official FRC site &raquo;](http://www.usfirst.org/roboticsprograms/frc)
 
@@ -52,7 +52,7 @@ Started in 1999, the FLL (FIRST Lego League) is directed toward the younger audi
 
 #### FLL Tournaments hosted by Team 694
 
-Since 2005, Team 694 has hosted the Manhattan Borough Lego League Tournament. In addition, we have provided FLL mentoring to local schools such as I.S. 89 across the street from Stuyvesant. [Visit our Outreach page](http://stuypulse.com/community) to learn more about our efforts to inspire middle school students.
+Since 2005, Team 694 has hosted the Manhattan Borough Lego League Tournament. In addition, we have provided FLL mentoring to local schools such as I.S. 89 across the street from Stuyvesant. [Visit our Outreach page](/community/) to learn more about our efforts to inspire middle school students.
 
 [Go to the official FLL site &raquo;](http://www.usfirst.org/roboticsprograms/fll)
 
