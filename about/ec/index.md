@@ -30,7 +30,7 @@ positions:
     electronics:
         name: Mika Jain
     field:
-        name: Mustafa Shaikh
+        name: N/A
     strategy:
         name: Peter Jasko
         photo: /img/ec/peter.jpg
