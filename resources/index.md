@@ -44,9 +44,8 @@ A formal description of our team's structure and government.
 #### ['12 - '13 Operations Plan](/downloads/teamdocs/2012-2013OpsPlan.pdf)
 A statement of the long-term vision and goals of our team, and a plan for the year. The Operations Plan is prepared every summer by the incoming team leadership.
 
-#### Team Magazines
-Annual magazines produced by our marketing department.
-
+### Team Publications
+#### Magazines
 - [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
 - [2009 Magazine](/downloads/teamdocs/magazines/09mag.pdf)
 - [2008 Magazine](/downloads/teamdocs/magazines/08mag.pdf)
@@ -58,6 +57,7 @@ Annual magazines produced by our marketing department.
 - [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
 - [2001 Magazine](/downloads/teamdocs/magazines/01mag.pdf)
 
+#### Scrapbooks
 - [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
 - [2009 Scrapbook](/downloads/teamdocs/scrapbooks/09scrapbook.pdf)
 
