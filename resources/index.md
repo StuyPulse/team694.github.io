@@ -1,4 +1,3 @@
----
 layout: page
 title: Documents &amp; Tutorials
 description: Stuypulse has many resources available, including source code, documents, and tutorials on a variety of subjects.
@@ -57,6 +56,9 @@ Annual magazines produced by our marketing department.
 - [2003 Magazine](/downloads/teamdocs/magazines/03mag.pdf)
 - [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
 - [2001 Magazine](/downloads/teamdocs/magazines/01mag.pdf)
+
+- [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
+- [2009 Scrapbook](/downloads/teamdocs/scrapbooks/09scrapbook.pdf)
 
 ### For Members
 #### [Team Forms](/resources/forms/)
