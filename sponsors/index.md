@@ -43,6 +43,9 @@ special-thanks:
     - name: Funny Garbage
       logo: /img/sponsors/funnygarbage.gif
       site: http://www.funnygarbage.com/
+    - name: The Roberts Group
+      logo: /img/sponsors/robertsgroup.gif
+      site: http://www.trgrp.com/
 ---
 <div class="row">
 {% for sponsor in page.sponsors %}
