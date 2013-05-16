@@ -35,7 +35,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 <div class="span4">
 ## Stuypulse
 ### Team Documents
-#### ['11 - '12 Press Packet](/downloads/teamdocs/PressPacket12.pdf)
+#### ['12 - '13 Press Packet](/downloads/teamdocs/PressPacket2013.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
 #### [Team Charter](/downloads/teamdocs/StuypulseCharter1213.doc)
