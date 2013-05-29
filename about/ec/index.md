@@ -83,9 +83,10 @@ The President of Software Engineering (PSE) primarily manages the development of
 The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. He/she should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
 </div>
 
-### Vice President of Marketing <small>{{ page.positions.vpom.name }}</small>
+### Vice Presidents of Marketing <small>{{ page.positions.vpom.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.vpom.photo %} <img src="{{ page.positions.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
+{% if page.positions.vpom.photo1 %} <img src="{{ page.positions.vpom.photo1 }}" class="ec-photo" alt="Vice Presidents of Marketing"> {% endif %}
+{% if page.positions.vpom.photo2 %} <img src="{{ page.positions.vpom.photo2 }}" class="ec-photo" alt="Vice Presidents of Marketing"> {% endif %}
 The Vice President of Marketing is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. He/she should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
 </div>
 
