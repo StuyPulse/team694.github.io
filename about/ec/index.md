@@ -170,7 +170,6 @@ The Director of Animation is responsible for coordinating the team's animation e
 
 ### Webmasters <small>{{ page.positions.webmasters.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.webmasters.photo1 %} <img src="{{ page.positions.webmasters.photo1 }}" class="ec-photo" alt="Webmasters"> {% endif %}
-{% if page.positions.webmasters.photo2 %} <img src="{{ page.positions.webmasters.photo2 }}" class="ec-photo" alt="Webmasters"> {% endif %}
+{% if page.positions.webmaster.photo %} <img src="{{ page.positions.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
 The job of the two Webmasters is to maintain the team website and any other websites created by the team. The Webmasters are to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
