@@ -4,60 +4,60 @@ title: Team Leadership
 description: Stuypulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
 positions:
     poe:
-        name: Joanna "Po" Zhu
-        photo: /img/ec/po.jpg
-    pom:
-        name: Doris Tsang
-        photo: /img/ec/doris.jpg
-    pse:
-        name: Eric Lam
-        photo: /img/ec/eric.jpg
-    vpoe:
         name: Ameya Majmudar
         photo: /img/ec/ameya.jpg
-    vpom:
+    pom:
         name: Philipp Steinmann
         photo: /img/ec/philipp.jpg
+    pse:
+        name: Abdullah
+        photo: /img/ec/abdullah.jpg
+    vpoe:
+        name: Noah Tom-Wong
+        photo: /img/ec/noah.jpg
+    vpom:
+        name: Kai Pacheco and Sungwoo Park
+        photo1: /img/ec/kai.jpg
+        photo2: /img/ec/sungwoo.jpg
     vpse:
-        name: Justin Kim
-        photo: /img/ec/justin.jpg
+        name: Danny Qiu
+        photo: /img/ec/danny.jpg
     lab-admin:
-        name: Samuel Lijin
-        photo: /img/ec/pockets.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
     procurement:
-        name: Zane Sterling
-        photo: /img/ec/zane.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
     electronics:
-        name: Mika Jain
+        name: Mysterious Person
     field:
         name: N/A
     strategy:
-        name: Peter Jasko
-        photo: /img/ec/peter.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
     ados:
-        name: Sebastian Conybeare
-        photo: /img/ec/seabass.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
     safety:
-        name: Owen Smith
+        name: Mysterious Person
     machinist:
-        name: "Henry O'Donnell"
-        photo: /img/ec/henry.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
     media:
-        name: Hanglin Li
+        name: Mysterious Person
     animation:
-        name: Alex Pan
-        photo: /img/ec/alex.jpg
-    webmasters:
-        name: Kevin Wang and Sungwoo Park
-        photo1: /img/ec/kevin.jpg
-        photo2: /img/ec/sungwoo.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
+    webmaster:
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
     outreach:
-        name: Naoki "Snooks" Cho
+        name: Mysterious Person
     cad:
-        name: Jason Ye
-        photo: /img/ec/jason.jpg
+        name: Mysterious Person
+        photo: /img/ec/mystery.jpg
 ---
-Say hello to the Executive Council of the 2012-2013 season.
+Say hello to the Executive Council of the 2013-2014 season.
 
 ### President of Engineering <small>{{ page.positions.poe.name }}</small>
 <div markdown="1" class="ec-description">
