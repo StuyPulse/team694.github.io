@@ -11,51 +11,42 @@ positions:
         photo: /img/ec/philipp.jpg
     pse:
         name: Abdullah
-        photo: /img/ec/abdullah.jpg
     vpoe:
         name: Noah Tom-Wong
-        photo: /img/ec/noah.jpg
     vpom:
         name: Kai Pacheco and Sungwoo Park
-        photo1: /img/ec/kai.jpg
         photo2: /img/ec/sungwoo.jpg
     vpse:
         name: Danny Qiu
-        photo: /img/ec/danny.jpg
     lab-admin:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Isabella Siu
     procurement:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Jion Fairchild
     electronics:
-        name: Mysterious Person
+        name: Mika Jain
     field:
-        name: N/A
+        name: Dror Perk
     strategy:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Sebastian Conybeare
+        photo: /img/ec/seabass.jpg
     ados:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: TBD
     safety:
-        name: Mysterious Person
+        name: Arfan Rehab
     machinist:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Vacant
     media:
-        name: Mysterious Person
+        name: Vacant
     animation:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Alex Pan
+        photo: /img/ec/alex.jpg
     webmaster:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Justin Kim
+        photo: /img/ec/justin.jpg
     outreach:
-        name: Mysterious Person
+        name: Vacant
     cad:
-        name: Mysterious Person
-        photo: /img/ec/mystery.jpg
+        name: Vacant
 ---
 Say hello to the Executive Council of the 2013-2014 season.
 
