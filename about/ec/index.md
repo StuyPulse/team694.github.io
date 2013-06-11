@@ -102,7 +102,7 @@ It is the responsibility of the Director of Procurement, in conjunction with the
 ### Lab Administrator <small>{{ page.positions.lab-admin.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.lab-admin.photo %} <img src="{{ page.positions.lab-admin.photo }}" class="ec-photo" alt="Lab Administrator"> {% endif %}
-The Lab Administrator is responsible for keeping a record of what materials are used in the construction of the robot and what materials are in the lab. He/she also has to coordinate with the Director of Procurement to make sure that any commonly used parts that are missing are restocked The Lab Administrator is responsible for maintaining the lab and ensuring the continued organization of all materials.
+The Lab Administrator is responsible for keeping a record of what materials are used in the construction of the robot and what materials are in the lab. She also has to coordinate with the Director of Procurement to make sure that any commonly used parts that are missing are restocked. The Lab Administrator is responsible for maintaining the lab and ensuring the continued organization of all materials.
 </div>
 
 ### Director of Strategy <small>{{ page.positions.strategy.name }}</small>
@@ -159,8 +159,8 @@ The Director of Media is primarily responsible for maintaining the team's image 
 The Director of Animation is responsible for coordinating the team's animation efforts, including, but not limited to, participation in the annual FIRST animation competition and off-season competitions, and creating promotional animations.
 </div>
 
-### Webmasters <small>{{ page.positions.webmasters.name }}</small>
+### Webmaster <small>{{ page.positions.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.webmaster.photo %} <img src="{{ page.positions.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the two Webmasters is to maintain the team website and any other websites created by the team. The Webmasters are to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster are to update the website with the most recent progress of the team and to upload any relevant pictures. He must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
