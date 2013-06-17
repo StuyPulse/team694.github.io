@@ -54,7 +54,7 @@ special-thanks:
         {% if sponsor.logo %}
             <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
         {% else %}
-            <div class="sponsor-text"><h4><strong>{{ sponsor.name }}</strong></h4></div>
+            <div class="sponsor-text-sponsor-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
         {% endif %}
         {% if sponsor.site %}</a>{% endif %}
     </div>
@@ -84,7 +84,7 @@ special-thanks:
         {% if thanks.logo %}
             <img class="sponsor-logo" alt="{{ thanks.name }}" title="{{ thanks.name }}" src="{{ thanks.logo }}">
         {% else %}
-            <div class="sponsor-text"><h4><strong>{{ thanks.name }}</strong></h4></div>
+            <div class="sponsor-text-sponsor-page"><h4><strong>{{ thanks.name }}</strong></h4></div>
         {% endif %}
         {% if thanks.site %}</a>{% endif %}
     </div>
