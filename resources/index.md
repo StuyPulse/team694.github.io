@@ -46,6 +46,7 @@ A statement of the long-term vision and goals of our team, and a plan for the ye
 
 ### Team Publications
 #### Magazines
+- [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
 - [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
 - [2009 Magazine](/downloads/teamdocs/magazines/09mag.pdf)
 - [2008 Magazine](/downloads/teamdocs/magazines/08mag.pdf)
