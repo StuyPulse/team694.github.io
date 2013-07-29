@@ -4,60 +4,51 @@ title: Team Leadership
 description: Stuypulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
 positions:
     poe:
-        name: Joanna "Po" Zhu
-        photo: /img/ec/po.jpg
-    pom:
-        name: Doris Tsang
-        photo: /img/ec/doris.jpg
-    pse:
-        name: Eric Lam
-        photo: /img/ec/eric.jpg
-    vpoe:
         name: Ameya Majmudar
         photo: /img/ec/ameya.jpg
-    vpom:
+    pom:
         name: Philipp Steinmann
         photo: /img/ec/philipp.jpg
+    pse:
+        name: Abdullah
+    vpoe:
+        name: Noah Tom-Wong
+    vpom:
+        name: Kai Pacheco and Sungwoo Park
+        photo2: /img/ec/sungwoo.jpg
     vpse:
-        name: Justin Kim
-        photo: /img/ec/justin.jpg
+        name: Danny Qiu
     lab-admin:
-        name: Samuel Lijin
-        photo: /img/ec/pockets.jpg
+        name: Isabella Siu
     procurement:
-        name: Zane Sterling
-        photo: /img/ec/zane.jpg
+        name: Jion Fairchild
     electronics:
         name: Mika Jain
     field:
-        name: N/A
+        name: Dror Perk
     strategy:
-        name: Peter Jasko
-        photo: /img/ec/peter.jpg
-    ados:
         name: Sebastian Conybeare
         photo: /img/ec/seabass.jpg
+    ados:
+        name: TBD
     safety:
-        name: Owen Smith
+        name: Arfan Rehab
     machinist:
-        name: "Henry O'Donnell"
-        photo: /img/ec/henry.jpg
+        name: Vacant
     media:
-        name: Hanglin Li
+        name: Vacant
     animation:
         name: Alex Pan
         photo: /img/ec/alex.jpg
-    webmasters:
-        name: Kevin Wang and Sungwoo Park
-        photo1: /img/ec/kevin.jpg
-        photo2: /img/ec/sungwoo.jpg
+    webmaster:
+        name: Justin Kim
+        photo: /img/ec/justin.jpg
     outreach:
-        name: Naoki "Snooks" Cho
+        name: Vacant
     cad:
-        name: Jason Ye
-        photo: /img/ec/jason.jpg
+        name: Vacant
 ---
-Say hello to the Executive Council of the 2012-2013 season.
+Say hello to the Executive Council of the 2013-2014 season.
 
 ### President of Engineering <small>{{ page.positions.poe.name }}</small>
 <div markdown="1" class="ec-description">
@@ -83,9 +74,10 @@ The President of Software Engineering (PSE) primarily manages the development of
 The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. He/she should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
 </div>
 
-### Vice President of Marketing <small>{{ page.positions.vpom.name }}</small>
+### Vice Presidents of Marketing <small>{{ page.positions.vpom.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.vpom.photo %} <img src="{{ page.positions.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
+{% if page.positions.vpom.photo1 %} <img src="{{ page.positions.vpom.photo1 }}" class="ec-photo" alt="Vice Presidents of Marketing"> {% endif %}
+{% if page.positions.vpom.photo2 %} <img src="{{ page.positions.vpom.photo2 }}" class="ec-photo" alt="Vice Presidents of Marketing"> {% endif %}
 The Vice President of Marketing is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. He/she should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
 </div>
 
@@ -110,7 +102,7 @@ It is the responsibility of the Director of Procurement, in conjunction with the
 ### Lab Administrator <small>{{ page.positions.lab-admin.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.lab-admin.photo %} <img src="{{ page.positions.lab-admin.photo }}" class="ec-photo" alt="Lab Administrator"> {% endif %}
-The Lab Administrator is responsible for keeping a record of what materials are used in the construction of the robot and what materials are in the lab. He/she also has to coordinate with the Director of Procurement to make sure that any commonly used parts that are missing are restocked The Lab Administrator is responsible for maintaining the lab and ensuring the continued organization of all materials.
+The Lab Administrator is responsible for keeping a record of what materials are used in the construction of the robot and what materials are in the lab. She also has to coordinate with the Director of Procurement to make sure that any commonly used parts that are missing are restocked. The Lab Administrator is responsible for maintaining the lab and ensuring the continued organization of all materials.
 </div>
 
 ### Director of Strategy <small>{{ page.positions.strategy.name }}</small>
@@ -167,9 +159,8 @@ The Director of Media is primarily responsible for maintaining the team's image 
 The Director of Animation is responsible for coordinating the team's animation efforts, including, but not limited to, participation in the annual FIRST animation competition and off-season competitions, and creating promotional animations.
 </div>
 
-### Webmasters <small>{{ page.positions.webmasters.name }}</small>
+### Webmaster <small>{{ page.positions.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.webmasters.photo1 %} <img src="{{ page.positions.webmasters.photo1 }}" class="ec-photo" alt="Webmasters"> {% endif %}
-{% if page.positions.webmasters.photo2 %} <img src="{{ page.positions.webmasters.photo2 }}" class="ec-photo" alt="Webmasters"> {% endif %}
-The job of the two Webmasters is to maintain the team website and any other websites created by the team. The Webmasters are to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
+{% if page.positions.webmaster.photo %} <img src="{{ page.positions.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster are to update the website with the most recent progress of the team and to upload any relevant pictures. He must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
