@@ -10,7 +10,7 @@ positions:
         name: Philipp Steinmann
         photo: /img/ec/philipp.jpg
     pse:
-        name: Abdullah
+        name: Abdullah Fahad
     vpoe:
         name: Noah Tom-Wong
     vpom:
