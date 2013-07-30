@@ -59,7 +59,7 @@ The President of Engineering (PoE) and the President of Marketing are the two fi
 ### President of Marketing <small>{{ page.positions.pom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.pom.photo %} <img src="{{ page.positions.pom.photo }}" class="ec-photo" alt="President of Marketing"> {% endif %}
-The President of Marketing (PoM) coordinates the officers and divisions of the team and make sure that officers complete their responsibilities and/or effectively delegate jobs to other members. He/she will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. This President should have adequate knowledge of the robot and other engineering projects.
+The President of Marketing (PoM) coordinates the officers and divisions of the team and makes sure that officers complete their responsibilities and/or effectively delegate jobs to other members. He/she will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. This President should have adequate knowledge of the robot and other engineering projects.
 </div>
 
 ### President of Software Engineering <small>{{ page.positions.pse.name }}</small>
@@ -78,7 +78,7 @@ The Vice President of Engineering is considered the second-in-command for that d
 <div markdown="1" class="ec-description">
 {% if page.positions.vpom.photo1 %} <img src="{{ page.positions.vpom.photo1 }}" class="ec-photo" alt="Vice Presidents of Marketing"> {% endif %}
 {% if page.positions.vpom.photo2 %} <img src="{{ page.positions.vpom.photo2 }}" class="ec-photo" alt="Vice Presidents of Marketing"> {% endif %}
-The Vice President of Marketing is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. He/she should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
+The Vice Presidents of Marketing are considered the second-in-command for that department. The Vice Presidents should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. They should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
 </div>
 
 ### Vice President of Software Engineering <small>{{ page.positions.vpse.name }}</small>
@@ -162,5 +162,5 @@ The Director of Animation is responsible for coordinating the team's animation e
 ### Webmaster <small>{{ page.positions.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.webmaster.photo %} <img src="{{ page.positions.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster are to update the website with the most recent progress of the team and to upload any relevant pictures. He must also use the website to keep the team and any visitors to the website informed and interested.
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. He must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
