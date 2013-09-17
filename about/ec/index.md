@@ -52,7 +52,7 @@ Say hello to the Executive Council of the 2013-2014 season.
 ### President of Engineering <small>{{ page.positions.poe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.poe.photo %} <img src="{{ page.positions.poe.photo }}" class="ec-photo" alt="President of Engineering"> {% endif %}
-The President of Engineering (PoE) and the President of Marketing are the two final decision-makers on the team. The PoE has final responsibility for the design, building, and competition of the annual robot.  The PoE also must communicate with other officers and divisions of the club and be acquainted with the Chairman's Award and other team projects.
+The President of Engineering (PoE) is responsible for the design, construction, and competition of the annual robot. The PoE also must communicate with other officers and divisions of the club and be acquainted with the Chairman's Award and other team projects.
 </div>
 
 ### President of Marketing <small>{{ page.positions.pom.name }}</small>
