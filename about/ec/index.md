@@ -29,7 +29,7 @@ positions:
         name: Sebastian Conybeare
         photo: /img/ec/seabass.jpg
     ados:
-        name: TBD
+        name: Gabrielle Chen
     safety:
         name: Arfan Rehab
     machinist:
