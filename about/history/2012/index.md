@@ -1,7 +1,6 @@
 ---
 layout: history
 title: JoeBot
-description: 
 year: 2012
 photo: /img/history/joebot.jpg
 source-link: https://github.com/prog694/joebot
