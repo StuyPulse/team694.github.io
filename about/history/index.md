@@ -2,9 +2,12 @@
 layout: history
 title: Team History
 years: [2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
-
 ---
-Team 694 is now in our 13th year as a FIRST team, having just recently celebrated our 10th anniversary in 2010. Since its founding in 2000, this team has significantly developed, accomplishing much in terms of experience, awards and outreach.
+{% for year in page.years limit:1 %}
+    {% capture recent %}{{ year }}{% endcapture %}
+{% endfor %}
+
+Team 694 is now in our {{ recent | minus:2000 }}th year as a FIRST team, having just recently celebrated our 10th anniversary in 2010. Since its founding in 2000, this team has significantly developed, accomplishing much in terms of experience, awards and outreach.
 
 Click on the links in the sidebar to explore our team's history!
 
