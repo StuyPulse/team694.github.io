@@ -9,3 +9,7 @@ Modeled after the wildly successful CSplash and MIT Splash events, Stuy Splash i
 In 2012 it was held at the New York City College of Technology in Brooklyn on December 15th.
 
 Our presentations from Stuy Splash 2012 can be found [here](/resources/stuysplash2012/).
+
+In 2013, it was held at Stuyvesant High School on December 14th.
+
+Our presentations from Stuy Splash 2013 can be found [here](/resources/stuysplash2013/).

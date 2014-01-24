@@ -20,5 +20,5 @@ In 2013, we held Stuy Splash at Stuyvesant High School on December 14th. Below a
 
 ### Introduction to Control Theory <small>with Dan Lavin</small>
 
-### Java Beta Testing Presentation Seminar <small>with Team 694 Beta Testing Committee</small>
+### Beta Testing Presentation Seminar <small>with Team 694 Beta Testing Committee</small>
 
