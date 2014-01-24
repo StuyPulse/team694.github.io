@@ -3,15 +3,15 @@ layout: page
 title: Documents &amp; Tutorials
 description: Stuypulse has many resources available, including source code, documents, and tutorials on a variety of subjects.
 ---
-<div markdown="1" class="row">
-<div class="span8">
+<div class="row">
+<div markdown="1" class="span8">
 ## Community
 ### Resources
 #### [Open Source Software](https://github.com/prog694)
 From our robot code to [this very website](/about/website/), everything we develop is open source. Check out our code on GitHub!
 
 #### [Stuy Splash 2012 Presentations](/resources/stuysplash2012/)
-> [Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
+[Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
 
 We have uploaded the presentations from the event, and they are available for download.
 
@@ -32,7 +32,7 @@ A robotics team can sound very intimidating to a high school student, especially
 Creating videos for or about your team can be fun or can very tedious. Whether your experience are one or the other is dependent on how you carry out all the parts of the video production process.
 
 </div>
-<div class="span4">
+<div markdown="1" class="span4">
 ## Stuypulse
 ### Team Documents
 #### ['12 - '13 Press Packet](/downloads/teamdocs/PressPacket2013.pdf)

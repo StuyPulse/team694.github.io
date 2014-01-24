@@ -4,7 +4,7 @@ title: About FIRST
 description: FIRST is a non-profit organization aimed at inspiring an interest in science and technology in today's youth. It hosts the FRC, FTC, and FLL robotics competitions.
 ---
 <div markdown="1" style="text-align: center">
-    [![FIRST logo](/img/first-horizontal-logo.gif)](http://www.usfirst.org/)
+[![FIRST logo](/img/first-horizontal-logo.gif)](http://www.usfirst.org/)
 </div>
 
 ## FIRST at a glance
@@ -30,8 +30,8 @@ Team 694 has participated in the FIRST Robotics Competition since 2000. To learn
 
 [Go to the official FRC site &raquo;](http://www.usfirst.org/roboticsprograms/frc)
 
-<div markdown="1" class="row">
-<div class="span6">
+<div class="row">
+<div markdown="1" class="span6">
 
 ### FTC
 FTC is a national program which allows creative and intelligent students to compete head to head in various sports-related challenges. The participants, composed of coaches, mentors, and volunteers, are responsible for designing, building, and programming their robot to compete in alliances against other robots. The annual challenges require strategic planning and dedication from all team members. Awards are given during the competition both for the robot and real world achomplishments.
@@ -45,7 +45,7 @@ In 2008, FVC was discontinued in favor of FTC (FIRST Tech Challenge).
 [Go to the official FTC site &raquo;](http://www.usfirst.org/roboticsprograms/ftc)
 
 </div>
-<div class="span6">
+<div markdown="1" class="span6">
 
 ### FLL
 Started in 1999, the FLL (FIRST Lego League) is directed toward the younger audience of 9-14 years where the primary material of construction is the Lego Mindstorms Kit. Quickly expanding, the FLL now includes over 9,200 teams in 45 countries around the world. Meant to instill the same wonderment in science and technology at an earlier age, the FLL is comprised of two major parts. Participants must first create a robot to complete a new challenge released each year, and then research and propose a solution to a current technological problem. The challenge is released in September with the competition season taking place from November to January.
