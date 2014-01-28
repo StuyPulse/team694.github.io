@@ -25,7 +25,7 @@ positions:
     electronics:
         name: Mika Jain
     field:
-        name: Dror Perk
+        name: Vacant
     strategy:
         name: Sebastian Conybeare
         photo: /img/ec/seabass.jpg
