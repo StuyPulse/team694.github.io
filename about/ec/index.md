@@ -15,6 +15,7 @@ positions:
         name: Noah Tom-Wong
     vpom:
         name: Kai Pacheco
+        photo: /img/ec/kai.jpg
     vpse:
         name: Danny Qiu
     lab-admin:
