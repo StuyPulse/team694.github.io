@@ -11,6 +11,7 @@ positions:
         photo: /img/ec/sungwoo.jpg
     pse:
         name: Abdullah Fahad
+        photo: /img/ec/abdullah.jpg
     vpoe:
         name: Noah Tom-Wong
     vpom:
