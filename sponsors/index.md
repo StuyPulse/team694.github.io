@@ -47,6 +47,19 @@ special-thanks:
       logo: /img/sponsors/robertsgroup.gif
       site: http://www.trgrp.com/
 ---
+<head>
+    <style type="text/css">
+    .fullWidth {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: initial;
+    }
+    </style>
+</head>
+
+<body>
+<div class="fullWidth">
 <div class="row">
 {% for sponsor in page.sponsors %}
     <div class="span3 sponsor-logo-container">
@@ -90,7 +103,8 @@ special-thanks:
     </div>
 {% endfor %}
 </div>
-
+</div>
+</body>
 ---
 
 ## Get Involved!
