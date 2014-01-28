@@ -59,7 +59,7 @@ special-thanks:
 </head>
 
 <body>
-<div class="fullWidth">
+
 <div class="row">
 {% for sponsor in page.sponsors %}
     <div class="span3 sponsor-logo-container">
@@ -72,11 +72,13 @@ special-thanks:
         {% if sponsor.site %}</a>{% endif %}
     </div>
     {% if forloop.index0 == 2 %}
+    <div class="fullWidth">
         <div class="span3">
             <div class="btn become-sponsor">
                 <h4>Interested in becoming a sponsor?</h4>
             </div>
         </div>
+    </div>
     </div>
 <div class="row">
     {% endif %}
@@ -102,7 +104,6 @@ special-thanks:
         {% if thanks.site %}</a>{% endif %}
     </div>
 {% endfor %}
-</div>
 </div>
 </body>
 ---
