@@ -5,8 +5,15 @@ function()
   function()
   {
     var offset = $("#get_involved").offset();
+    var heightOffset;
+    if ($(window).width() > 767) {
+        heightOffset = offset.top - $(".navbar-fixed-top").height() - 10;
+    }
+    else {
+        heightOffset = offset.top;
+    }
     $("html,body").animate({
-        scrollTop: offset.top,
+        scrollTop: heightOffset,
         scrollLeft: offset.left
     }, 500);
   } );
