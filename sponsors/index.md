@@ -47,20 +47,12 @@ special-thanks:
       logo: /img/sponsors/robertsgroup.gif
       site: http://www.trgrp.com/
 ---
-<head>
-    <style type="text/css">
-    .fullWidth {
-        width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: initial;
-    }
-    </style>
-</head>
-
-<body>
-
 <div class="row">
+        <div class="span3 visible-phone">
+            <div class="btn become-sponsor">
+                <h4>Interested in becoming a sponsor?</h4>
+            </div>
+        </div>
 {% for sponsor in page.sponsors %}
     <div class="span3 sponsor-logo-container">
         {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
@@ -72,8 +64,7 @@ special-thanks:
         {% if sponsor.site %}</a>{% endif %}
     </div>
     {% if forloop.index0 == 2 %}
-    <div class="fullWidth">
-        <div class="span3">
+        <div class="span3 hidden-phone">
             <div class="btn become-sponsor">
                 <h4>Interested in becoming a sponsor?</h4>
             </div>
