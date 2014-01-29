@@ -48,11 +48,11 @@ special-thanks:
       site: http://www.trgrp.com/
 ---
 <div class="row">
-        <div class="span3 visible-phone">
-            <div class="btn become-sponsor">
-                <h4>Interested in becoming a sponsor?</h4>
-            </div>
+    <div class="span3 visible-phone sponsor-logo-container">
+        <div class="btn become-sponsor" style="width:100; max-width: 400px; margin-top: 10px;">
+            <h4>Interested in becoming a sponsor?</h4>
         </div>
+    </div>
 {% for sponsor in page.sponsors %}
     <div class="span3 sponsor-logo-container">
         {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
@@ -69,13 +69,12 @@ special-thanks:
                 <h4>Interested in becoming a sponsor?</h4>
             </div>
         </div>
-    </div>
-    </div>
+</div>
 <div class="row">
     {% endif %}
     {% capture modulo %}{{ forloop.index0 | modulo:4 }}{% endcapture %}
     {% if modulo == '2' %} {% comment %} To make the rows align nicely. {% endcomment %}
-    </div>
+</div>
 <div class="row">
     {% endif %}
 {% endfor %}
@@ -96,7 +95,6 @@ special-thanks:
     </div>
 {% endfor %}
 </div>
-</body>
 ---
 
 ## Get Involved!
@@ -107,7 +105,7 @@ We are Stuyvesant High School's award winning FIRST Robotics team.  FIRST (For I
 
 ### Sponsorship Levels
 
-#### Nuts & Bolts <small>$50-$99</small>
+#### Nuts &amp; Bolts <small>$50-$99</small>
 Contributors receive a letter of appreciation.
 
 #### Sheet Metal <small>$100-$499</small>
