@@ -34,7 +34,6 @@ positions:
         name: Gabrielle Chen
     safety:
         name: Arfan Rehab
-        photo: /img/ec/arfan.jpg
     machinist:
         name: Vacant
     media:
@@ -46,7 +45,8 @@ positions:
         name: Justin Kim
         photo: /img/ec/justin.jpg
     outreach:
-        name: Vacant
+        name: Arfan Rehab   
+        photo: /img/ec/arfan.jpg
     cad:
         name: Vacant
 ---
