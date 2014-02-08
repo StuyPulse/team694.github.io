@@ -34,10 +34,11 @@ positions:
         name: Gabrielle Chen
     safety:
         name: Arfan Rehab
+        photo: /img/ec/arfan.jpg
     machinist:
         name: Vacant
     media:
-        name: Vacant
+        name: Arfan Rehab
     animation:
         name: Alex Pan
         photo: /img/ec/alex.jpg
