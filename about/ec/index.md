@@ -19,6 +19,7 @@ positions:
         photo: /img/ec/kai.jpg
     vpse:
         name: Danny Qiu
+        photo: /img/ec/danny.jpg
     lab-admin:
         name: Isabella Siu
     procurement:
