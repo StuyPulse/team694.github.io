@@ -2,6 +2,22 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.navbar {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.dropdown-menu {
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, small {
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
 /* Spacing for button in carousel caption */
 .carousel-btn {
     margin-top: 14px;
@@ -57,7 +73,7 @@
 .footer-nav {
   display: block;
   margin-top: 10px;
-  font-family: "europa", sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif
 }
 .footer-nav ul {
   list-style: none;
