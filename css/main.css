@@ -18,6 +18,15 @@ h1, h2, h3, h4, h5, h6, small {
   font-family: "Comic Sans MS", cursive, sans-serif !important;
 }
 
+#rumble-button-div {
+  padding: 20px;
+  width: 10%;
+  left: 0%;
+  top: 10%;
+  position: fixed;
+  z-index: 694;
+}
+
 /* Spacing for button in carousel caption */
 .carousel-btn {
     margin-top: 14px;
