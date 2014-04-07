@@ -80,10 +80,14 @@
 }
 
 /* Blog style */
-.author-info{
+.author-info {
     font-size: 17px;
     margin-top: -8px;
     padding-bottom: 10px;
+}
+
+.comment-count {
+    font-size: 14px;
 }
 
 article{
