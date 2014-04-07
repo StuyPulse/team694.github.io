@@ -5,7 +5,7 @@ title: Latest Posts
 {% for post in paginator.posts %}
     <div class="post-preview">
         <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
-        <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}}</div>
+        <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}} <span class="comment-count"><a href="{{ post.url | append: '/#disqus_thread' }}">&nbsp;</a></span></div>
         {{ post.content | split: "<!-- more -->" | first }}
         {% if post.content contains "<!-- more -->" %}
             <p><a href="{{ post.url }}">Read more &raquo;</a></p>
@@ -42,3 +42,4 @@ title: Latest Posts
         {% endif %}
     </ul>
 </div>
+{% include disqus-count.html %}
