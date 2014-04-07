@@ -15,7 +15,7 @@ leadership skills have allowed her to teach professionalism in software
 development and effective communication among team members. Her friendly 
 attitude has also transformed many new members who are at first shy and 
 undecided into experienced and confident veterans, inspiring them to further 
-pursue their interests in STEM. As Blake Elias, a Stuypulse senior, said, “Jeanne 
+pursue their interests in STEM. As Blake Elias, a StuyPulse senior, said, “Jeanne 
 is patient and she sits down with new members to talk to them, explore their 
 potentials, and make them feel involved”.
 
@@ -35,7 +35,7 @@ To Jeanne, robotics is not only about building a robot. As she says, “There
 are all the subtle things that become part of them, like team work. When they 
 don't realize they are learning, they learn more.”
 
-Jeanne's involvement goes beyond Stuypulse. Not only has she recruited 
+Jeanne's involvement goes beyond StuyPulse. Not only has she recruited 
 many new mentors for rookie teams, but when Jeanne heard that the Steel 
 Hawks did not have a programming mentor, she began assisting them as well.
 
@@ -43,7 +43,7 @@ Patricia Daly, regional director of New York FIRST, has said, “Jeanne is
 one of the key volunteers in our FIRST Robotics program in NYC …. She is an 
 ambassador … for FIRST and her efforts have gotten us new financial sponsors 
 and coaches/mentors for new teams.” Jeanne also acts as a liaison between 
-Stuypulse and FIRST. She mobilized our team throughout the beta testing 
+StuyPulse and FIRST. She mobilized our team throughout the beta testing 
 process. Her blog has helped record the growth of our team and her presence has 
 encouraged many female students to join FIRST.
 

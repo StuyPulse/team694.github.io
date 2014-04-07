@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Divisions
-description: Stuypulse Robotics is divided into engineering, software engineering, marketing, and animation.
+description: StuyPulse Robotics is divided into engineering, software engineering, marketing, and animation.
 ---
 ## Engineering
 <img class="photo-right" src="/img/divisions/engineering2012.jpg" alt="Engineering">
@@ -31,4 +31,4 @@ Our animation division specializes in creating 3-D models and manipulating them 
 The videography and photography divisions are responsible for capturing the spirit of FIRST and Stuyvesant Robotics through still images and high-definition video. Documenting our build season and hosted events such as the TriBeCa Film Festival Booksale and the FIRST Lego League Manhattan Practice Tournament, the division captures the raw material used to create our press releases and promotional materials. The videography division is also responsible for creating promotional videos using professional software such as Final Cut Pro, Livetype, and Adobe Premiere Pro. The videography division is also responsible for doing sound post-production work on animations.
 
 ## Web Development
-Our web team is a hardworking Marketing sub team. They are responsible for maintaining the various websites in the Stuypulse network. Responsibilities include, but are not limited to: back-end programming (with Jekyll, PHP, etc.), front-end development (with HTML, CSS, JavaScript, etc.), site hosting, and content. [Learn more about this website](/about/website/).
+Our web team is a hardworking Marketing sub team. They are responsible for maintaining the various websites in the StuyPulse network. Responsibilities include, but are not limited to: back-end programming (with Jekyll, PHP, etc.), front-end development (with HTML, CSS, JavaScript, etc.), site hosting, and content. [Learn more about this website](/about/website/).

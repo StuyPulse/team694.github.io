@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documents &amp; Tutorials
-description: Stuypulse has many resources available, including source code, documents, and tutorials on a variety of subjects.
+description: StuyPulse has many resources available, including source code, documents, and tutorials on a variety of subjects.
 ---
 <div class="row">
 <div markdown="1" class="span8">
@@ -33,7 +33,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 
 </div>
 <div markdown="1" class="span4">
-## Stuypulse
+## StuyPulse
 ### Team Documents
 #### ['12 - '13 Press Packet](/downloads/teamdocs/PressPacket2013.pdf)
 Information and materials for potential [sponsors](/sponsors/).

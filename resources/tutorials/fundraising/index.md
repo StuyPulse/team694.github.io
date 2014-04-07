@@ -44,7 +44,7 @@ Besides FIRST specific and rookie team grants, there are hundreds of prospective
 Raising money through fundraising drives can be effective if difficult.  The key thing to remember is that regardless of what you're doing, you and your team are investing something, whether it be time, energy, or money, so it's imperative that you keep these costs down while maximizing your profit.
 
 ### Example: In-school Candy Selling
-Stuypulse used to raise over 5,000 dollars a year alone through selling candy in our school until school guidelines shut us down.  If there's one thing that teenagers love it's candy, so it's a fairly reliable way to raise lots of money.  Our candy selling involved team members carrying boxes of candy around in school and selling during and in between classes to any and all people, every day for weeks at a time.
+StuyPulse used to raise over 5,000 dollars a year alone through selling candy in our school until school guidelines shut us down.  If there's one thing that teenagers love it's candy, so it's a fairly reliable way to raise lots of money.  Our candy selling involved team members carrying boxes of candy around in school and selling during and in between classes to any and all people, every day for weeks at a time.
 
 To run an effective candy sale, a team needs to invest the following things:
 1. People: the more people you can get selling candy, the more you will raise.  Team members should be motivated to carry boxes of candy around for weeks at a time.  You can make it part of dues or allow them to win a prize or something – any good motivation will do.
@@ -53,18 +53,18 @@ To run an effective candy sale, a team needs to invest the following things:
 4. System of Monitoring Sales: it's necessary to track the amount of candy you buy and how much your team sells to track your profits.  This can be anything from a computerized system to a spreadsheet, but it must be accurate.
 Ot things you may need but aren't completely necessary
 1. Storage place – it may be difficult to match up when you bring in your candy and when your team members sell it
-2. Publicity – for Stuypulse, word of mouth worked just fine.  You may need to make announcements or something similar. 
+2. Publicity – for StuyPulse, word of mouth worked just fine.  You may need to make announcements or something similar. 
 
-As an example, this is how Stuypulse carried out it's candy sales:
-1. People: Stuypulse is a fairly large team, so we have a large base of people to work with.  All team members were required to sell at least $200 dollars worth of candy in five months, and any money above that would go to their trip dues.
+As an example, this is how StuyPulse carried out it's candy sales:
+1. People: StuyPulse is a fairly large team, so we have a large base of people to work with.  All team members were required to sell at least $200 dollars worth of candy in five months, and any money above that would go to their trip dues.
 2. Time: Team members would carry their candy into all their classes and sell to all 3,500 hungry mouths in our school, from late September all the way to February.
 3. Money: We bought large amounts of candy wholesale from Costco, which came up to about $0.55 per candy.  Our system was to sell this candy to our team members at $0.85, who then sold it to our school at $1.00.  That way, everyone makes a profit!
 4. System of Monitoring Sales: We had a custom made website with logins for every team member and an online database that we would update with daily candy sales for each member.  Every member could track their sales online if they wanted.  A spreadsheet on a computer or even pen-and-paper would do the same thing.
 5. Storage: During the year our shipping crate sits in the hallway and is filled to the brim with candy.  Afterschool team parents would drive candy in and we would fill it, and every morning team members would go to the crate and buy candy.
-6. Publicity: It was well established that Stuypulse members were the go-to people to go for candy just by word of mouth.  We adjusted the candy we bought to reflect popular tastes in our school (Twix and Pop-tarts do very well).
+6. Publicity: It was well established that StuyPulse members were the go-to people to go for candy just by word of mouth.  We adjusted the candy we bought to reflect popular tastes in our school (Twix and Pop-tarts do very well).
 
 ### Example 2: Silent Auction
-Every year Stuypulse does a Silent Auction, which is basically a fancy way of saying a raffle.  It's a highly profitable event for us, raising 2,500 a year for just one day's worth of effort, as well as doubling as a social function.  The key again, is to keep the costs down and profit high.
+Every year StuyPulse does a Silent Auction, which is basically a fancy way of saying a raffle.  It's a highly profitable event for us, raising 2,500 a year for just one day's worth of effort, as well as doubling as a social function.  The key again, is to keep the costs down and profit high.
 
 Here's what we invested:
 1. Location – we use our school cafeteria, which is free and large enough.  Any large and preferably free place would do just as well. By using school space, or getting an event space donated, you are keeping the overhead cost down. That means more money in the bank at the end of the auction.
@@ -85,7 +85,7 @@ Here's how we carry it out:
 Not all teams are located in urban areas so a booksale may not be suitable for all. One alternative is holding a carwash close to a highly trafficked street. 
 
 ## Ideas: Magazine Fundraising 
-One interesting way of raising money easily is through magazine fundraising programs.  One such program Stuypulse 694 uses allows team members to advertise an online subscription service for a large variety of discounted magazines and then reap a portion of the profit.  All that's required is for the teams to register its own campaign and for team members/parents/whoever to sign up for it.  Once that's completed, all that's needed is to advertise a link to subscribe for the magazine subscriptions.  It generally takes about a month for the actual magazines to start arriving in the mail, but the cost is incredibly low - you can get a year's worth of TIME for $14.
+One interesting way of raising money easily is through magazine fundraising programs.  One such program StuyPulse 694 uses allows team members to advertise an online subscription service for a large variety of discounted magazines and then reap a portion of the profit.  All that's required is for the teams to register its own campaign and for team members/parents/whoever to sign up for it.  Once that's completed, all that's needed is to advertise a link to subscribe for the magazine subscriptions.  It generally takes about a month for the actual magazines to start arriving in the mail, but the cost is incredibly low - you can get a year's worth of TIME for $14.
 
 Further Reading:
 [http://www.chiefdelphi.com/forums/showthread.php?t=68044](http://www.chiefdelphi.com/forums/showthread.php?t=68044) - Fundraising 101

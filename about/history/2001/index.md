@@ -13,4 +13,4 @@ Weighing in at 93 pounds, our first robot could "limbo" under a bar, latch onto 
 
 At our initial F.I.R.S.T. event in New York City, we experienced a see-saw of emotions as individual matches were alternately successful and disastrous. In spite of this, we were chosen by McKee High School from Staten Island to be a member of their alliance. We progressed to the finals and took home a silver medal after an amazing display in one of our final matches. We also traveled to the Championship Event in Florida that year, where we set the Galileo division's highest score.
 
-We used this positive start as a jumping board into our exciting career as a F.I.R.S.T. team. Stuypulse had arrived and was ready for the future.
+We used this positive start as a jumping board into our exciting career as a F.I.R.S.T. team. StuyPulse had arrived and was ready for the future.

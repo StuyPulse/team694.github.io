@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stuypulse 2013 Teaser Trailer
+title: StuyPulse 2013 Teaser Trailer
 author: Kevin Wang
 ---
 <div style="text-align: center">

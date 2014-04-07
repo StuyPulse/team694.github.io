@@ -15,7 +15,7 @@ he is willing to be with us. Rafael is so completely dedicated that three years 
 sustained a life-threatening injury in our lab, he not only called us every day to see how
 things were going, but also made the robotics lab his first stop after being discharged from
 the hospital. Rafael's spirit that “robotics is your home away from home" has become the
-Stuypulse mantra.
+StuyPulse mantra.
 
 Rafael's varied background makes him invaluable to the team, not only as a leader, but as
 a mentor. From his years of experience as a carpenter, electrician, and manager, he has

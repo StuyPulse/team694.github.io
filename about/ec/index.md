@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Team Leadership
-description: Stuypulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
+description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
 positions:
     poe:
         name: Ameya Majmudar

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsors
-description: Stuypulse Robotics can function and participate in FIRST due to the generous support of our many sponsors. All donations support the team and help to keep it running.
+description: StuyPulse Robotics can function and participate in FIRST due to the generous support of our many sponsors. All donations support the team and help to keep it running.
 sponsors:
     - name: D.E. Shaw &amp; Co.
       logo: /img/sponsors/deshaw.gif
@@ -109,7 +109,7 @@ We are Stuyvesant High School's award winning FIRST Robotics team.  FIRST (For I
 Contributors receive a letter of appreciation.
 
 #### Sheet Metal <small>$100-$499</small>
-Contributors shall receive a link to their website on Stuypulse.com.
+Contributors shall receive a link to their website on StuyPulse.com.
 
 #### Aluminum <small>$500-$1999</small>
 Contributors shall be named on the back of the year's T-shirt.

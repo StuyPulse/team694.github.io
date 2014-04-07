@@ -2,7 +2,7 @@
 layout: page
 title: Alumni Association
 ---
-We are a group of Stuypulse alumni spanning our team's existence who are in the process of setting up a team alumni organization.  Our goal is to make it easier for Stuypulse alums to communicate with each other and keep up with the team, as well as give current team members better ways to learn from us. With a recent decline in marketing and engineering mentors, Stuypulse needs our help more than ever.
+We are a group of StuyPulse alumni spanning our team's existence who are in the process of setting up a team alumni organization.  Our goal is to make it easier for StuyPulse alums to communicate with each other and keep up with the team, as well as give current team members better ways to learn from us. With a recent decline in marketing and engineering mentors, StuyPulse needs our help more than ever.
 
 Right now, there are two major projects in the works.  First, we have created a google group for job offers/advice, meetups, memories, and whatever else team alumni like to talk about.  Secondly, we're working on a regular newsletter to keep us up to date on the awesome things that the team and individual alumni are doing, as well as to give students an opportunity to ask for our help.
 

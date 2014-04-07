@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Mentors
-description: The success of Stuypulse is thanks to the generous help of our mentors, who tutor, assist, and teach us.
+description: The success of StuyPulse is thanks to the generous help of our mentors, who tutor, assist, and teach us.
 ---
 Team 694's successes are not without the help of our mentors. We are extremely thankful for the help they provide to us and it is due to the valued contribution of each mentor that Team 694 has been able to change lives throughout its history.
 
@@ -10,7 +10,7 @@ Team 694 would like to thank any individual who has mentored us in the past, inc
 ### Rafael Colón
 <div markdown="1" class="ec-description">
 <img src="/img/mentors/colon.jpg" class="ec-photo" alt="Rafael Colón">
-Rafael gives his time generously all year long. Our team is able to work in our school's lab until nine at night after school, on weekends, and throughout school vacations only because he is willing to be with us. Rafael is so completely dedicated that three years ago, when he sustained a life-threatening injury in our lab, he not only called us every day to see how things were going, but also made the robotics lab his first stop after being discharged from the hospital. Rafael's spirit that robotics is your home away from home" has become the Stuypulse mantra.
+Rafael gives his time generously all year long. Our team is able to work in our school's lab until nine at night after school, on weekends, and throughout school vacations only because he is willing to be with us. Rafael is so completely dedicated that three years ago, when he sustained a life-threatening injury in our lab, he not only called us every day to see how things were going, but also made the robotics lab his first stop after being discharged from the hospital. Rafael's spirit that robotics is your home away from home" has become the StuyPulse mantra.
 
 As a teacher, Rafael knows how to guide members without doing their work for them. He starts off the day with a team-wide meeting where everyone, from president to newbie, figures out exactly what to do, how to do it, and what is needed to accomplish it. By holding us strictly to our deadlines, we are taught time management skills. More significantly, Rafael emphasizes teamwork above victory. When tempers flare in the lab, he reminds us that what we'll remember years from now are the people we worked with, not the matches we won.
 
@@ -72,7 +72,7 @@ Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addit
 
 ### Robert Lin
 <div markdown="1" class="ec-description">
-Robert was our head animation mentor in 2009 and made our fledgling animation team one of the strongest contenders for the Autodesk Visualization Award. He taught members the ins and outs of 3ds Max and encouraged the team to come up with their own models, a feature unique to Stuypulse‟s submission.
+Robert was our head animation mentor in 2009 and made our fledgling animation team one of the strongest contenders for the Autodesk Visualization Award. He taught members the ins and outs of 3ds Max and encouraged the team to come up with their own models, a feature unique to StuyPulse‟s submission.
 </div>
 
 ### Jim Potter
