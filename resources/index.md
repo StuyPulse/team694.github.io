@@ -6,7 +6,9 @@ description: StuyPulse has many resources available, including source code, docu
 <div class="row">
 <div markdown="1" class="span8">
 ## Community
+
 ### Resources
+
 #### [Open Source Software](https://github.com/prog694)
 From our robot code to [this very website](/about/website/), everything we develop is open source. Check out our code on GitHub!
 
@@ -22,6 +24,7 @@ Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stu
 A document published by our Software Engineering division in 2011 with solutions to common Driver Station issues.
 
 ### Tutorials
+
 #### [Fundraising](/resources/tutorials/fundraising/)
 Fundraising is a very important aspect of maintaining any FIRST Robotics team. Here is a guide to help you raise money.
 
@@ -34,7 +37,9 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 </div>
 <div markdown="1" class="span4">
 ## StuyPulse
+
 ### Team Documents
+
 #### ['12 - '13 Press Packet](/downloads/teamdocs/PressPacket2013.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
@@ -45,6 +50,7 @@ A formal description of our team's structure and government.
 A statement of the long-term vision and goals of our team, and a plan for the year. The Operations Plan is prepared every summer by the incoming team leadership.
 
 ### Team Publications
+
 #### Magazines
 - [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
 - [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
@@ -63,6 +69,7 @@ A statement of the long-term vision and goals of our team, and a plan for the ye
 - [2009 Scrapbook](/downloads/teamdocs/scrapbooks/09scrapbook.pdf)
 
 ### For Members
+
 #### [Team Forms](/resources/forms/)
 Team members must fill out these forms in order to participate on the team.
 </div>
