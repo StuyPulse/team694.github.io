@@ -24,6 +24,7 @@ positions:
         name: Isabella Siu
     procurement:
         name: Jion Fairchild
+        photo: /img/ec/jion.jpg
     electronics:
         name: Mika Jain
     field:
