@@ -19,6 +19,7 @@ According to a recent study done by Brandeis University, students who participat
 Originally coined by Dr. Woodie Flowers, “Gracious Professionalism” is much more than a pleasant phrase. One of the core concepts of FIRST, Gracious Professionalism is meant to apply not only to behavior during FIRST competitions, but also as a guide for participants throughout the rest of their lives.
 
 ## FIRST Competitions
+
 ### FRC
 FRC (FIRST Robotics Competition) is the oldest competition in FIRST and geared toward high school students. Each year in January, FIRST releases a unique new “game” which challenges participants to build a robot to overcome the tasks involved. The game often includes several aspects and teams must choose which ones they wish to focus their robot's abilities toward.
 
