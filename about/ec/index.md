@@ -4,55 +4,49 @@ title: Team Leadership
 description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
 positions:
     poe:
-        name: Ameya Majmudar
-        photo: /img/ec/ameya.jpg
+        name: Noah Tom-Wong
     pom:
         name: Sungwoo Park
         photo: /img/ec/sungwoo.jpg
     pse:
-        name: Abdullah Fahad
-        photo: /img/ec/abdullah.jpg
-    vpoe:
-        name: Noah Tom-Wong
-    vpom:
-        name: Kai Pacheco
-        photo: /img/ec/kai.jpg
-    vpse:
-        name: Danny Qiu
-        photo: /img/ec/danny.jpg
-    lab-admin:
-        name: Isabella Siu
-    procurement:
-        name: Jion Fairchild
-        photo: /img/ec/jion.jpg
-    electronics:
-        name: Mika Jain
-    field:
-        name: Vacant
-    strategy:
-        name: Sebastian Conybeare
-        photo: /img/ec/seabass.jpg
-    ados:
-        name: Gabrielle Chen
-    safety:
-        name: Arfan Rehab
-    machinist:
-        name: Vacant
-    media:
-        name: Arfan Rehab
-    animation:
-        name: Alex Pan
-        photo: /img/ec/alex.jpg
-    webmaster:
         name: Justin Kim
         photo: /img/ec/justin.jpg
-    outreach:
-        name: Arfan Rehab   
-        photo: /img/ec/arfan.jpg
-    cad:
-        name: Vacant
+    vpoe:
+        name: Jion Fairchild
+        photo: /img/ec/jion.jpg
+    vpom:
+        name: Yubin Kim
+    vpse:
+        name: Ishraq Bhuiyan
+    lab-ops:
+        name: Leith Conybeare
+    finance:
+        name: Susan Wu
+    pr:
+        name: Sally Ko
+    ops:
+        name: Jongyeob Lee
+    electronics:
+        name: Jake Olenick
+    field:
+        name: Shantanu Jha
+    strategy:
+        name: Christopher Sherling
+    ados:
+        name: Max Su
+    design:
+        name: Paul Li
+    safety:
+        name: Farzana Haque
+    machinist:
+        name: Martin Xu
+    animation:
+        name: TBD
+    webmaster:
+        name: Ivy Wong
+    
 ---
-Say hello to the Executive Council of the 2013-2014 season.
+Say hello to the Executive Council of the 2014-2015 season.
 
 ### President of Engineering <small>{{ page.positions.poe.name }}</small>
 <div markdown="1" class="ec-description">
@@ -63,25 +57,25 @@ The President of Engineering (PoE) is responsible for the design, construction, 
 ### President of Marketing <small>{{ page.positions.pom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.pom.photo %} <img src="{{ page.positions.pom.photo }}" class="ec-photo" alt="President of Marketing"> {% endif %}
-The President of Marketing (PoM) coordinates the officers and divisions of the team and makes sure that officers complete their responsibilities and/or effectively delegate jobs to other members. He/she will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. This President should have adequate knowledge of the robot and other engineering projects.
+The President of Marketing (PoM) coordinates the officers and divisions of the team and makes sure that officers complete their responsibilities and/or effectively delegate jobs to other members. He will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. This President should have adequate knowledge of the robot and other engineering projects.
 </div>
 
 ### President of Software Engineering <small>{{ page.positions.pse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.pse.photo %} <img src="{{ page.positions.pse.photo }}" class="ec-photo" alt="President of Software Engineering"> {% endif %}
-The President of Software Engineering (PSE) primarily manages the development of robot code and all related software. He/she is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. The PSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes.
+The President of Software Engineering (PSE) primarily manages the development of robot code and all related software. He is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. The PSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes.
 </div>
 
 ### Vice President of Engineering <small>{{ page.positions.vpoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.vpoe.photo %} <img src="{{ page.positions.vpoe.photo }}" class="ec-photo" alt="Vice President of Engineering"> {% endif %}
-The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. He/she should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
+The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. He should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
 </div>
 
 ### Vice President of Marketing <small>{{ page.positions.vpom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.vpom.photo %} <img src="{{ page.positions.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
-The Vice President of Marketing is considered the second-in-command for that department. The Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. He should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
+The Vice President of Marketing is considered the second-in-command for that department. The Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. She should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
 </div>
 
 ### Vice President of Software Engineering <small>{{ page.positions.vpse.name }}</small>
@@ -90,22 +84,34 @@ The Vice President of Marketing is considered the second-in-command for that dep
 The Vice President of Software Engineering is considered to be the second-in-command in developing robot code. The VPSE should have knowledge of what the PSE is currently doing and be able to direct the programmers in the event of the PSE's absence, as well as collaborate with the President of Engineering in managing the overall robot project.
 </div>
 
-### Director of Outreach <small>{{ page.positions.outreach.name }}</small>
+### Director of Electronics <small>{{ page.positions.electronics.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.outreach.photo %} <img src="{{ page.positions.outreach.photo }}" class="ec-photo" alt="Director of Outreach"> {% endif %}
-The job of the Director of Outreach is to spread the message of FIRST Robotics throughout the school, local, and the robotics communities. This includes presenting our team to potential sponsors and/or supporters and organizing events and volunteer efforts involving other FIRST teams the FIRST organization. He/she must keep alumni updated on team events and accomplishments.
+{% if page.positions.electronics.photo %} <img src="{{ page.positions.electronics.photo }}" class="ec-photo" alt="Director of Electronics"> {% endif %}
+The Director of Electronics is able to correctly wire the robot according to FIRST regulations. He collaborates with software and mechanical engineers to integrate an effective wire management system into the robot. They need to be knowledgeable enough to troubleshoot the robot.
 </div>
 
-### Director of Procurement/Treasurer <small>{{ page.positions.procurement.name }}</small>
+### Director of Lab Operations <small>{{ page.positions.lab-ops.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.procurement.photo %} <img src="{{ page.positions.procurement.photo }}" class="ec-photo" alt="Director of Procurement/Treasurer"> {% endif %}
-It is the responsibility of the Director of Procurement, in conjunction with the elected EC, to oversee the procurement of goods and services necessary for the team's operation. He/she is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost.
+{% if page.positions.lab-ops.photo %} <img src="{{ page.positions.lab-ops.photo }}" class="ec-photo" alt="Director of Lab Operations"> {% endif %}
+The Director of Lab Operations, at the highest level, is responsible for the smooth running of the workspaces of the team. She is responsible for keeping a detailed inventory of the tools and construction materials in the laboratory, as well as a record of materials used in the construction of the robot. She, in conjunction with the EEC, must oversee the procurement of goods and tools used by the team, and keep a detailed and running account of the teams expenditures, available on request. Lastly, the Director of Lab Operations, also in conjunction with the EEC, is responsible for creating and maintaining a system of organization that benefits the team.
 </div>
 
-### Lab Administrator <small>{{ page.positions.lab-admin.name }}</small>
+### Director of Finance <small>{{ page.positions.finance.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.lab-admin.photo %} <img src="{{ page.positions.lab-admin.photo }}" class="ec-photo" alt="Lab Administrator"> {% endif %}
-The Lab Administrator is responsible for keeping a record of what materials are used in the construction of the robot and what materials are in the lab. She also has to coordinate with the Director of Procurement to make sure that any commonly used parts that are missing are restocked. The Lab Administrator is responsible for maintaining the lab and ensuring the continued organization of all materials.
+{% if page.positions.finance.photo %} <img src="{{ page.positions.finance.photo }}" class="ec-photo" alt="Director of Finance"> {% endif %}
+It is the Director of Finance's responsibility to ensure the stability of all finance related issues, including managing the budget in conjunction with the EEC and the team's teacher-advisors and maintaining relationships with sponsors. The Director of Finance will contact sponsors on a regular basis and be charged with maintaining stable sponsorships.
+</div>
+
+### Director of Public Relations <small>{{ page.positions.pr.name }}</small>
+<div markdown="1" class="ec-description">
+{% if page.positions.pr.photo %} <img src="{{ page.positions.pr.photo }}" class="ec-photo" alt="Director of Public Relations"> {% endif %}
+The Director of Public Relations will plan for outreach events and direct all outreach initiatives (such as StuySplash and public demonstrations). At the same time, she is responsible for using various media to create a strong media presence of the team, using blogs, photographs, videos, and daily statuses on social media websites.
+</div>
+
+### Director of Operations <small>{{ page.positions.ops.name }}</small>
+<div markdown="1" class="ec-description">
+{% if page.positions.ops.photo %} <img src="{{ page.positions.ops.photo }}" class="ec-photo" alt="Director of Operations"> {% endif %}
+The Director of Operations will handle the day-to-day operations of the marketing division and the whole team. He is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. Also, the Director of Operations is responsible for award submissions. He is responsible for a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
 </div>
 
 ### Director of Strategy <small>{{ page.positions.strategy.name }}</small>
@@ -120,16 +126,10 @@ The Director of Strategy (DoS) must ensure that all team members know the rules 
 The Assistant Director of Strategy (aDoS) must be familiar with all aspects of the Strategy team and be prepared to perform any DoS duty if needed. This may include organizing scouting sheets, participating in alliance selection meetings and discussing match strategies with our alliance partners. The aDoS should not be a senior.
 </div>
 
-### Director of CAD <small>{{ page.positions.cad.name }}</small>
+### Director of Design <small>{{ page.positions.design.name }}</small>
 <div markdown="1" class="ec-description">
-{% if page.positions.cad.photo %} <img src="{{ page.positions.cad.photo }}" class="ec-photo" alt="Director of CAD"> {% endif %}
-The Director of CAD is responsible for maintaining an up-to-date CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the DoCAD.
-</div>
-
-### Director of Electronics <small>{{ page.positions.electronics.name }}</small>
-<div markdown="1" class="ec-description">
-{% if page.positions.electronics.photo %} <img src="{{ page.positions.electronics.photo }}" class="ec-photo" alt="Director of Electronics"> {% endif %}
-The Director of Electronics is able to correctly wire the robot according to FIRST regulations. He/she collaborates with software and mechanical engineers to integrate an effective wire management system into the robot. They need to be knowledgeable enough to troubleshoot the robot.
+{% if page.positions.design.photo %} <img src="{{ page.positions.design.photo }}" class="ec-photo" alt="Director of Design"> {% endif %}
+The Director of Design's job is two-fold: he is to be familiar with the design of the robot and help lead the team in the design of the robot by organizing the design process, and he is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the DoD.
 </div>
 
 ### Primary Machinist <small>{{ page.positions.machinist.name }}</small>
@@ -141,19 +141,13 @@ The job of the Primary Machinist is to maintain the milling machine and mill par
 ### Director of Field Construction <small>{{ page.positions.field.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.field.photo %} <img src="{{ page.positions.field.photo }}" class="ec-photo" alt="Director of Field Construction"> {% endif %}
-It is the job of the Director of Field Construction to construct the field of the released game to acceptable accuracy. He/she will also be responsible for all other fields, including, but not limited to, FLL, FRC, and FTC fields. They are responsible for the upkeep of the shipping/robot crates and building the new robot cart.
+It is the job of the Director of Field Construction to construct the field of the released game to acceptable accuracy. He will also be responsible for all other fields, including, but not limited to, FLL, FRC, and FTC fields. He is responsible for the upkeep of the shipping/robot crates and building the new robot cart.
 </div>
 
 ### Director of Safety <small>{{ page.positions.safety.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.safety.photo %} <img src="{{ page.positions.safety.photo }}" class="ec-photo" alt="Director of Safety"> {% endif %}
-The Director of Safety makes sure everyone is following safety rules in the lab. He is also the Safety Captain at the competition and should be able to discuss thoroughly the safety procedures.
-</div>
-
-### Director of Media <small>{{ page.positions.media.name }}</small>
-<div markdown="1" class="ec-description">
-{% if page.positions.media.photo %} <img src="{{ page.positions.media.photo }}" class="ec-photo" alt="Director of Media"> {% endif %}
-The Director of Media is primarily responsible for maintaining the team's image through the creation and upkeep of all promotional materials and maintaining an audiovisual narrative of the team throughout the year.
+The Director of Safety makes sure everyone is following safety rules in the lab. She is also the Safety Captain at the competition and should be able to discuss thoroughly the safety procedures.
 </div>
 
 ### Director of Animation <small>{{ page.positions.animation.name }}</small>
@@ -165,5 +159,5 @@ The Director of Animation is responsible for coordinating the team's animation e
 ### Webmaster <small>{{ page.positions.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.webmaster.photo %} <img src="{{ page.positions.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. He must also use the website to keep the team and any visitors to the website informed and interested.
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. She must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
