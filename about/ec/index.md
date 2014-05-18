@@ -41,7 +41,7 @@ positions:
     machinist:
         name: Martin Xu
     animation:
-        name: TBD
+        name: Franklin Wang
     webmaster:
         name: Ivy Wong
     
