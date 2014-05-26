@@ -43,7 +43,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 #### ['12 - '13 Press Packet](/downloads/teamdocs/PressPacket2013.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
-#### [Team Charter](/downloads/teamdocs/StuypulseCharter1213.doc)
+#### [Team Charter](/downloads/teamdocs/StuypulseCharter1314.doc)
 A formal description of our team's structure and government.
 
 #### ['12 - '13 Operations Plan](/downloads/teamdocs/2012-2013OpsPlan.pdf)
