@@ -51,19 +51,19 @@ Say hello to the Executive Council of the 2014-2015 season.
 ### President of Engineering <small>{{ page.positions.poe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.poe.photo %} <img src="{{ page.positions.poe.photo }}" class="ec-photo" alt="President of Engineering"> {% endif %}
-The President of Engineering (PoE) is responsible for the design, construction, and competition of the annual robot. The PoE also must communicate with other officers and divisions of the club and be acquainted with the Chairman's Award and other team projects.
+The President of Engineering is one of the two organizers and one of the final decision-makers of the team before decisions are presented to the Faculty Advisor. His job is to maintain communication between officers and divisions of the team and make sure that the officers are getting their jobs done and/or reassigning jobs to someone under them. During the build season, he should be familiar with every part of the robot. This President should also be knowledgeable of the details of the Chairman's Award submission and/or other submissions.
 </div>
 
 ### President of Marketing <small>{{ page.positions.pom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.pom.photo %} <img src="{{ page.positions.pom.photo }}" class="ec-photo" alt="President of Marketing"> {% endif %}
-The President of Marketing (PoM) coordinates the officers and divisions of the team and makes sure that officers complete their responsibilities and/or effectively delegate jobs to other members. He will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. This President should have adequate knowledge of the robot and other engineering projects.
+The President of Marketing is one of the two organizers and one of the final decision-makers of the team before decisions are presented to the Faculty Advisor. His job is, along with the President of Engineering, to coordinate the officers and divisions of the team and make sure that officers complete their responsibilities and/or effectively delegate jobs to other members. As such, the President of Marketing will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. The President of Marketing will have full knowledge of all award submissions and will present the Chairman's Award to the judges (or else assign it to someone deemed competent). This President should have adequate knowledge of the robot and other engineering projects.
 </div>
 
 ### President of Software Engineering <small>{{ page.positions.pse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.pse.photo %} <img src="{{ page.positions.pse.photo }}" class="ec-photo" alt="President of Software Engineering"> {% endif %}
-The President of Software Engineering (PSE) primarily manages the development of robot code and all related software. He is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. The PSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes.
+The President of Software Engineering primarily manages the development of robot code and all related software. The PSE also manages the design and development of all human interfaces and control systems. The PSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. He works closely with the President of Engineering in order to effectively manage the development of the control system alongside the hardware. The PSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, and the marketing team to coordinate events and regional activities such as seminars. The PSE must effectively manage the software development team in order to accomplish his/her responsibilities, and must have the same level of familiarity with the robot as the President of Engineering.
 </div>
 
 ### Vice President of Engineering <small>{{ page.positions.vpoe.name }}</small>
@@ -75,7 +75,7 @@ The Vice President of Engineering is considered the second-in-command for that d
 ### Vice President of Marketing <small>{{ page.positions.vpom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.vpom.photo %} <img src="{{ page.positions.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
-The Vice President of Marketing is considered the second-in-command for that department. The Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. She should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot and the status of all branches of the team.
+The Vice President of Marketing is considered the second-in-command for that department. The Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. She should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot.
 </div>
 
 ### Vice President of Software Engineering <small>{{ page.positions.vpse.name }}</small>
@@ -123,7 +123,7 @@ The Director of Strategy (DoS) must ensure that all team members know the rules 
 ### Assistant Director of Strategy <small>{{ page.positions.ados.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.ados.photo %} <img src="{{ page.positions.ados.photo }}" class="ec-photo" alt="Assistant Director of Strategy"> {% endif %}
-The Assistant Director of Strategy (aDoS) must be familiar with all aspects of the Strategy team and be prepared to perform any DoS duty if needed. This may include organizing scouting sheets, participating in alliance selection meetings and discussing match strategies with our alliance partners. The aDoS should not be a senior.
+The Assistant Director of Strategy (aDoS) must be familiar with all aspects of the Strategy team and be prepared to perform any DoS duty if needed. This may include organizing scouting sheets, participating in alliance selection meetings and discussing match strategies with our alliance partners.
 </div>
 
 ### Director of Design <small>{{ page.positions.design.name }}</small>
@@ -147,7 +147,7 @@ It is the job of the Director of Field Construction to construct the field of th
 ### Director of Safety <small>{{ page.positions.safety.name }}</small>
 <div markdown="1" class="ec-description">
 {% if page.positions.safety.photo %} <img src="{{ page.positions.safety.photo }}" class="ec-photo" alt="Director of Safety"> {% endif %}
-The Director of Safety makes sure everyone is following safety rules in the lab. She is also the Safety Captain at the competition and should be able to discuss thoroughly the safety procedures.
+The Director of Safety is responsible for ensuring that all necessary safety rules are observed in the lab during build season. The person chosen for this position will automatically be appointed Safety Captain at the competition and will be responsible for carrying out her duties therein. The Director of Safety should be knowledgeable enough about the safety procedures within the team to be able to speak with judges at competition.
 </div>
 
 ### Director of Animation <small>{{ page.positions.animation.name }}</small>
