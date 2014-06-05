@@ -5,6 +5,7 @@ description: StuyPulse's Executive Council leads the team and includes the presi
 positions:
     poe:
         name: Noah Tom-Wong
+        photo: /img/ec/noah.jpg
     pom:
         name: Sungwoo Park
         photo: /img/ec/sungwoo.jpg
@@ -16,34 +17,43 @@ positions:
         photo: /img/ec/jion.jpg
     vpom:
         name: Yubin Kim
+        photo: /img/ec/yubin.jpg
     vpse:
         name: Ishraq Bhuiyan
+        photo: /img/ec/ishraq.jpg
     lab-ops:
         name: Leith Conybeare
+        photo: /img/ec/leith.jpg
     finance:
         name: Susan Wu
     pr:
         name: Sally Ko
     ops:
         name: Jongyeob Lee
+        photo: /img/ec/jongyeob.jpg
     electronics:
-        name: Jake Olenick
+        name: Jake Olenick 
     field:
         name: Shantanu Jha
+        photo: /img/ec/shantanu.jpg
     strategy:
         name: Christopher Sherling
+        photo: /img/ec/chris.jpg
     ados:
         name: Max Su
     design:
         name: Paul Li
+        photo: /img/ec/paul.jpg
     safety:
         name: Farzana Haque
     machinist:
         name: Martin Xu
+        photo: /img/ec/martin.jpg
     animation:
         name: Franklin Wang
     webmaster:
         name: Ivy Wong
+        photo: /img/ec/ivy.jpg
     
 ---
 Say hello to the Executive Council of the 2014-2015 season.
