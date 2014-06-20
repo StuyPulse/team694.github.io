@@ -50,7 +50,7 @@ positions:
         name: Martin Xu
         photo: /img/ec/martin.jpg
     animation:
-        name: Franklin Wang
+        name: Wenhao Du
     webmaster:
         name: Ivy Wong
         photo: /img/ec/ivy.jpg
