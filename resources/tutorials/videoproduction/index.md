@@ -19,6 +19,7 @@ Though it may not seem like a big deal when you're shooting, remember to keep a 
 There are two types of footage that you'll shoot when you're taking footage for your video.  The first type is called **A-roll**, which is basically all the direct interview or footage of people directly addressing the camera.  The second type is called **B-roll**, which is footage which shows action on screen, shows the setting of your video, or otherwise helps explain what the **A-roll** is showing.  For example, if somebody is talking about some part of the robot failing or something, you should go back and take footage of that part of the robot. 
  
 ## Editing
+
 ### Making Videos for the Audience
 Generally, videos for web should be short and concise.  Within the first 30 seconds, you should get the attention of your audience, and from then on you need to keep the video interesting.  
 
