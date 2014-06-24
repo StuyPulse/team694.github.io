@@ -23,14 +23,20 @@ There are two types of footage that you'll shoot when you're taking footage for 
 ### Making Videos for the Audience
 Generally, videos for web should be short and concise.  Within the first 30 seconds, you should get the attention of your audience, and from then on you need to keep the video interesting.  
 
-<div markdown="1" class="row">
-<div class="span4">
-<img src="/img/tutorials/videoproduction/unger.png">A-roll</img>
-<div style="text-align: center">*A-roll*</div>
+<div class="row">
+<div markdown="1" class="span4">
+![A-roll](/img/tutorials/videoproduction/unger.png)
+
+<div markdown="1" style="text-align: center">
+*A-roll*
 </div>
-<div class="span4 offset1">
-<img src="/img/tutorials/videoproduction/field.png">B-roll</img>
-<div style="text-align: center">*B-roll*</div>
+</div>
+<div markdown="1" class="span4 offset1">
+![B-roll](/img/tutorials/videoproduction/field.png)
+
+<div markdown="1" style="text-align: center">
+*B-roll*
+</div>
 </div>
 </div>
 
