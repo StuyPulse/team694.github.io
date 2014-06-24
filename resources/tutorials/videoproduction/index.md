@@ -25,11 +25,11 @@ Generally, videos for web should be short and concise.  Within the first 30 seco
 
 <div markdown="1" class="row">
 <div class="span4">
-<img src="/img/tutorials/videoproduction/unger.png">A-roll</img>
+![A-roll](/img/tutorials/videoproduction/unger.png)
 <div style="text-align: center">*A-roll*</div>
 </div>
 <div class="span4 offset1">
-<img src="/img/tutorials/videoproduction/field.png">B-roll</img>
+![B-roll](/img/tutorials/videoproduction/field.png)
 <div style="text-align: center">*B-roll*</div>
 </div>
 </div>
