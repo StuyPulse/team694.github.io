@@ -4,7 +4,7 @@ function()
   $(".become-sponsor").click(
   function()
   {
-    var offset = $("#get_involved").offset();
+    var offset = $("#get-involved").offset();
     var heightOffset;
     if ($(window).width() > 767) {
         heightOffset = offset.top - $(".navbar-fixed-top").height() - 10;
