@@ -29,7 +29,7 @@
                                     <li><a href="/community/alumni/">Alumni Association</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown{% if page.url contains '/resources/' %} active{% endif %}">
+                            <li class="dropdown{% if page.url contains '/resources/' or page.url == '/calendar/index.html' %} active{% endif %}">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="/resources/">Documents &amp; Tutorials</a></li>
