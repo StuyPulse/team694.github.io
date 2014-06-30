@@ -18,119 +18,74 @@ carousel:
       caption-header: Winners of the New York City Regional
       caption-body: StuyPulse wins the New York City Regional for the first time since 2010.
 ---
-{% comment %} Hack to properly paginate a subdirectory because Jekyll only renders pagination with the root index.html. {% endcomment %}
-{% unless page.url contains '/blog/page' %} {% comment %} Actual front page content should go in the unless block. {% endcomment %}
-    <div id="myCarousel" class="carousel slide">
-        <!-- Carousel items -->
-        <div class="carousel-inner">
-            {% for item in page.carousel %}
-                <div class="{% if forloop.first %}active {% endif %}item">
-                    <img src="{{ item.img }}" alt="{{ item.caption-header }}">
-                    <div class="carousel-caption">
-                        <h4>{{ item.caption-header }}</h4>
-                        <p>{{ item.caption-body }}</p>
-                        {% if item.read-more-link %}<a href="{{ item.read-more-link }}" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>{% endif %}
-                    </div>
+<div id="myCarousel" class="carousel slide">
+    <!-- Carousel items -->
+    <div class="carousel-inner">
+        {% for item in page.carousel %}
+            <div class="{% if forloop.first %}active {% endif %}item">
+                <img src="{{ item.img }}" alt="{{ item.caption-header }}">
+                <div class="carousel-caption">
+                    <h4>{{ item.caption-header }}</h4>
+                    <p>{{ item.caption-body }}</p>
+                    {% if item.read-more-link %}<a href="{{ item.read-more-link }}" class="btn carousel-btn">Read more <i class="icon-chevron-right"></i></a>{% endif %}
                 </div>
-            {% endfor %}
-        </div>
-        <!-- Carousel nav -->
-        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-    </div>
-
-    <div class="row">
-        <div class="span8">
-            <h1>Latest News</h1>
-            {% for post in site.posts | limit: 5 %}
-                <div class="post-preview">
-                    <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
-                    <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}} <span class="comment-count"><a href="{{ post.url | append: '/#disqus_thread' }}">&nbsp;</a></span></div>
-                    {{ post.content | split: "<!-- more -->" | first }}
-                    {% if post.content contains "<!-- more -->" %}
-                        <p><a href="{{ post.url }}">Read more &raquo;</a></p>
-                    {% endif %}
-                </div>
-                <hr>
-            {% endfor %}
-            <h4><a href="/blog/">See older posts &raquo;</a></h4>
-        </div>
-        <div class="span4">
-            <h2>About StuyPulse</h2>
-            <div class="sponsor-logo-container">
-                <img class="front-page-thumb" src="/img/694-logo.png" alt="694 logo">
             </div>
-            <p>We are StuyPulse, <a href="http://stuy.enschool.org/">Stuyvesant High School's</a> award-winning FIRST Robotics team. Otherwise known as Team 694, we seek to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST competitions. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.</p>
-            <p><a href="/about/">Learn more &raquo;</a></p>
-
-            <h2>About FIRST</h2>
-            <div class="sponsor-logo-container">
-                <a href="http://www.usfirst.org/"><img class="front-page-thumb" src="/img/first-logo.png" alt="FIRST logo"></a>
-            </div>
-            <p><a href="http://www.usfirst.org/">FIRST</a> (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization designed to inspire and encourage today's youth to pursue careers in science, technology and math. These programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, which are helpful and often necessary in future careers and endeavors.</p>
-            <p><a href="/about/first/">Learn more &raquo;</a></p>
-
-            <h2>Sponsors</h2>
-            We would like to thank our <a href="/sponsors/">sponsors</a>:
-            {% for p in site.pages %} {% if p.url == "/sponsors/index.html" %}
-                    <div class="flexslider sponsor-logo-container">
-                        <div class="slides">
-                            {% for sponsor in p.sponsors %}
-                                <div class="slide" style="display: none">
-                                    {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
-                                        {% if sponsor.logo %}
-                                            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
-                                        {% else %}
-                                            <div class="sponsor-text-front-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
-                                        {% endif %}
-                                        {% if sponsor.site %}</a>{% endif %}
-                                </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-            {% endif %} {% endfor %}
-        </div>
+        {% endfor %}
     </div>
-{% else %} {% comment %} The else block should be an exact copy of /blog/index.html. {% endcomment %}
-    {% for post in paginator.posts %}
-        <div class="post-preview">
-            <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
-            <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}} <span class="comment-count"><a href="{{ post.url | append: '/#disqus_thread' }}">&nbsp;</a></span></div>
-            {{ post.content | split: "<!-- more -->" | first }}
-            {% if post.content contains "<!-- more -->" %}
-                <p><a href="{{ post.url }}">Read more &raquo;</a></p>
-            {% endif %}
-        </div>
-        {% unless forloop.last %}
+    <!-- Carousel nav -->
+    <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+    <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div>
+
+<div class="row">
+    <div class="span8">
+        <h1>Latest News</h1>
+        {% for post in site.posts | limit: 5 %}
+            <div class="post-preview">
+                <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
+                <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}} <span class="comment-count"><a href="{{ post.url | append: '/#disqus_thread' }}">&nbsp;</a></span></div>
+                {{ post.content | split: "<!-- more -->" | first }}
+                {% if post.content contains "<!-- more -->" %}
+                    <p><a href="{{ post.url }}">Read more &raquo;</a></p>
+                {% endif %}
+            </div>
             <hr>
-        {% endunless %}
-    {% endfor %}
-    <div class="pagination pagination-centered">
-        <ul>
-            {% if paginator.previous_page %}
-                {% if paginator.previous_page == 1 %}
-                    <li><a href="/blog/">&laquo;</a></li>
-                {% else %}
-                    <li><a href="/blog/page{{ paginator.previous_page }}/">&laquo;</a></li>
-                {% endif %}
-            {% else %}
-                <li class="disabled"><span>&laquo;</span></li>
-            {% endif %}
-            {% for count in (1..paginator.total_pages) %}
-                {% if paginator.page == forloop.index %}
-                    <li class="active"><span>{{ count }}</span></li>
-                {% elsif count == 1 %}
-                    <li><a href="/blog/">{{ count }}</a></li>
-                {% else %}
-                    <li><a href="/blog/page{{ count }}/">{{ count }}</a></li>
-                {% endif %}
-            {% endfor %}
-            {% if paginator.next_page %}
-                <li><a href="/blog/page{{ paginator.next_page }}/">&raquo;</a></li>
-            {% else %}
-                <li class="disabled"><span>&raquo;</span></li>
-            {% endif %}
-        </ul>
+        {% endfor %}
+        <h4><a href="/blog/">See older posts &raquo;</a></h4>
     </div>
-{% endunless %}
-{% include disqus-count.html %}
+    <div class="span4">
+        <h2>About StuyPulse</h2>
+        <div class="sponsor-logo-container">
+            <img class="front-page-thumb" src="/img/694-logo.png" alt="694 logo">
+        </div>
+        <p>We are StuyPulse, <a href="http://stuy.enschool.org/">Stuyvesant High School's</a> award-winning FIRST Robotics team. Otherwise known as Team 694, we seek to impact young adults by cultivating skills in engineering, programming, marketing, teamwork, and leadership through the FIRST competitions. At the same time, we hope to educate and inspire people in our community, both young and old, about the wonders of science and technology.</p>
+        <p><a href="/about/">Learn more &raquo;</a></p>
+
+        <h2>About FIRST</h2>
+        <div class="sponsor-logo-container">
+            <a href="http://www.usfirst.org/"><img class="front-page-thumb" src="/img/first-logo.png" alt="FIRST logo"></a>
+        </div>
+        <p><a href="http://www.usfirst.org/">FIRST</a> (For Inspiration and Recognition in Science and Technology) is a multi-national, non-profit organization designed to inspire and encourage today's youth to pursue careers in science, technology and math. These programs also stress the development of skills in areas such as teamwork, public relations, strategy, dedication, and outreach, which are helpful and often necessary in future careers and endeavors.</p>
+        <p><a href="/about/first/">Learn more &raquo;</a></p>
+
+        <h2>Sponsors</h2>
+        We would like to thank our <a href="/sponsors/">sponsors</a>:
+        {% for p in site.pages %} {% if p.url == "/sponsors/index.html" %}
+                <div class="flexslider sponsor-logo-container">
+                    <div class="slides">
+                        {% for sponsor in p.sponsors %}
+                            <div class="slide" style="display: none">
+                                {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
+                                    {% if sponsor.logo %}
+                                        <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+                                    {% else %}
+                                        <div class="sponsor-text-front-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
+                                    {% endif %}
+                                    {% if sponsor.site %}</a>{% endif %}
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+        {% endif %} {% endfor %}
+    </div>
+</div>
