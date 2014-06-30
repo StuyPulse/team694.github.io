@@ -1,6 +1,6 @@
 # Executive Council positions
 # Modifying this file will update /about/ec/.
-# For each postiion, name is required and photo is optional.
+# For each position, name is required and photo is optional.
 
 poe:
     name: Noah Tom-Wong
@@ -25,13 +25,16 @@ lab-ops:
     photo: /img/ec/leith.jpg
 finance:
     name: Susan Wu
+    photo: /img/ec/susan.jpg
 pr:
     name: Sally Ko
+    photo: /img/ec/sally.jpg
 ops:
     name: Jongyeob Lee
     photo: /img/ec/jongyeob.jpg
 electronics:
-    name: Jake Olenick 
+    name: Jake Olenick
+    photo: /img/ec/jake.jpg
 field:
     name: Shantanu Jha
     photo: /img/ec/shantanu.jpg
@@ -45,11 +48,13 @@ design:
     photo: /img/ec/paul.jpg
 safety:
     name: Farzana Haque
+    photo: /img/ec/farzana.jpg
 machinist:
     name: Martin Xu
     photo: /img/ec/martin.jpg
 animation:
     name: Wenhao Du
+    photo: /img/ec/wenhao.jpg
 webmaster:
     name: Ivy Wong
     photo: /img/ec/ivy.jpg
