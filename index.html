@@ -1,29 +1,13 @@
 ---
 layout: default
 title: Team 694 - Stuyvesant High School's award winning FIRST Robotics team
-carousel:
-    - img: /img/carousel/sawing.jpg
-      caption-header: Heads-down building!
-      caption-body: 2014 Build Season - Week 5
-    - img: /img/carousel/milling.jpg
-      caption-header: Hard at work at the mill
-      caption-body: 2014 Build Season - Week 4
-    - img: /img/carousel/not-electronics-plate.jpg
-      caption-header: One of our many dubious labels
-      caption-body: DESmond's electronics board
-    - img: /img/carousel/splash-2013.jpg
-      caption-header: Ameya leads Stuy Splash
-      caption-body: Our President of Engineering opening the 2013 session
-    - img: /img/carousel/nyc-regional-winners.jpg
-      caption-header: Winners of the New York City Regional
-      caption-body: StuyPulse wins the New York City Regional for the first time since 2010.
 ---
 {% comment %} Hack to properly paginate a subdirectory because Jekyll only renders pagination with the root index.html. {% endcomment %}
 {% unless page.url contains '/blog/page' %} {% comment %} Actual front page content should go in the unless block. {% endcomment %}
     <div id="myCarousel" class="carousel slide">
         <!-- Carousel items -->
         <div class="carousel-inner">
-            {% for item in page.carousel %}
+            {% for item in site.data.carousel | limit: 5 %}
                 <div class="{% if forloop.first %}active {% endif %}item">
                     <img src="{{ item.img }}" alt="{{ item.caption-header }}">
                     <div class="carousel-caption">
