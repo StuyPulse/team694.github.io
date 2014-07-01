@@ -1,7 +1,6 @@
 # Executive Council positions
-# Modifying this file will update /about/ec/.
+# Used by: /about/ec
 # For each position, name is required and photo is optional.
-
 poe:
     name: Noah Tom-Wong
     photo: /img/ec/noah.jpg
