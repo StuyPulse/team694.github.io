@@ -54,22 +54,20 @@ title: Team 694 - Stuyvesant High School's award winning FIRST Robotics team
 
         <h2>Sponsors</h2>
         We would like to thank our <a href="/sponsors/">sponsors</a>:
-        {% for p in site.pages %} {% if p.url == "/sponsors/index.html" %}
-                <div class="flexslider sponsor-logo-container">
-                    <div class="slides">
-                        {% for sponsor in p.sponsors %}
-                            <div class="slide" style="display: none">
-                                {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
-                                    {% if sponsor.logo %}
-                                        <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
-                                    {% else %}
-                                        <div class="sponsor-text-front-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
-                                    {% endif %}
-                                    {% if sponsor.site %}</a>{% endif %}
-                            </div>
-                        {% endfor %}
+        <div class="flexslider sponsor-logo-container">
+            <div class="slides">
+                {% for sponsor in site.data.sponsors.sponsors %}
+                    <div class="slide" style="display: none">
+                        {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
+                        {% if sponsor.logo %}
+                            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+                        {% else %}
+                            <div class="sponsor-text-front-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
+                        {% endif %}
+                        {% if sponsor.site %}</a>{% endif %}
                     </div>
-                </div>
-        {% endif %} {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
 </div>

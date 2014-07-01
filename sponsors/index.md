@@ -2,50 +2,6 @@
 layout: page
 title: Sponsors
 description: StuyPulse Robotics can function and participate in FIRST due to the generous support of our many sponsors. All donations support the team and help to keep it running.
-sponsors:
-    - name: D.E. Shaw &amp; Co.
-      logo: /img/sponsors/deshaw.gif
-      site: http://www.deshaw.com/
-    - name: The Wallace Foundation
-      logo: /img/sponsors/wallacefoundation.gif
-      site: http://www.wallacefoundation.org/Pages/default.aspx
-    - name: Con Edison
-      logo: /img/sponsors/conedison.gif
-      site: http://www.coned.com/
-    - name: SEP Tech Consulting
-      logo: /img/sponsors/septechconsulting.gif
-    - name: Credit Suisse
-      logo: /img/sponsors/creditsuisse.gif
-      site: https://www.credit-suisse.com/us/en/
-    - name: SHS Alumni Association
-      logo: /img/sponsors/shsaa.gif
-      site: http://www.shsaa.org/
-    - name: SHS Parents' Association
-      site: http://stuy-pa.org/home/
-    - name: SHS Class of 1961
-    - name: Ann &amp; Donovan Moore
-      site: http://www.timeinc.com/aboutus/executives/moore.php
-    - name: Abby &amp; Tom Ferguson
-      site: http://www.coxandco.com/management/tom-ferguson.html
-    - name: Bloomberg
-      logo: /img/sponsors/bloomberg.gif
-      site: http://www.bloomberg.com/
-    - name: W.Y.N.
-    - name: Joe Ricci
-    - name: Evan Greene
-special-thanks:
-    - name: CodeRanch
-      logo: /img/sponsors/coderanch.gif
-      site: http://www.coderanch.com/
-    - name: Control Group
-      logo: /img/sponsors/controlgroup.png
-      site: http://www.controlgroup.com/
-    - name: Funny Garbage
-      logo: /img/sponsors/funnygarbage.gif
-      site: http://www.funnygarbage.com/
-    - name: The Roberts Group
-      logo: /img/sponsors/robertsgroup.gif
-      site: http://www.trgrp.com/
 ---
 <div class="row">
     <div class="span3 visible-phone sponsor-logo-container">
@@ -53,7 +9,7 @@ special-thanks:
             <h4>Interested in becoming a sponsor?</h4>
         </div>
     </div>
-{% for sponsor in page.sponsors %}
+{% for sponsor in site.data.sponsors.sponsors %}
     <div class="span3 sponsor-logo-container">
         {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
         {% if sponsor.logo %}
@@ -72,7 +28,7 @@ special-thanks:
 </div>
 <div class="row">
     {% endif %}
-    {% capture modulo %}{{ forloop.index0 | modulo:4 }}{% endcapture %}
+    {% assign modulo = forloop.index0 | modulo: 4 %}
     {% if modulo == '2' %} {% comment %} To make the rows align nicely. {% endcomment %}
 </div>
 <div class="row">
@@ -83,7 +39,7 @@ special-thanks:
 ## Special Thanks To
 
 <div class="row">
-{% for thanks in page.special-thanks %}
+{% for thanks in site.data.sponsors.special-thanks %}
     <div class="span3 sponsor-logo-container">
         {% if thanks.site %}<a href="{{ thanks.site }}">{% endif %}
         {% if thanks.logo %}

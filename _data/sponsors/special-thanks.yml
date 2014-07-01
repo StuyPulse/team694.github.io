@@ -1,0 +1,15 @@
+# Special thanks
+# Used by: /sponsors
+# For each item, name is required and logo/site are optional.
+- name: CodeRanch
+  logo: /img/sponsors/coderanch.gif
+  site: http://www.coderanch.com/
+- name: Control Group
+  logo: /img/sponsors/controlgroup.png
+  site: http://www.controlgroup.com/
+- name: Funny Garbage
+  logo: /img/sponsors/funnygarbage.gif
+  site: http://www.funnygarbage.com/
+- name: The Roberts Group
+  logo: /img/sponsors/robertsgroup.gif
+  site: http://www.trgrp.com/
