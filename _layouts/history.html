@@ -1,18 +1,16 @@
 ---
 layout: default
-years: [2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004, 2003, 2002, 2001]
 description: Over the many years of its existence, StuyPulse has developed significantly, accomplishing much in terms of experience, awards and outreach.
 ---
 <div class="row">
     <div class="span3">
         <ul class="nav nav-list">
             <li class="nav-header">Team History</li>
-            {% for year in page.years %}
-                {% for p in site.pages %}
-                    {% if p.layout == 'history' and p.year == year %}
-                        <li {% if page.year == year %}class="active"{% endif %}><a href="/about/history/{{ p.year }}/">{{ p.year }}: {{ p.title }}</a></li>
-                    {% endif %}
-                {% endfor %}
+            {% assign history_pages = site.pages | where: 'layout', 'history' | sort: 'year' | reverse %}
+            {% for p in history_pages %}
+                {% if p.year %}
+                    <li {% if page.year == p.year %}class="active"{% endif %}><a href="/about/history/{{ p.year }}/">{{ p.year }}: {{ p.title }}</a></li>
+                {% endif %}
             {% endfor %}
         </ul>
     </div>
