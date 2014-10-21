@@ -97,9 +97,15 @@ Mel likes to shake things up. There is no point in the season where he isn't say
 </div>
 
 ### Robin Blumberg
+
 ### James Carpino
+
 ### Paul Desiderio Sr.
+
 ### Robert LaMarca
+
 ### Adam Leeb
+
 ### Stephen Hilton
+
 ### Colin Holgate

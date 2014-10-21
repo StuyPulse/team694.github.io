@@ -26,13 +26,11 @@ description: Over the many years of its existence, StuyPulse has developed signi
                     </div>
                 </div>
                 <div class="span3">
-                    {% if page.source-link or page.year >= 2003 %}
-                        <h4>Additional Resources</h4>
-                        <ul>
-                            {% if page.source-link %}<li><a href="{{ page.source-link }}">{{ page.title }}'s source code</a></li>{% endif %}
-                            {% if page.year >= 2003 %}<li><a href="http://www.thebluealliance.com/team/694/{{ page.year }}">{{ page.year }} season stats on The Blue Alliance</a></li>{% endif %}
-                        </ul>
-                    {% endif %}
+                    <h4>Additional Resources</h4>
+                    <ul>
+                        {% if page.source-link %}<li><a href="{{ page.source-link }}">{{ page.title }}'s source code</a></li>{% endif %}
+                        <li><a href="http://www.thebluealliance.com/team/694/{{ page.year }}">{{ page.year }} season stats on The Blue Alliance</a></li>
+                    </ul>
                     {% if page.flickr-collection-url %}
                         <h4>Photo Gallery</h4>
                         <ul>
