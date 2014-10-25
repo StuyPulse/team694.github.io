@@ -9,7 +9,7 @@ description: StuyPulse has many resources available, including source code, docu
 
 ### Resources
 
-#### [Open Source Software](https://github.com/prog694)
+#### [Open Source Software](https://github.com/team694)
 From our robot code to [this very website](/about/website/), everything we develop is open source. Check out our code on GitHub!
 
 #### [Stuy Splash Presentations](/community/projects/stuysplash/): [2012](/resources/stuysplash2012/) | [2013](/resources/stuysplash2013/)

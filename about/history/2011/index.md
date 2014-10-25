@@ -3,7 +3,7 @@ layout: history
 title: DESdroid
 year: 2011
 photo: /img/history/desdroid.jpg
-source-link: https://github.com/prog694/frc/tree/master/desdroid
+source-link: https://github.com/team694/frc/tree/master/desdroid
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632644241015/
 youtube-links:
     - name: Connecticut Regional videos

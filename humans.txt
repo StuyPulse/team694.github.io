@@ -18,4 +18,4 @@
     Hosted on: GitHub Pages
     Inspired by: Control Group (http://www.controlgroup.com/)
 
-    Source: https://github.com/prog694/prog694.github.com
+    Source: https://github.com/team694/team694.github.com

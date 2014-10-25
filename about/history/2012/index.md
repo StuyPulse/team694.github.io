@@ -3,7 +3,7 @@ layout: history
 title: JoeBot
 year: 2012
 photo: /img/history/joebot.jpg
-source-link: https://github.com/prog694/joebot
+source-link: https://github.com/team694/joebot
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632648490644/
 youtube-links:
     - name: New York City Regional videos

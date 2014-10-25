@@ -17,7 +17,7 @@ Because most incoming members having little or no programming experience, we tak
 
 Team 694 also believes in open source software and the free distribution of our code to the greater community. All of our code is free for anyone to look at and learn from. Note: Some files may not be under the same open license, please check the comments of each file for specific licensing information.
 
-All of our code (past and present) is open source and available for viewing on [GitHub](https://github.com/prog694).
+All of our code (past and present) is open source and available for viewing on [GitHub](https://github.com/team694).
 
 ## Marketing and Logistics
 <img class="photo-right" src="/img/divisions/marketing2012.jpg" alt="Marketing and Logistics">
