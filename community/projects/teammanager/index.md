@@ -6,4 +6,4 @@ In an effort to better unify and organize the logistics and paperwork of our tea
 
 Furthermore, since our team depends on team parents to provide dinner for the team on meeting days, the Team Manager includes a utility which facilitates the organization of meal assignments.
 
-This project is open source, so others are free to fork our code and adapt it for their own teams. Check out the [source code](https://github.com/team694/teammanager)!
+This project is open source, so others are free to fork our code and adapt it for their own teams. Check out the [source code](https://github.com/Team694/teammanager)!

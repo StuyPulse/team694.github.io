@@ -3,7 +3,7 @@ layout: history
 title: DESiree
 year: 2013
 photo: /img/history/desiree.jpg
-source-link: https://github.com/team694/desiree
+source-link: https://github.com/Team694/desiree
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632653333354/
 youtube-links:
     - name: New York City Regional videos

@@ -22,6 +22,6 @@ New York, NY 10282
 ## Links and Resources
 - [Download presentation](/downloads/docs/Beta%20Seminar%20Presentation.pptx)
 - [Team 341 scoring with the Kinect](http://www.youtube.com/watch?v=8qSt1ZUmtjI)
-- [Example Command-based Programming project](https://github.com/team694/Beta2012/tree/master/DESdroidCommand2/src/edu/stuy)
-- [Example use of new cRIO module order](https://github.com/team694/Beta2012/blob/donovan-simple/2012DonovanBeta/src/edu/wpi/first/wpilibj/templates/RobotTemplate.java)
-- [Example Kinect code](https://github.com/team694/Beta2012/blob/donovan-simple/MichaelKinect/src/edu/wpi/first/wpilibj/templates/MichaelKinect.java)
+- [Example Command-based Programming project](https://github.com/Team694/Beta2012/tree/master/DESdroidCommand2/src/edu/stuy)
+- [Example use of new cRIO module order](https://github.com/Team694/Beta2012/blob/donovan-simple/2012DonovanBeta/src/edu/wpi/first/wpilibj/templates/RobotTemplate.java)
+- [Example Kinect code](https://github.com/Team694/Beta2012/blob/donovan-simple/MichaelKinect/src/edu/wpi/first/wpilibj/templates/MichaelKinect.java)

@@ -16,7 +16,7 @@ If you're interested in learning more about building websites using Jekyll, [thi
 The StuyPulse Network is the collection of websites that have been developed by the StuyPulse Web Team. Check out the sidebar for links to other sites in the StuyPulse Network. Furthermore, see the footer navigation bar for our media presence on sites such as Facebook, YouTube, and more!
 
 ### Problems? Questions? Comments?
-Interested in how our site is built? Our site is 100% open source; feel free to take a look at our [source code](https://github.com/team694/team694.github.com) to learn more about how we use Jekyll to create our website.
+Interested in how our site is built? Our site is 100% open source; feel free to take a look at our [source code](https://github.com/Team694/team694.github.com) to learn more about how we use Jekyll to create our website.
 
 If you would like to contact our web team, [send us an email](/contact/) and we'll get back to you as soon as we can. We're happy to help with any questions you may have!
 
