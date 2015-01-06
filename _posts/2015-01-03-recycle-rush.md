@@ -12,7 +12,7 @@ Like always, we had our annual kickoff and potluck today.
 <!-- more -->
 We started the day off by watching the live stream. At one point, we had a nice surprise:
 
-<div style="text-align:center" markdown="1">
+<div class="text-center" markdown="1">
 ![Alex Carillo](/img/blog/alexlive.jpg)
 
 <small>*Alex Carillo, team 694 alum, represents StuyPulse on the big screen.*</small>
@@ -20,7 +20,7 @@ We started the day off by watching the live stream. At one point, we had a nice 
 
 After going through the game manual with everyone, we broke for lunch. 
 
-<div style="text-align:center" markdown="1">
+<div class="text-center" markdown="1">
 ![Lunch](/img/blog/potluck2015.jpg)
 
 <small>*Yum.*</small>
@@ -28,7 +28,7 @@ After going through the game manual with everyone, we broke for lunch.
 
 Later, we split up into a few groups to puzzle over the game rules and discuss strategies. Some of the things we discussed included the main robot roles and functions, possible points per game, and auton strategies.
 
-<div style="text-align:center" markdown="1">
+<div class="text-center" markdown="1">
 ![Strategy groups](/img/blog/kickoffgroups2015.jpg)
 
 <small>*Joe Blay shares some of his valuable wisdom regarding pool noodles.*</small>
@@ -36,7 +36,7 @@ Later, we split up into a few groups to puzzle over the game rules and discuss s
 
 At the end of the day, we met back up again in the 3rd floor atrium, where part of the game field had been marked on the ground with tape, and shared our ideas. We also had the opportunity to play around with the game pieces (a pool noodle and a recycling bin), as well as a few crates, and experiment with different ways to orient and stack them.
  
-<div style="text-align:center" markdown="1">
+<div class="text-center" markdown="1">
 ![Third floor meeting](/img/blog/preparefordoom.jpg)
 
 <small>*I don't like the look of that ruler...*</small>
