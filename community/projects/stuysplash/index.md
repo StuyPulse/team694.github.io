@@ -6,10 +6,5 @@ Stuy Splash is an intensive camp for FRC, covering everything from the foundatio
 
 Modeled after the wildly successful CSplash and MIT Splash events, Stuy Splash is designed to aid newer teams in whatever area they are having trouble. A set of classes on a variety of topics from game-piece manipulators to marketing strategies to rationalizing your team's decision-making process are held throughout the day with multiple simultaneous classes and no requirement to sit through an entire lecture ensure that the learners are engaged in precisely what they want to learn about. And, of course, the beta seminar is offered as part of the day's lectures.
 
-In 2012 it was held at the New York City College of Technology in Brooklyn on December 15th.
+Our presentations from past years can be found here: [2012](/resources/stuysplash2012/) &#124; [2013](/resources/stuysplash2013/) &#124; [2014](/resources/stuysplash2014/)
 
-Our presentations from Stuy Splash 2012 can be found [here](/resources/stuysplash2012/).
-
-In 2013, it was held at Stuyvesant High School on December 14th.
-
-Our presentations from Stuy Splash 2013 can be found [here](/resources/stuysplash2013/).
