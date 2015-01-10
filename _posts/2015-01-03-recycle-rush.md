@@ -13,9 +13,9 @@ Like always, we had our annual kickoff and potluck today.
 We started the day off by watching the live stream. At one point, we had a nice surprise:
 
 <div class="text-center" markdown="1">
-![Alex Carillo](/img/blog/alexlive.jpg)
+![Alex Carrillo](/img/blog/alexlive.jpg)
 
-<small>*Alex Carillo, team 694 alum, represents StuyPulse on the big screen.*</small>
+<small>*Alex Carrillo, team 694 alum, represents StuyPulse on the big screen.*</small>
 </div>
 
 After going through the game manual with everyone, we broke for lunch. 
