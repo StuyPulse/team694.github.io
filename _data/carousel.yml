@@ -1,11 +1,17 @@
 # Carousel items on front page
 # Limit to 5 carousel items
-- img: /img/carousel/build-season-2015.jpg
+- img: /img/carousel/prototyping-2.jpg
   caption-header: Working hard on prototypes
   caption-body: 2015 Build Season - Week 1
+- img: /img/carousel/prototyping.jpg
+  caption-header: Working hard on prototypes
+  caption-body: 2015 Build Season - Week 1
+- img: /img/carousel/alex-kickoff.jpg
+  caption-header: Alex Carrillo represents Stuypulse on the big screen
+  caption-body: FRC Kickoff 2015 - Recycle Rush
 - img: /img/carousel/keynote-splash-2014.jpg
-  caption-header: Stuy Splash 2014
-  caption-body: Dr. Jizhong Xiao gives a talk on robotics
+  caption-header: Dr. Jizhong Xiao gives a talk on robotics
+  caption-body: Stuy Splash 2014
 - img: /img/carousel/zhang-splash-2014.png
-  caption-header: Stuy Splash 2014
-  caption-body: Principal Zhang meets with keynote speaker, Dr. Jizhong Xiao
+  caption-header: Principal Zhang meets with keynote speaker, Dr. Jizhong Xiao
+  caption-body: Stuy Splash 2014
