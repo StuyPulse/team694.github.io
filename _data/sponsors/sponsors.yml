@@ -31,6 +31,9 @@
 - name: Solidworks
   logo: /img/sponsors/solidworks.png
   site: http://www.solidworks.com/
+- name: CSC
+  logo: /img/sponsors/csc.png
+  site: http://www.csc.com/
 - name: W.Y.N.
 - name: Joe Ricci
 - name: Evan Greene
