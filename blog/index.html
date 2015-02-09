@@ -8,7 +8,7 @@ title: Latest Posts
         <div class="author-info">By {{post.author}} on {{ post.date | date: "%A, %B %d, %Y"}} <span class="comment-count"><a href="{{ post.url | append: '/#disqus_thread' }}">&nbsp;</a></span></div>
         {{ post.content | split: "<!-- more -->" | first }}
         {% if post.content contains "<!-- more -->" %}
-            <p><a href="{{ post.url }}">Read more &raquo;</a></p>
+            <p class="read-more"><a href="{{ post.url }}">Read more &raquo;</a></p>
         {% endif %}
     </div>
     {% unless forloop.last %}

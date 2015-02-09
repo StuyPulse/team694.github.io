@@ -97,3 +97,15 @@ article{
 .text-center {
     text-align: center;
 }
+
+.read-more a {
+    padding: 8px;          
+    background-color: #f5f5f5;     
+    line-height: 2.5em;     
+    border-radius: 5px;  
+    border: 1px solid #e5e5e5;
+}
+
+.read-more a:hover {
+    background-color: #f0f0f0;
+}
