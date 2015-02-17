@@ -30,7 +30,7 @@ In 2014, we held Stuy Splash at Stuyvesant High School on December 13. Below are
 > In this workshop, various techniques and skills of software development will be covered. Ranging from basis coding standards and code structure to debugging and version control, this workshop is aimed to provide practical and useful skills to software engineers of both veteran and new FRC teams. 
 
 ### FIRST Marketing/Public Relations Workshop <small>with Norm Sutaria</small>
-> What's your team's story? What makes you and your team unique? What does being in FIRST Robotics Team mean to you? In this workshop, Norm Sutira, the Director of Programs from NYC FIRST will discuss interview techniques and how to use simple and free tools to tell engaging stories to your community.
+> What's your team's story? What makes you and your team unique? What does being in FIRST Robotics Team mean to you? In this workshop, Norm Sutaria, the Director of Programs from NYC FIRST will discuss interview techniques and how to use simple and free tools to tell engaging stories to your community.
 
 ### Learning from Mistakes <small>with Dan Lavin (Mentor)</small>
 > What is the best way to learn something? Mistakes! In this workshop, StuyPulse's mentor will cover numerous common mistakes that happen during build season and competition and teach how to troubleshoot them. 
