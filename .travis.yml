@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+    - "2.1.1"
+env:
+    global:
+        - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+before_script:
+    - sudo apt-get update -qq
+    - sudo apt-get install -qq ack-grep
+script:
+    - bundle exec jekyll build && bundle exec htmlproof --check-html ./_site
+    - ./script/check-stuypulse-capitalization.sh
+    - ./script/check-image-extensions.sh
