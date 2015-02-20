@@ -7,7 +7,7 @@ source-link: https://github.com/Team694/frc/tree/master/donovan/trunk/Donovan
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632647858456/
 youtube-links:
     - name: New York City Regional videos
-      url: http://www.youtube.com/playlist?list=PL0DDB763657F84265&feature=plc
+      url: http://www.youtube.com/playlist?list=PL0DDB763657F84265&amp;feature=plc
 awards:
     - Winner of New York regional
     - Regional Chairman's Award at Hartford

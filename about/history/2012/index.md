@@ -7,11 +7,11 @@ source-link: https://github.com/Team694/joebot
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632648490644/
 youtube-links:
     - name: New York City Regional videos
-      url: http://www.youtube.com/playlist?list=PLC12C99EB9FA86D5D&feature=plcp 
+      url: http://www.youtube.com/playlist?list=PLC12C99EB9FA86D5D&amp;feature=plcp 
     - name: Connecticut Regional videos
-      url: http://www.youtube.com/playlist?list=PL0DF33013AE5FC85F&feature=plcp
+      url: http://www.youtube.com/playlist?list=PL0DF33013AE5FC85F&amp;feature=plcp
     - name: Championship videos
-      url: http://www.youtube.com/playlist?list=PL24F9FBF30CEA7531&feature=plcp
+      url: http://www.youtube.com/playlist?list=PL24F9FBF30CEA7531&amp;feature=plcp
 awards:
     - Regional Chairman's Award at Hartford
     - Hartford Website Award
