@@ -7,7 +7,7 @@ if [[ $? -eq 0 ]]; then
     ack=ack-grep
 fi
 
-$ack --ignore-dir=_site --ignore-file=is:check-stuypulse-capitalization.sh Stuypulse
+$ack --ignore-dir=_site --ignore-dir=_script Stuypulse
 
 if [[ $? -eq 0 ]]; then
     echo

@@ -9,5 +9,5 @@ before_script:
     - sudo apt-get install -qq ack-grep
 script:
     - bundle exec jekyll build && bundle exec htmlproof --check-html ./_site
-    - ./script/check-stuypulse-capitalization.sh
-    - ./script/check-image-extensions.sh
+    - ./_script/check-stuypulse-capitalization.sh
+    - ./_script/check-image-extensions.sh

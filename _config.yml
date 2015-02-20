@@ -1,4 +1,4 @@
-exclude: [bootstrap, CNAME, Gemfile, Gemfile.lock, Makefile, README.md, .travis.yml, script, vendor]
+exclude: [bootstrap, CNAME, Gemfile, Gemfile.lock, Makefile, README.md, .travis.yml, vendor]
 permalink: /blog/:year/:month/:day/:title
 paginate: 10
 paginate_path: /blog/page:num
