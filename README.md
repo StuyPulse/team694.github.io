@@ -1,5 +1,7 @@
 StuyPulse.com
 =============
+[![Build Status](https://travis-ci.org/Team694/team694.github.io.svg?branch=master)](https://travis-ci.org/Team694/team694.github.io)
+
 Jekyll source for [StuyPulse.com](http://stuypulse.com/).
 
 Environment Setup
