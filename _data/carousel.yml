@@ -1,5 +1,8 @@
 # Carousel items on front page
 # Limit to 5 carousel items
+- img: /img/carousel/bathook.jpg
+  caption-header: The hook we need, but not the one we deserve.  
+  caption-body: Peg-asus 1's Bathook
 - img: /img/carousel/prototyping-2.jpg
   caption-header: Working hard on prototypes
   caption-body: 2015 Build Season - Week 1
@@ -11,7 +14,4 @@
   caption-body: FRC Kickoff 2015 - Recycle Rush
 - img: /img/carousel/keynote-splash-2014.jpg
   caption-header: Dr. Jizhong Xiao gives a talk on robotics
-  caption-body: Stuy Splash 2014
-- img: /img/carousel/zhang-splash-2014.png
-  caption-header: Principal Zhang meets with keynote speaker, Dr. Jizhong Xiao
   caption-body: Stuy Splash 2014
