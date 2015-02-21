@@ -6,6 +6,6 @@ Team 694 is now in our {{ site.time | date: "%Y" | minus:2000 }}th year as a FIR
 
 Click on the links in the sidebar to explore our team's history!
 
-<div style="text-align: center">
-<iframe width="480" height="360" src="http://www.youtube.com/embed/nr2WkHondog" frameborder="0"> </iframe>
+<div class="text-center">
+<iframe width="640" height="360" src="http://www.youtube.com/embed/nr2WkHondog" frameborder="0" allowfullscreen></iframe>
 </div>
