@@ -1,10 +1,13 @@
 language: ruby
 rvm:
-    - "2.1.1"
+- 2.1.1
 env:
-    global:
-        - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 script:
-    - bundle exec jekyll build && bundle exec htmlproof --check-html ./_site
-    - ./_script/check-stuypulse-capitalization.sh
-    - ./_script/check-image-extensions.sh
+- bundle exec jekyll build && bundle exec htmlproof --check-html ./_site
+- "./_script/check-stuypulse-capitalization.sh"
+- "./_script/check-image-extensions.sh"
+notifications:
+  slack:
+    secure: GTTwtxsBy5Q5SpY/S0Kq6I9bMlJCqI1aRw0ZwLKCyr/ntCr1SLNO07E7uCG5cU1spf28cPeCndLpssDCGChmtkb8v0GRusmmkPaQICiN/1XYQpJztKRyKBc4g6mTXn5Nbr41yQAUzSO3paWpUDCG/tQjRD2M17WUY0aTtWrHwa0=
