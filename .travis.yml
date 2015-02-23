@@ -6,7 +6,7 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 script:
 - bundle exec jekyll build && bundle exec htmlproof --check-html ./_site
-- "./_scripts/check-carousel-size.sh"
+- "./_scripts/check-carousel-size.rb"
 - "./_scripts/check-stuypulse-capitalization.sh"
 - "./_scripts/check-image-extensions.sh"
 notifications:
