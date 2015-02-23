@@ -3,7 +3,7 @@
 
 grep -rn --color \
     --exclude-dir=./.git --exclude-dir=./_site \
-    --exclude-dir=./_script --exclude-dir=./vendor \
+    --exclude-dir=./_scripts --exclude-dir=./vendor \
     Stuypulse .
 
 if [[ $? -eq 0 ]]; then
