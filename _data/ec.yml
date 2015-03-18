@@ -23,14 +23,12 @@ lab-ops:
     name: Leith Conybeare
     photo: /img/ec/leith.jpg
 finance:
-    name: Susan Wu
-    photo: /img/ec/susan.jpg
+    name: Vacant
 pr:
     name: Sally Ko
     photo: /img/ec/sally.jpg
 ops:
-    name: Jongyeob Lee
-    photo: /img/ec/jongyeob.jpg
+    name: YeJu (Lucy) Lee
 electronics:
     name: Jake Olenick
     photo: /img/ec/jake.jpg
@@ -47,11 +45,9 @@ design:
     name: Paul Li
     photo: /img/ec/paul.jpg
 safety:
-    name: Farzana Haque
-    photo: /img/ec/farzana.jpg
+    name: Levi Olevsky
 machinist:
-    name: Martin Xu
-    photo: /img/ec/martin.jpg
+    name: Anya Keller
 animation:
     name: Wenhao Du
     photo: /img/ec/wenhao.jpg
