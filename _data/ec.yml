@@ -5,8 +5,7 @@ poe:
     name: Noah Tom-Wong
     photo: /img/ec/noah.jpg
 pom:
-    name: Sungwoo Park
-    photo: /img/ec/sungwoo.jpg
+    name: Vacant
 pse:
     name: Justin Kim
     photo: /img/ec/justin.jpg
@@ -30,8 +29,7 @@ pr:
 ops:
     name: YeJu (Lucy) Lee
 electronics:
-    name: Jake Olenick
-    photo: /img/ec/jake.jpg
+    name: Vacant
 field:
     name: Shantanu Jha
     photo: /img/ec/shantanu.jpg
