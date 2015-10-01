@@ -48,10 +48,22 @@ The Vice President of Software Engineering is considered to be the second-in-com
 The Director of Electronics is able to correctly wire the robot according to FIRST regulations. He collaborates with software and mechanical engineers to integrate an effective wire management system into the robot. They need to be knowledgeable enough to troubleshoot the robot.
 </div>
 
-### Director of Lab Operations <small>{{ site.data.ec.lab-ops.name }}</small>
+### Assistant Director of Electronics <small>{{ site.data.ec.adoe.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.adoe.photo %} <img src="{{ site.data.ec.adoe.photo }}" class="ec-photo" alt=“Assistant Director of Electronics"> {% endif %}
+The Assistant Director of Electronics must be familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time. This Assistant Director should not be a graduating member.
+</div>
+
+### Director of Lab Operations and Safety <small>{{ site.data.ec.lab-ops.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.lab-ops.photo %} <img src="{{ site.data.ec.lab-ops.photo }}" class="ec-photo" alt="Director of Lab Operations"> {% endif %}
-The Director of Lab Operations, at the highest level, is responsible for the smooth running of the workspaces of the team. She is responsible for keeping a detailed inventory of the tools and construction materials in the laboratory, as well as a record of materials used in the construction of the robot. She, in conjunction with the EEC, must oversee the procurement of goods and tools used by the team, and keep a detailed and running account of the teams expenditures, available on request. Lastly, the Director of Lab Operations, also in conjunction with the EEC, is responsible for creating and maintaining a system of organization that benefits the team.
+The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. They are also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The person chosen for this position will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
+</div>
+
+### Director of Director of Procurement <small>{{ site.data.ec.procurement.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.procurement.photo %} <img src="{{ site.data.ec.procurement.photo }}" class="ec-photo" alt="Director of Procurement”> {% endif %}
+The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. They are similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The Director of Procurement is also required to maintain a detailed, up­to­date account of the team’s expenditures, available on request.
 </div>
 
 ### Director of Finance <small>{{ site.data.ec.finance.name }}</small>
@@ -66,11 +78,6 @@ It is the Director of Finance's responsibility to ensure the stability of all fi
 The Director of Public Relations will plan for outreach events and direct all outreach initiatives (such as StuySplash and public demonstrations). At the same time, she is responsible for using various media to create a strong media presence of the team, using blogs, photographs, videos, and daily statuses on social media websites.
 </div>
 
-### Director of Operations <small>{{ site.data.ec.ops.name }}</small>
-<div markdown="1" class="ec-description">
-{% if site.data.ec.ops.photo %} <img src="{{ site.data.ec.ops.photo }}" class="ec-photo" alt="Director of Operations"> {% endif %}
-The Director of Operations will handle the day-to-day operations of the marketing division and the whole team. He is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. Also, the Director of Operations is responsible for award submissions. He is responsible for a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
-</div>
 
 ### Director of Strategy <small>{{ site.data.ec.strategy.name }}</small>
 <div markdown="1" class="ec-description">
@@ -102,11 +109,6 @@ The job of the Primary Machinist is to maintain the milling machine and mill par
 It is the job of the Director of Field Construction to construct the field of the released game to acceptable accuracy. He will also be responsible for all other fields, including, but not limited to, FLL, FRC, and FTC fields. He is responsible for the upkeep of the shipping/robot crates and building the new robot cart.
 </div>
 
-### Director of Safety <small>{{ site.data.ec.safety.name }}</small>
-<div markdown="1" class="ec-description">
-{% if site.data.ec.safety.photo %} <img src="{{ site.data.ec.safety.photo }}" class="ec-photo" alt="Director of Safety"> {% endif %}
-The Director of Safety is responsible for ensuring that all necessary safety rules are observed in the lab during build season. The person chosen for this position will automatically be appointed Safety Captain at the competition and will be responsible for carrying out her duties therein. The Director of Safety should be knowledgeable enough about the safety procedures within the team to be able to speak with judges at competition.
-</div>
 
 ### Director of Animation <small>{{ site.data.ec.animation.name }}</small>
 <div markdown="1" class="ec-description">
@@ -114,8 +116,3 @@ The Director of Safety is responsible for ensuring that all necessary safety rul
 The Director of Animation is responsible for coordinating the team's animation efforts, including, but not limited to, participation in the annual FIRST animation competition and off-season competitions, and creating promotional animations.
 </div>
 
-### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
-<div markdown="1" class="ec-description">
-{% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. She must also use the website to keep the team and any visitors to the website informed and interested.
-</div>
