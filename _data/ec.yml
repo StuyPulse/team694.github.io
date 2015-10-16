@@ -7,33 +7,43 @@ pom:
     name: Yubin Kim
 pse:
     name: Ethan Cheng
+    photo: /img/ec/ethan.jpg
 vpoe:
     name: Jonah Sachs-Wetstone
+    photo: /img/ec/jonah.jpg
 vpom:
     name: Courtney Chiu
+    photo: /img/ec/courtney.jpg
 vpse:
     name: Nicole Shin 
 lab-ops:
     name: Dana Yang
+    photo: /img/ec/dana.jpg
 finance:
     name: Sally Ko
+    photo: /img/ec/sally.jpg
 pr:
     name: Vacant
 procurement:
     name: Daniel Chain
+    photo: /img/ec/daniel.jpg
 electronics:
     name: Anthony Zeng
+    photo: /img/ec/anthony.jpg
 adoe:
     name: Vacant
 field:
     name: Arpita Abrol
+    photo: /img/ec/arpita.jpg
 strategy:
     name: Christopher Sherling
     photo: /img/ec/chris.jpg
 ados:
     name: Leith Conybeare
+    photo: /img/ec/leith.jpg
 design:
     name: Shantanu Jha
+    photo: /img/ec/shantanu.jpg
 machinist:
     name: Anya Keller
 animation:

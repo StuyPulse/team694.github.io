@@ -9,19 +9,19 @@ Say hello to the Executive Council of the 2014-2015 season.
 ### President of Engineering <small>{{ site.data.ec.poe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.poe.photo %} <img src="{{ site.data.ec.poe.photo }}" class="ec-photo" alt="President of Engineering"> {% endif %}
-The President of Engineering is one of the two organizers and one of the final decision-makers of the team before decisions are presented to the Faculty Advisor. His job is to maintain communication between officers and divisions of the team and make sure that the officers are getting their jobs done and/or reassigning jobs to someone under them. During the build season, he should be familiar with every part of the robot. This President should also be knowledgeable of the details of the Chairman's Award submission and/or other submissions.
+The President of Engineering should be familiar with every part of the robot, being able to explain the part to another team member or a judge, as well as having the ability to repair any part of the robot if it is broken. They should also be knowledgeable about the details of the Chairman’s Award submission and other award submissions.
 </div>
 
 ### President of Marketing <small>{{ site.data.ec.pom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pom.photo %} <img src="{{ site.data.ec.pom.photo }}" class="ec-photo" alt="President of Marketing"> {% endif %}
-The President of Marketing is one of the two organizers and one of the final decision-makers of the team before decisions are presented to the Faculty Advisor. His job is, along with the President of Engineering, to coordinate the officers and divisions of the team and make sure that officers complete their responsibilities and/or effectively delegate jobs to other members. As such, the President of Marketing will hold final responsibility for all of the outreach, internal logistics, and award submissions for the team. The President of Marketing will have full knowledge of all award submissions and will present the Chairman's Award to the judges (or else assign it to someone deemed competent). This President should have adequate knowledge of the robot and other engineering projects.
+The President of Marketing will hold final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM should also have adequate knowledge of the other two departments.
 </div>
 
 ### President of Software Engineering <small>{{ site.data.ec.pse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pse.photo %} <img src="{{ site.data.ec.pse.photo }}" class="ec-photo" alt="President of Software Engineering"> {% endif %}
-The President of Software Engineering primarily manages the development of robot code and all related software. The PSE also manages the design and development of all human interfaces and control systems. The PSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. He works closely with the President of Engineering in order to effectively manage the development of the control system alongside the hardware. The PSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, and the marketing team to coordinate events and regional activities such as seminars. The PSE must effectively manage the software development team in order to accomplish his/her responsibilities, and must have the same level of familiarity with the robot as the President of Engineering.
+The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have the same level of familiarity with the robot as the PoE.
 </div>
 
 ### Vice President of Engineering <small>{{ site.data.ec.vpoe.name }}</small>
@@ -33,25 +33,25 @@ The Vice President of Engineering is considered the second-in-command for that d
 ### Vice President of Marketing <small>{{ site.data.ec.vpom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpom.photo %} <img src="{{ site.data.ec.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
-The Vice President of Marketing is considered the second-in-command for that department. The Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Marketing division in the event of the Marketing President's absence. She should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot.
+The Vice President of Marketing is the second­in­command for the marketing department. The VPoM should have knowledge of what the President of Marketing is currently doing and should be able to direct the marketing department in the event of the PoM’s absence. They should have extensive knowledge of all awards submissions as well as some basic knowledge of each part of the robot.
 </div>
 
 ### Vice President of Software Engineering <small>{{ site.data.ec.vpse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpse.photo %} <img src="{{ site.data.ec.vpse.photo }}" class="ec-photo" alt="Vice President of Software Engineering"> {% endif %}
-The Vice President of Software Engineering is considered to be the second-in-command in developing robot code. The VPSE should have knowledge of what the PSE is currently doing and be able to direct the programmers in the event of the PSE's absence, as well as collaborate with the President of Engineering in managing the overall robot project.
+The Vice President of Software Engineering is the second­-in-­command for the software engineering department. The VPoSE should have knowledge of what the President of Software Engineering is currently doing and should be able to direct the software engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
 </div>
 
 ### Director of Electronics <small>{{ site.data.ec.electronics.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.electronics.photo %} <img src="{{ site.data.ec.electronics.photo }}" class="ec-photo" alt="Director of Electronics"> {% endif %}
-The Director of Electronics is able to correctly wire the robot according to FIRST regulations. He collaborates with software and mechanical engineers to integrate an effective wire management system into the robot. They need to be knowledgeable enough to troubleshoot the robot.
+The Director of Electronics is to set up and manage the electronic systems on the robot to FIRST regulations. They should cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. They are also responsible for the education of other members in the electronics sub­department.
 </div>
 
 ### Assistant Director of Electronics <small>{{ site.data.ec.adoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.adoe.photo %} <img src="{{ site.data.ec.adoe.photo }}" class="ec-photo" alt=“Assistant Director of Electronics"> {% endif %}
-The Assistant Director of Electronics must be familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time. This Assistant Director should not be a graduating member.
+The Assistant Director of Electronics must be familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time. 
 </div>
 
 ### Director of Lab Operations and Safety <small>{{ site.data.ec.lab-ops.name }}</small>
@@ -60,7 +60,7 @@ The Assistant Director of Electronics must be familiar with all aspects of the e
 The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. They are also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The person chosen for this position will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
 </div>
 
-### Director of Director of Procurement <small>{{ site.data.ec.procurement.name }}</small>
+### Director of Procurement <small>{{ site.data.ec.procurement.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.procurement.photo %} <img src="{{ site.data.ec.procurement.photo }}" class="ec-photo" alt="Director of Procurement”> {% endif %}
 The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. They are similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The Director of Procurement is also required to maintain a detailed, up­to­date account of the team’s expenditures, available on request.
@@ -69,50 +69,51 @@ The Director of Procurement is responsible for overseeing and actualizing the pr
 ### Director of Finance <small>{{ site.data.ec.finance.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.finance.photo %} <img src="{{ site.data.ec.finance.photo }}" class="ec-photo" alt="Director of Finance"> {% endif %}
-It is the Director of Finance's responsibility to ensure the stability of all finance related issues, including managing the budget in conjunction with the EEC and the team's teacher-advisors and maintaining relationships with sponsors. The Director of Finance will contact sponsors on a regular basis and be charged with maintaining stable sponsorships.
+The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EEC and Faculty Advisors. They must also maintain stable relationships with sponsors and contact them on a regular basis.
 </div>
 
 ### Director of Public Relations <small>{{ site.data.ec.pr.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pr.photo %} <img src="{{ site.data.ec.pr.photo }}" class="ec-photo" alt="Director of Public Relations"> {% endif %}
-The Director of Public Relations will plan for outreach events and direct all outreach initiatives (such as StuySplash and public demonstrations). At the same time, she is responsible for using various media to create a strong media presence of the team, using blogs, photographs, videos, and daily statuses on social media websites.
+The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations). At the same time, they are responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media.
 </div>
 
 
 ### Director of Strategy <small>{{ site.data.ec.strategy.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.strategy.photo %} <img src="{{ site.data.ec.strategy.photo }}" class="ec-photo" alt="Director of Strategy"> {% endif %}
-The Director of Strategy (DoS) must ensure that all team members know the rules of the game and robot restrictions. During build season the DoS explores game-play strategies and suggests features that should be built or programmed. It is the responsibility of the DoS to assemble a team of scouts to collect detailed information on the other teams during a competition. The Director of Strategy is also responsible for organizing driver tryouts, disseminating information on past games and simulator programs to prospective drivers and robot operators prior to tryouts.
+The Director of Strategy is to ensure all team members know game rules and robot restrictions. During the build season, they can suggest features for the robot that will allow for possible gameplay strategies. In addition, they should assemble and educate a group of scouts that will gather information on other teams during the competition. During competition,they are responsible for creating and communicating with the drive teams of our alliance strategies for each match. They should make a list of the top 24 teams for alliance selections. This Director shall also be responsible for the selection and practise of the driver, operator, and human player. The drive team will be selected through tryouts organised by the Director, and conflicting responsibilities as well as other factors will be taken into account for the final selection. The drive team must be approved by the majority of the EC and the Faculty Advisors.
 </div>
 
 ### Assistant Director of Strategy <small>{{ site.data.ec.ados.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.ados.photo %} <img src="{{ site.data.ec.ados.photo }}" class="ec-photo" alt="Assistant Director of Strategy"> {% endif %}
-The Assistant Director of Strategy (aDoS) must be familiar with all aspects of the Strategy team and be prepared to perform any DoS duty if needed. This may include organizing scouting sheets, participating in alliance selection meetings and discussing match strategies with our alliance partners.
+The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary. 
 </div>
 
 ### Director of Design <small>{{ site.data.ec.design.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.design.photo %} <img src="{{ site.data.ec.design.photo }}" class="ec-photo" alt="Director of Design"> {% endif %}
-The Director of Design's job is two-fold: he is to be familiar with the design of the robot and help lead the team in the design of the robot by organizing the design process, and he is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the DoD.
+The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 </div>
 
 ### Primary Machinist <small>{{ site.data.ec.machinist.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.machinist.photo %} <img src="{{ site.data.ec.machinist.photo }}" class="ec-photo" alt="Primary Machinist"> {% endif %}
-The job of the Primary Machinist is to maintain the milling machine and mill parts as requested by fellow team members.
+The Primary Machinist is responsible for the maintaining the mill, lathe, and their parts. They must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Primary Machinist. If there are fewer than two such members, the Primary Machinist is responsible for training new members.
 </div>
 
 ### Director of Field Construction <small>{{ site.data.ec.field.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.field.photo %} <img src="{{ site.data.ec.field.photo }}" class="ec-photo" alt="Director of Field Construction"> {% endif %}
-It is the job of the Director of Field Construction to construct the field of the released game to acceptable accuracy. He will also be responsible for all other fields, including, but not limited to, FLL, FRC, and FTC fields. He is responsible for the upkeep of the shipping/robot crates and building the new robot cart.
+Is it the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, they will also be responsible for all
+other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 </div>
 
 
 ### Director of Animation <small>{{ site.data.ec.animation.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.animation.photo %} <img src="{{ site.data.ec.animation.photo }}" class="ec-photo" alt="Director of Animation"> {% endif %}
-The Director of Animation is responsible for coordinating the team's animation efforts, including, but not limited to, participation in the annual FIRST animation competition and off-season competitions, and creating promotional animations.
+The Director of Animation is responsible for coordinating the team’s animation efforts, including participation in FIRST’s animation competitions and off­season competitions as well as creating promotional animations. This person should maintain an active animation department, recruiting and training participants.
 </div>
 
