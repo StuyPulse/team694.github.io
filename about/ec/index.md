@@ -4,7 +4,7 @@ title: Team Leadership
 description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
 # Looking for EC positions? You can find them in _data/ec.yml.
 ---
-Say hello to the Executive Council of the 2014-2015 season.
+Say hello to the Executive Council of the 2015-2016 season.
 
 ### President of Engineering <small>{{ site.data.ec.poe.name }}</small>
 <div markdown="1" class="ec-description">
@@ -62,7 +62,7 @@ The Director of Lab Operations and Safety, at the highest level, is responsible 
 
 ### Director of Procurement <small>{{ site.data.ec.procurement.name }}</small>
 <div markdown="1" class="ec-description">
-{% if site.data.ec.procurement.photo %} <img src="{{ site.data.ec.procurement.photo }}" class="ec-photo" alt="Director of Procurement”> {% endif %}
+{% if site.data.ec.procurement.photo %} <img src="{{ site.data.ec.procurement.photo }}" class="ec-photo" alt="Director of Procurement"> {% endif %}
 The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. They are similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The Director of Procurement is also required to maintain a detailed, up­to­date account of the team’s expenditures, available on request.
 </div>
 
