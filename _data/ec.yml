@@ -3,8 +3,10 @@
 # For each position, name is required and photo is optional.
 poe:
     name: Jion Fairchild
+    photo: /img/ec/jion.jpg
 pom:
     name: Yubin Kim
+    photo: /img/ec/yubin.jpg
 pse:
     name: Ethan Cheng
     photo: /img/ec/ethan.jpg
@@ -46,5 +48,6 @@ design:
     photo: /img/ec/shantanu.jpg
 machinist:
     name: Anya Keller
+    photo: /img/ec/anya.jpg
 animation:
     name: Franklin Wang
