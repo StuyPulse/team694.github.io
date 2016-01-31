@@ -12,7 +12,7 @@ FIRST (For Inspiration and Recognition of Science and Technology) is a multi-nat
 </div>
 
 ## Team 694 Today
-As of now Team 694 is comprised of approximately 150 Stuy students and participates annually in the FIRST Robotics Competition (FRC). During our six week build season we work almost daily in our laboratory at Stuyvesant as dedicated team members design, construct, and program our competing robot with the help of gracious parents and volunteer mentors.
+As of now Team 694 is comprised of approximately 100 Stuy students and participates annually in the FIRST Robotics Competition (FRC). During our six week build season we work almost daily in our laboratory at Stuyvesant as dedicated team members design, construct, and program our competing robot with the help of gracious parents and volunteer mentors.
 
 However our efforts do not end with the competition season; we strive to share our experience with anyone in need of help. To this end we mentor other teams and schools both in FRC and in FIRST's other competitions such as the First Tech Challenge and FIRST Lego League, as well as performing street-level demos in our and school. We also frequently create community-driven projects like FIRSThoughts with the goal of uniting all the teams of FIRST to even the playing field and make it easier for rookie teams to become a part of the competition and community that has changed each and all of our lives.
 
