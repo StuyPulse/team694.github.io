@@ -13,8 +13,6 @@
 - name: The Roberts Group
   logo: /img/sponsors/robertsgroup.gif
   site: http://www.trgrp.com/
-<<<<<<< Updated upstream
-=======
 - name: Whole Foods
   logo: /img/sponsors/wholefoods.png
   site: http://www.wholefoodsmarket.com/
@@ -24,4 +22,3 @@
 - name: Billy"'"s Backery
   logo: /img/sponsors/billys.png
   site: http://www.billysbakerynyc.com/
->>>>>>> Stashed changes
