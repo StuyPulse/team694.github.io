@@ -3,7 +3,7 @@ layout: post
 title: Weekly Newsletters
 author: Nicole Shin
 ---
-Here are our our first two weekly newsletters from the first two weeks of the 2016 build season! Read about what each of our divisions have been up to throughout the last two weeks.
+Here are our weekly newsletters from the six weeks of the 2016 build season! Read about what each of our divisions have been up to throughout build season.
 
 [Week 1](/downloads/newsletters/week1.pdf)
 - [Week 2](/downloads/newsletters/week2.pdf)
