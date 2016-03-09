@@ -1,17 +1,17 @@
 # Carousel items on front page
 # There must be exactly 5 items
-- img: /img/carousel/bathook.jpg
-  caption-header: The hook we need, but not the one we deserve.  
-  caption-body: PEGasus 1's Bathook
-- img: /img/carousel/prototyping-2.jpg
-  caption-header: Working hard on prototypes
-  caption-body: 2015 Build Season - Week 1
-- img: /img/carousel/prototyping.jpg
-  caption-header: Working hard on prototypes
-  caption-body: 2015 Build Season - Week 1
-- img: /img/carousel/alex-kickoff.jpg
-  caption-header: Alex Carrillo represents StuyPulse on the big screen
-  caption-body: FRC Kickoff 2015 - Recycle Rush
-- img: /img/carousel/keynote-splash-2014.jpg
-  caption-header: Dr. Jizhong Xiao gives a talk on robotics
-  caption-body: Stuy Splash 2014
+- img: /img/carousel/2016week1.jpg
+  caption-header: Working on prototypes
+  caption-body: 2016 Build Season- Week 1
+- img: /img/carousel/2016week2.jpg
+  caption-header: Finalizing design of our robot
+  caption-body: 2016 Build Season - Week 2
+- img: /img/carousel/2016week3.jpg
+  caption-header: Finishing executive summary
+  caption-body: 2016 Build Season - Week 3
+- img: /img/carousel/2016week4.jpg
+  caption-header: Working hard on Chairman's
+  caption-body: 2016 Build Season - Week 4
+- img: /img/carousel/2016week5.jpg
+  caption-header: Getting ready to test DEStiny
+  caption-body: 2016 Build Season - Week 5
