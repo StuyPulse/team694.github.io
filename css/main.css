@@ -16,7 +16,7 @@
     text-align: center;
 }
 
-.sponsor-logo {
+.sponsor-logo-image {
     padding: 15px;
 }
 
@@ -99,10 +99,10 @@ article{
 }
 
 .read-more a {
-    padding: 8px;          
-    background-color: #f5f5f5;     
-    line-height: 2.5em;     
-    border-radius: 5px;  
+    padding: 8px;
+    background-color: #f5f5f5;
+    line-height: 2.5em;
+    border-radius: 5px;
     border: 1px solid #e5e5e5;
 }
 

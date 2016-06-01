@@ -13,7 +13,7 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
     <div class="span3 sponsor-logo-container">
         {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
         {% if sponsor.logo %}
-            <img class="sponsor-logo" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
+            <img class="sponsor-logo-image" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
         {% else %}
             <div class="sponsor-text-sponsor-page"><h4><strong>{{ sponsor.name }}</strong></h4></div>
         {% endif %}
@@ -43,7 +43,7 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
     <div class="span3 sponsor-logo-container">
         {% if thanks.site %}<a href="{{ thanks.site }}">{% endif %}
         {% if thanks.logo %}
-            <img class="sponsor-logo" alt="{{ thanks.name }}" title="{{ thanks.name }}" src="{{ thanks.logo }}">
+            <img class="sponsor-logo-image" alt="{{ thanks.name }}" title="{{ thanks.name }}" src="{{ thanks.logo }}">
         {% else %}
             <div class="sponsor-text-sponsor-page"><h4><strong>{{ thanks.name }}</strong></h4></div>
         {% endif %}
@@ -73,13 +73,13 @@ Contributors shall receive a link to their website on StuyPulse.com.
 Contributors shall be named on the back of the year's T-shirt.
 
 #### Bronze <small>$2000-$4999</small>
-Contributors shall have their Decal placed on the competing robot. 
+Contributors shall have their Decal placed on the competing robot.
 
 #### Silver <small>$5000-$9999</small>
-Contributors shall have their name printed in large font on the T-shirt 
+Contributors shall have their name printed in large font on the T-shirt
 
 #### Gold <small>$10000+</small>
-Contributors shall have their name placed on the banner. 
+Contributors shall have their name placed on the banner.
 
 #### Platinum <small>Highest Contributor</small>
 Contributor shall receive the honor of naming the robot.
