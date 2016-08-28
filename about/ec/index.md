@@ -27,7 +27,7 @@ The President of Software Engineering primarily manages the development of robot
 ### Vice President of Engineering <small>{{ site.data.ec.vpoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpoe.photo %} <img src="{{ site.data.ec.vpoe.photo }}" class="ec-photo" alt="Vice President of Engineering"> {% endif %}
-The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. He should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
+The Vice President of Engineering is considered the second-in-command for that department. This Vice President should have knowledge of what the Presidents are currently doing and should be able to direct the Engineering sect in the event of the Engineering President's absence. They should have extensive knowledge of each part of the robot as well as some basic knowledge of all awards submissions.
 </div>
 
 ### Vice President of Marketing <small>{{ site.data.ec.vpom.name }}</small>
@@ -51,7 +51,7 @@ The Director of Electronics is to set up and manage the electronic systems on th
 ### Assistant Director of Electronics <small>{{ site.data.ec.adoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.adoe.photo %} <img src="{{ site.data.ec.adoe.photo }}" class="ec-photo" alt=“Assistant Director of Electronics"> {% endif %}
-The Assistant Director of Electronics must be familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time. 
+The Assistant Director of Electronics must be familiar with all aspects of the electronic systems on the robot and be able to assume the jobs of Director of Electronics at any time.
 </div>
 
 ### Director of Lab Operations and Safety <small>{{ site.data.ec.lab-ops.name }}</small>
@@ -72,12 +72,17 @@ The Director of Procurement is responsible for overseeing and actualizing the pr
 The Director of Finance must ensure the stability of the team’s finances, such as the budget of each department in conjunction with the EEC and Faculty Advisors. They must also maintain stable relationships with sponsors and contact them on a regular basis.
 </div>
 
+### Director of Operations <small>{{ site.data.ec.ops.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.ops.photo %} <img src="{{ site.data.ec.ops.photo }}" class="ec-photo" alt="Director of Operations"> {% endif %}
+The Director of Operations will handle the day-to-day operations of the marketing division and the whole team. They is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. Also, the Director of Operations is responsible for award submissions. They is responsible for a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
+</div>
+
 ### Director of Public Relations <small>{{ site.data.ec.pr.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pr.photo %} <img src="{{ site.data.ec.pr.photo }}" class="ec-photo" alt="Director of Public Relations"> {% endif %}
 The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations). At the same time, they are responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media.
 </div>
-
 
 ### Director of Strategy <small>{{ site.data.ec.strategy.name }}</small>
 <div markdown="1" class="ec-description">
@@ -88,7 +93,7 @@ The Director of Strategy is to ensure all team members know game rules and robot
 ### Assistant Director of Strategy <small>{{ site.data.ec.ados.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.ados.photo %} <img src="{{ site.data.ec.ados.photo }}" class="ec-photo" alt="Assistant Director of Strategy"> {% endif %}
-The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary. 
+The Assistant Director of Strategy is to be familiar with all aspects of strategy and be ready to assume the jobs of Director of Strategy if necessary.
 </div>
 
 ### Director of Design <small>{{ site.data.ec.design.name }}</small>
@@ -110,10 +115,8 @@ Is it the job of the Director of Field Construction to construct the field of th
 other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 </div>
 
-
-### Director of Animation <small>{{ site.data.ec.animation.name }}</small>
+### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
-{% if site.data.ec.animation.photo %} <img src="{{ site.data.ec.animation.photo }}" class="ec-photo" alt="Director of Animation"> {% endif %}
-The Director of Animation is responsible for coordinating the team’s animation efforts, including participation in FIRST’s animation competitions and off­season competitions as well as creating promotional animations. This person should maintain an active animation department, recruiting and training participants.
+{% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
-
