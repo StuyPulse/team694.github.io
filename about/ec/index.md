@@ -115,12 +115,6 @@ Is it the job of the Director of Field Construction to construct the field of th
 other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 </div>
 
-### Director of Animation <small>{{ site.data.ec.animation.name }}</small>
-<div markdown="1" class="ec-description">
-{% if site.data.ec.animation.photo %} <img src="{{ site.data.ec.animation.photo }}" class="ec-photo" alt="Director of Animation"> {% endif %}
-The Director of Animation is responsible for coordinating the team’s animation efforts, including participation in FIRST’s animation competitions and off­season competitions as well as creating promotional animations. This person should maintain an active animation department, recruiting and training participants.
-</div>
-
 ### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}

@@ -43,7 +43,5 @@ design:
 machinist:
     name: Anya Keller
     photo: /img/ec/anya.jpg
-animation:
-    name: Vacant
 webmaster:
     name: James Wang
