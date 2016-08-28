@@ -4,7 +4,7 @@ title: Team Leadership
 description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
 # Looking for EC positions? You can find them in _data/ec.yml.
 ---
-Say hello to the Executive Council of the 2015-2016 season.
+Say hello to the Executive Council of the 2016-2017 season.
 
 ### President of Engineering <small>{{ site.data.ec.poe.name }}</small>
 <div markdown="1" class="ec-description">
