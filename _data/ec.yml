@@ -3,6 +3,7 @@
 # For each position, name is required and photo is optional.
 poe:
     name: Jonah S.
+    photo: /img/ec/jonah.jpg
 pom:
     name: Courtney C.
     photo: /img/ec/courtney.jpg
