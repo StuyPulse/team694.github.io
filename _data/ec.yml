@@ -2,46 +2,46 @@
 # Used by: /about/ec
 # For each position, name is required and photo is optional.
 poe:
-    name: Jonah Sachs-Wetstone
+    name: Jonah S.
 pom:
-    name: Courtney Chiu
+    name: Courtney C.
     photo: /img/ec/courtney.jpg
 pse:
-    name: Wilson Berkow
+    name: Wilson B.
 vpoe:
-    name: Levi Olevski
+    name: Levi O.
 vpom:
-    name: Lamia Bushra
+    name: Lamia B.
 vpse:
-    name: Nicole Shin
+    name: Nicole S.
 lab-ops:
-    name: Arpita Abrol
+    name: Arpita A.
     photo: /img/ec/arpita.jpg
 ops:
-    name: Dana Yang
+    name: Dana Y.
     photo: /img/ec/dana.jpg
 finance:
-    name: Winne Lin
+    name: Winne L.
 pr:
-    name: Yedoh Kang
+    name: Yedoh K.
 procurement:
-    name: James Smith
+    name: James S.
 electronics:
-    name: Anthony Zeng
+    name: Anthony Z.
     photo: /img/ec/anthony.jpg
 adoe:
-    name: Brian Leung
+    name: Brian L.
 field:
-    name: Meredith Hu
+    name: Meredith H.
 strategy:
-    name: Christopher Sherling
+    name: Christopher S.
     photo: /img/ec/chris.jpg
 ados:
-    name: Piotr Milewski
+    name: Piotr M.
 design:
     name: Vacant
 machinist:
-    name: Anya Keller
+    name: Anya K.
     photo: /img/ec/anya.jpg
 webmaster:
-    name: James Wang
+    name: James W.
