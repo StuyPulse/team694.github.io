@@ -46,7 +46,7 @@ Information and materials for potential [sponsors](/sponsors/).
 #### [Team Charter](/downloads/teamdocs/StuyPulseCharter2016-2017.pdf)
 A formal description of our team's structure and government.
 
-#### ['12 - '13 Operations Plan](/downloads/teamdocs/2012-2013OpsPlan.pdf)
+#### ['16 - '17 Operations Plan](/downloads/teamdocs/2016-2017OpsPlan.pdf)
 A statement of the long-term vision and goals of our team, and a plan for the year. The Operations Plan is prepared every summer by the incoming team leadership.
 
 ### Team Publications
