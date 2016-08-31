@@ -9,43 +9,43 @@ Meet the Executive Council!
 ### President of Engineering <small>{{ site.data.ec.poe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.poe.photo %} <img src="{{ site.data.ec.poe.photo }}" class="ec-photo" alt="President of Engineering"> {% endif %}
-The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. He/She is also knowledgeable about the details of the Chairman’s Award submission and other award submissions.
+The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Chairman’s Award submission and other award submissions.
 </div>
 
 ### President of Marketing <small>{{ site.data.ec.pom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pom.photo %} <img src="{{ site.data.ec.pom.photo }}" class="ec-photo" alt="President of Marketing"> {% endif %}
-The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. He/She has full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
+The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
 </div>
 
 ### President of Software Engineering <small>{{ site.data.ec.pse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pse.photo %} <img src="{{ site.data.ec.pse.photo }}" class="ec-photo" alt="President of Software Engineering"> {% endif %}
-The President of Software Engineering primarily manages the development of robot code and all related software. He/She also manages the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. He/She works closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have the same level of familiarity with the robot as the PoE.
+The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have the same level of familiarity with the robot as the PoE.
 </div>
 
 ### Vice President of Engineering <small>{{ site.data.ec.vpoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpoe.photo %} <img src="{{ site.data.ec.vpoe.photo }}" class="ec-photo" alt="Vice President of Engineering"> {% endif %}
-The Vice President of Engineering is considered the second-in-command for the Engineering department. He/She has knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
+The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 </div>
 
 ### Vice President of Marketing <small>{{ site.data.ec.vpom.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpom.photo %} <img src="{{ site.data.ec.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
-The Vice President of Marketing is the second-­in-­command for the Marketing department. The VPoM should have knowledge of what the President of Marketing is currently doing and should be able to direct the Marketing department in the event of the PoM’s absence. He/She has extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
+The Vice President of Marketing is the second-­in-­command for the Marketing department. The VPoM should have knowledge of what the President of Marketing is currently doing and should be able to direct the Marketing department in the event of the PoM’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
 </div>
 
 ### Vice President of Software Engineering <small>{{ site.data.ec.vpse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpse.photo %} <img src="{{ site.data.ec.vpse.photo }}" class="ec-photo" alt="Vice President of Software Engineering"> {% endif %}
-The Vice President of Software Engineering is the second­-in-­command for the Software Engineering department. He/She has knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
+The Vice President of Software Engineering is the second­in­command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
 </div>
 
 ### Director of Electronics <small>{{ site.data.ec.electronics.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.electronics.photo %} <img src="{{ site.data.ec.electronics.photo }}" class="ec-photo" alt="Director of Electronics"> {% endif %}
-The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. He/She cooperates with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics sub­department.
+The Director of Electronics sets up and manages the electronic systems on the robot to FIRST regulations. They cooperate with both engineers and software engineers to ensure that the electronic systems are organised and able to be modified if needed. The DoE is also responsible for the education of other members in the electronics sub­department.
 </div>
 
 ### Assistant Director of Electronics <small>{{ site.data.ec.adoe.name }}</small>
@@ -57,7 +57,7 @@ The Assistant Director of Electronics is familiar with all aspects of the electr
 ### Director of Lab Operations and Safety <small>{{ site.data.ec.lab-ops.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.lab-ops.photo %} <img src="{{ site.data.ec.lab-ops.photo }}" class="ec-photo" alt="Director of Lab Operations"> {% endif %}
-The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. He/She is responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
+The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
 </div>
 
 ### Director of Procurement <small>{{ site.data.ec.procurement.name }}</small>
@@ -111,11 +111,11 @@ The Primary Machinist is responsible for the maintaining the mill, lathe, and th
 ### Director of Field Construction <small>{{ site.data.ec.field.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.field.photo %} <img src="{{ site.data.ec.field.photo }}" class="ec-photo" alt="Director of Field Construction"> {% endif %}
-It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. He/She is responsible for the upkeep of the shipping/robot crates and building new robot carts.
+It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
 </div>
 
 ### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. He/She must also use the website to keep the team and any visitors to the website informed and interested.
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
