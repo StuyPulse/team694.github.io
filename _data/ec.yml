@@ -3,10 +3,8 @@
 # For each position, name is required and photo is optional.
 poe:
     name: Jonah S.
-    photo: /img/ec/jonah.jpg
 pom:
     name: Courtney C.
-    photo: /img/ec/courtney.jpg
 pse:
     name: Wilson B.
 vpoe:
@@ -17,10 +15,8 @@ vpse:
     name: Nicole S.
 lab-ops:
     name: Arpita A.
-    photo: /img/ec/arpita.jpg
 ops:
     name: Dana Y.
-    photo: /img/ec/dana.jpg
 finance:
     name: Winne L.
 pr:
@@ -29,20 +25,17 @@ procurement:
     name: James S.
 electronics:
     name: Anthony Z.
-    photo: /img/ec/anthony.jpg
 adoe:
     name: Brian L.
 field:
     name: Meredith H.
 strategy:
     name: Christopher S.
-    photo: /img/ec/chris.jpg
 ados:
     name: Piotr M.
 design:
     name: Vacant
 machinist:
     name: Anya K.
-    photo: /img/ec/anya.jpg
 webmaster:
     name: James W.
