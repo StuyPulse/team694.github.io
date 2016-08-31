@@ -39,7 +39,7 @@ The Vice President of Marketing is the second-­in-­command for the Marketing d
 ### Vice President of Software Engineering <small>{{ site.data.ec.vpse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpse.photo %} <img src="{{ site.data.ec.vpse.photo }}" class="ec-photo" alt="Vice President of Software Engineering"> {% endif %}
-The Vice President of Software Engineering is the second­in­command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
+The Vice President of Software Engineering is the second­-in-­command for the Software Engineering department. They have knowledge of what the President of Software Engineering is currently doing and should be able to direct the Software Engineering department in the event of the PoSE’s absence, as well as collaborate with the President of Engineering in managing the overall robot project.
 </div>
 
 ### Director of Electronics <small>{{ site.data.ec.electronics.name }}</small>
