@@ -1,6 +1,6 @@
 # Executive Council positions
 # Used by: /about/ec
-# For each position, name is required and photo is optional.
+# Whenever updating this file, consult the style guide: https://github.com/Team694/team694.github.io/wiki/Style-Guide
 poe:
     name: Jonah S.
 pom:
