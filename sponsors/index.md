@@ -29,7 +29,7 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
 <div class="row">
     {% endif %}
     {% assign modulo = forloop.index0 | modulo: 4 %}
-    {% if modulo == '2' %} {% comment %} To make the rows align nicely. {% endcomment %}
+    {% if modulo == 2 %} {% comment %} To make the rows align nicely. {% endcomment %}
 </div>
 <div class="row">
     {% endif %}
@@ -49,6 +49,11 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
         {% endif %}
         {% if thanks.site %}</a>{% endif %}
     </div>
+    {% assign modulo = forloop.index0 | modulo: 4 %}
+    {% if modulo == 3 %} {% comment %} To make the rows align nicely. {% endcomment %}
+</div>
+<div class="row">
+    {% endif %}
 {% endfor %}
 </div>
 ---
