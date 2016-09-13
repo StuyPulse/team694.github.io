@@ -20,5 +20,5 @@ Interested in how our site is built? Our site is 100% open source; feel free to 
 
 If you would like to contact our web team, [send us an email](/contact/) and we'll get back to you as soon as we can. We're happy to help with any questions you may have!
 
-Kevin Wang ('13) and Sungwoo Park ('15)  
-2013 Webmasters
+James Wang ('17)  
+2016-2017 Webmaster
