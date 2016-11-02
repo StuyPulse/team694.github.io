@@ -72,19 +72,19 @@ For more information and resources, see our press packet [here](/downloads/teamd
 Contributors receive a letter of appreciation.
 
 #### Sheet Metal <small>$100-$499</small>
-Contributors shall receive a link to their website on StuyPulse.com.
+Contributors shall receive a link to their website on StuyPulse.com, along with an invitation to visit the robotics lab during build season.
 
 #### Aluminum <small>$500-$1999</small>
 Contributors shall be named on the back of the year's T-shirt.
 
 #### Bronze <small>$2000-$4999</small>
-Contributors shall have their Decal placed on the competing robot.
+Contributors shall receive a signed team photograph and have their Decal placed on the competing robot.
 
 #### Silver <small>$5000-$9999</small>
-Contributors shall have their name printed in large font on the T-shirt
+Contributors shall receive a thank you package and have their name associated with StuyPulse.
 
 #### Gold <small>$10000+</small>
-Contributors shall have their name placed on the banner.
+Contributors shall receive a plaque of appreciation.
 
 #### Platinum <small>Highest Contributor</small>
 Contributor shall receive the honor of naming the robot.
