@@ -12,7 +12,7 @@ description: StuyPulse has many resources available, including source code, docu
 #### [Open Source Software](https://github.com/Team694)
 From our robot code to [this very website](/about/website/), everything we develop is open source. Check out our code on GitHub!
 
-#### [Stuy Splash Presentations](/community/projects/stuysplash/): [2012](/resources/stuysplash2012/) | [2013](/resources/stuysplash2013/) | [2014](/resources/stuysplash2014/)
+#### [Stuy Splash Presentations](/community/projects/stuysplash/): [2012](/resources/stuysplash2012/) | [2013](/resources/stuysplash2013/) | [2014](/resources/stuysplash2014/) | [2015](/resources/stuysplash2015)
 [Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
 
 We have uploaded the presentations from the event, and they are available for download.
