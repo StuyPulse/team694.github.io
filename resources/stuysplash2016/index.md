@@ -9,4 +9,8 @@ Stuy Splash 2016 will be held at Stuyvesant High School on December 10 from 9am 
 
 Register for tickets [here](https://www.eventbrite.com/e/stuy-splash-tickets-28878569579).
 
-![Stuy Splash 2016 Poster](/img/projects/stuysplash-2016-poster.jpg)
+![Stuy Splash 2016 Poster](/img/projects/stuysplash2016/poster.jpg)
+
+![Stuy Splash 2016 Schedule](/img/projects/stuysplash2016/schedule.jpg)
+
+![Stuy Splash 2016 Catalog](/img/projects/stuysplash2016/catalog.jpg)
