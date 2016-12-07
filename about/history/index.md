@@ -2,7 +2,23 @@
 layout: history
 title: Team History
 ---
-Team 694 is now in our {{ site.time | date: "%Y" | minus:2000 }}th year as a FIRST team, having just recently celebrated our 10th anniversary in 2010. Since its founding in 2000, this team has significantly developed, accomplishing much in terms of experience, awards and outreach.
+{% capture year %}{{ site.time | date: "%Y" | minus:2000 }}{% endcapture %}
+{% capture lastTwoDigits %}{{ year | modulo: 100 }}{% endcapture %}
+{% if lastTwoDigits >= "11" and lastTwoDigits <= "13" %}
+    {% assign suffix = "th" %}
+{% else %}
+    {% capture lastDigit %}{{ year | modulo: 10 }}{% endcapture %}
+    {% if lastDigit == "1" %}
+        {% assign suffix = "st" %}
+    {% elsif lastDigit == "2" %}
+        {% assign suffix = "nd" %}
+    {% elsif lastDigit == "3" %}
+        {% assign suffix = "rd" %}
+    {% else %}
+        {% assign suffix = "th" %}
+    {% endif %}
+{% endif %}
+Team 694 is now in our {{ year }}{{ suffix }} year as a FIRST team, having just recently celebrated our 10th anniversary in 2010. Since its founding in 2000, this team has significantly developed, accomplishing much in terms of experience, awards and outreach.
 
 Click on the links in the sidebar to explore our team's history!
 
