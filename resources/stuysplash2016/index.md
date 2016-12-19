@@ -20,6 +20,8 @@ In 2016, we held Stuy Splash at Stuyvesant High School on December 10. Below are
 > The Game Reveal video just came out and you want to figure out how to build that robot. You start talking about shooters and macha-STOP! How do you know that you are building the best robot? This lecture will help guide you through what it takes to be a real engineer and to strategize how to make the best robot.
 
 ### Computer Vision <small>with Wilson Berkow</small>
+[Presentation](https://docs.google.com/presentation/d/1KvPWpPO9rFjTZ3nKJy4rmbvxRiOo2EwrciE0fggv8xM/edit?usp=sharing)
+
 > You'll learn about how our Stronghold computer vision worked in the end, the obstacles we faced, and how we solved them.
 
 ### Strategic Thinking and Strategy Teams <small>with Christopher Sherling</small>
