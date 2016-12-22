@@ -14,11 +14,13 @@ In 2016, we held Stuy Splash at Stuyvesant High School on December 10. Below are
 > Explore the strategies that the top teams use to get to the "Final Field". It is clear the level of competition changes as you go from qualifications to eliminations. Join us as we dive into how teams win and lose the World Championship.
 
 ### CAD and its Uses for FRC <small>with Jonah Sachs-Wetstone</small>
-[Presentation](https://drive.google.com/a/stuypulse.com/file/d/0B_BCYZnpk1QRY0d3OXNqXzY1Mmc/view?usp=sharing)
+[Presentation](https://drive.google.com/file/d/0B_BCYZnpk1QRY0d3OXNqXzY1Mmc/view?usp=sharing)
 
 > We will discuss SolidWorks for FRC teams, go over the uses of CAD in building and design, and demonstrate basic SolidWorks.
 
 ### Strategy and Design <small>with Eric Lam</small>
+[Presentation](https://drive.google.com/file/d/0B_BCYZnpk1QRZEFoekd4QmFyVmM/view?usp=sharing)
+
 > The Game Reveal video just came out and you want to figure out how to build that robot. You start talking about shooters and macha-STOP! How do you know that you are building the best robot? This lecture will help guide you through what it takes to be a real engineer and to strategize how to make the best robot.
 
 ### Computer Vision <small>with Wilson Berkow</small>
