@@ -1,18 +1,12 @@
 # Carousel items on front page
 # There must be exactly 5 items
-- img: /img/carousel/2016week1.jpg
-  caption-header: Working on prototypes
-  caption-body: 2016 Build Season- Week 1
-- img: /img/carousel/2016week2.jpg
-  caption-header: Finalizing design of our robot
-  caption-body: 2016 Build Season - Week 2
-- img: /img/carousel/2016week3.jpg
-  caption-header: Finishing executive summary
-  caption-body: 2016 Build Season - Week 3
-- img: /img/carousel/2016week4.jpg
-  caption-header: Working hard on Chairman's
-  caption-body: 2016 Build Season - Week 4
-- img: /img/carousel/2016week5.jpg
-  caption-header: Getting ready to test DEStiny
-  caption-body: 2016 Build Season - Week 5
-
+- img: /img/carousel/SoFlo-Regional-2016.jpg
+  caption-header: DEStiny in action during the South Florida Regional
+- img: /img/carousel/DEStiny-CAD.png
+  caption-header: Our CAD Design of DEStiny
+- img: /img/carousel/working-on-destiny.png
+  caption-header: Engineers hard at work with building the robot during build season
+- img: /img/carousel/machining.png
+  caption-header: Engineers working with the mill during build season
+- img: /img/carousel/DEStiny-in-the-pit.jpg
+  caption-header: Members and mentors hard at work during NYC Regional
