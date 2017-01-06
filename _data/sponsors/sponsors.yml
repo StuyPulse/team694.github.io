@@ -10,17 +10,11 @@
 - name: Con Edison
   logo: /img/sponsors/conedison.gif
   site: http://www.coned.com/
-- name: SEP Tech Consulting
-  logo: /img/sponsors/septechconsulting.gif
-- name: Credit Suisse
-  logo: /img/sponsors/creditsuisse.gif
-  site: https://www.credit-suisse.com/us/en/
 - name: SHS Alumni Association
   logo: /img/sponsors/shsaa.gif
   site: http://www.shsaa.org/
 - name: SHS Parents' Association
   site: http://stuy-pa.org/home/
-- name: SHS Class of 1961
 - name: Ann &amp; Donovan Moore
 - name: Abby &amp; Tom Ferguson
   site: http://www.coxandco.com/management/tom-ferguson.html
@@ -36,7 +30,6 @@
 - name: Think Shirt
   logo: /img/sponsors/thinkshirt.png
   site: http://www.ThinkShirt.com
-- name: W.Y.N.
 - name: Joe Ricci
 - name: Evan Greene
 - name: Yvonne and Roland Conybeare
