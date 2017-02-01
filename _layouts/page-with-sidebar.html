@@ -8,19 +8,21 @@ layout: default
     </div>
     <div class="span3">
         <hr>
-        {% if page.url == '/about/index.html' %}
+        {% if page.url == '/about/' %}
             {% include sidebar/about.html %}
-        {% elsif page.url == '/about/divisions/index.html' %}
+        {% elsif page.url == '/about/divisions/' %}
             {% include sidebar/divisions.html %}
-        {% elsif page.url == '/about/ec/index.html' %}
+        {% elsif page.url == '/about/ec/' %}
             {% include sidebar/ec.html %}
-        {% elsif page.url == '/about/mentors/index.html' %}
+        {% elsif page.url == '/about/mentors/' %}
             {% include sidebar/mentors.html %}
+        {% elsif page.url == '/about/website/' %}
+            {% include sidebar/website.html %}
         {% elsif page.url contains '/about/mentors/woodieflowers/' %}
             {% include sidebar/woodieflowersessay.html %}
-        {% elsif page.url == '/about/website/index.html' %}
+        {% elsif page.url == '/about/website/' %}
             {% include sidebar/website.html %}
-        {% elsif page.url == '/community/index.html' %}
+        {% elsif page.url == '/community/' %}
             {% include sidebar/outreach.html %}
         {% elsif page.url contains '/community/projects/' %}
             {% include sidebar/project.html %}
