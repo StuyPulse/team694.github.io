@@ -57,6 +57,7 @@ A statement of the long-term vision and goals of our team, and a plan for the ye
 - [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
 
 #### Magazines
+- [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
 - [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
 - [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
 - [2009 Magazine](/downloads/teamdocs/magazines/09mag.pdf)
