@@ -19,12 +19,9 @@ Team 694 also believes in open source software and the free distribution of our 
 
 All of our code (past and present) is open source and available for viewing on [GitHub](https://github.com/Team694).
 
-## Marketing and Logistics
+## Marketing
 <img class="photo-right" src="/img/divisions/marketing2012.jpg" alt="Marketing and Logistics">
-Our marketing and logistics sub team has a very diverse list of responsibilities. It is in charge of fundraising, branding, logistical work like meals during build season and travel planning, award submissions, outreach as well as any other task that does not fall under the other sub teams. To make sure all these projects are running smoothly, we have a President and Vice President of Marketing. They are also responsible for being the primary contact for our sponsors. Our Director of Public Relations is responsible for coordinating all of our outreach efforts, which include mentoring FLL, FTC, and FRC teams as well as reaching out to local restaurants and communities' centers. We also have a secretary responsible for ensuring there is clear communication between all of our mentors, faculty advisers, parents, and sub teams.
-
-## Animation
-Our animation division specializes in creating 3-D models and manipulating them to create videos which showcase technology or advocate safety. Using the professional Autodesk software, 3ds Max and Combustion, animators are responsible for creating a safety animation and a technology video for the Autodesk Visualization Award.
+Our marketing sub team has a very diverse list of responsibilities. It is in charge of fundraising, branding, logistical work like meals during build season and travel planning, award submissions, outreach as well as any other task that does not fall under the other sub teams. To make sure all these projects are running smoothly, we have a President and Vice President of Marketing. They are also responsible for being the primary contact for our sponsors. Our Director of Public Relations is responsible for coordinating all of our outreach efforts, which include mentoring FLL, FTC, and FRC teams as well as maintaining a strong presence on the media. Our Director of Finance maintains contact with sponsors and ensures the stability of the budget, and our Director of Operations helps out with the logistics of events and paperwork.
 
 ## Web Development
-Our web team is a hardworking Marketing sub team. They are responsible for maintaining the various websites in the StuyPulse network. Responsibilities include, but are not limited to: back-end programming (with Jekyll, PHP, etc.), front-end development (with HTML, CSS, JavaScript, etc.), site hosting, and content. [Learn more about this website](/about/website/).
+They are responsible for maintaining the various websites in the StuyPulse network. Responsibilities include, but are not limited to: back-end programming (with Jekyll, PHP, etc.), front-end development (with HTML, CSS, JavaScript, etc.), site hosting, and content. [Learn more about this website](/about/website/).
