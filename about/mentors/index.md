@@ -15,7 +15,7 @@ Rafael gives his time generously all year long. Our team is able to work in our 
 As a teacher, Rafael knows how to guide members without doing their work for them. He starts off the day with a team-wide meeting where everyone, from president to newbie, figures out exactly what to do, how to do it, and what is needed to accomplish it. By holding us strictly to our deadlines, we are taught time management skills. More significantly, Rafael emphasizes teamwork above victory. When tempers flare in the lab, he reminds us that what we'll remember years from now are the people we worked with, not the matches we won.
 
 Rafael was selected by New York 1, the local news channel at NYC, as the New Yorker of the week for his hardwork, commitment, and contributions.The article and the video for the report can be found here !
- 
+
 [Read about Mr. Colón in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/colon)
 </div>
 
@@ -29,7 +29,7 @@ Tom Ferguson is an engineer with years of experience. He serves as Vice Presiden
 ### Ron Kunicki
 <div markdown="1" class="ec-description">
 Dedicated, resourceful, precise, compassionate, funny, - who is this jolly ole mentor who never fails to show up to save the day? None other than engineer and "father of the team," Ron Kunicki. Not only has his easygoing nature captured our hearts and minds, his dedication to FIRST has given him an essential role on our team. When asked why he was so committed, he replied, "With team 694, my mind continues to be entertained, and sometimes I even have to go home and research the problems the team asks me." Whatever the reason, Ron's leadership and dedication have become a vital part of the team. Ron joined the team as a parent for his daughter Theo, who has graduated and is currently a student at MIT, yet he continues to return year after year.
- 
+
 [Read about Ron in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/ron)
 </div>
 
@@ -43,7 +43,7 @@ Joe Ricci is a FIRST success story. He joined the team in its second year, and s
 ### Joe Blay
 <div markdown="1" class="ec-description">
 <img src="/img/mentors/blay.jpg" class="ec-photo" alt="Joe Blay">
-Like Joe Ricci, Joe Blay was a former StuyPulse student, graduating in 2009. While a student, he was an engineer and the main driver. After graduating, he made sure to stay with the team, despite his time studying in Stony Brook University. He mentors every aspect of the team in one way or another trying to make sure that every division of 694 is constantly growing. His main departments are engineering and strategy. During competitions, he works on the drive team, as the coach, setting up our match strategy and making sure the drivers are ready to play as well as making sure that the strategy team is gets us ready for every match and the elimination rounds..
+Like Joe Ricci, Joe Blay was a former StuyPulse student, graduating in 2009. While a student, he was an engineer and the main driver. After graduating, he made sure to stay with the team, despite his time studying in Stony Brook University. He mentors every aspect of the team in one way or another trying to make sure that every department of 694 is constantly growing. His main departments are engineering and strategy. During competitions, he works on the drive team, as the coach, setting up our match strategy and making sure the drivers are ready to play as well as making sure that the strategy team is gets us ready for every match and the elimination rounds..
 </div>
 
 ### Seth Berg

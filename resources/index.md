@@ -21,7 +21,7 @@ We have uploaded the presentations from the event, and they are available for do
 Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stuyvesant High School in December, 2011.
 
 #### [Driver Station Troubleshooting Guide](/downloads/docs/694%20Troubleshooting%20Guide.docx)
-A document published by our Software Engineering division in 2011 with solutions to common Driver Station issues.
+A document published by our Software Engineering department in 2011 with solutions to common Driver Station issues.
 
 ### Tutorials
 

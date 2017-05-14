@@ -27,7 +27,7 @@ The President of Software Engineering primarily manages the development of robot
 ### Vice President of Engineering <small>{{ site.data.ec.vpoe.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.vpoe.photo %} <img src="{{ site.data.ec.vpoe.photo }}" class="ec-photo" alt="Vice President of Engineering"> {% endif %}
-The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering division in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
+The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering department in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 </div>
 
 ### Vice President of Marketing <small>{{ site.data.ec.vpom.name }}</small>
@@ -75,7 +75,7 @@ The Director of Finance must ensure the stability of the team’s finances, such
 ### Director of Operations <small>{{ site.data.ec.ops.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.ops.photo %} <img src="{{ site.data.ec.ops.photo }}" class="ec-photo" alt="Director of Operations"> {% endif %}
-The Director of Operations will handle the day-to-day operations of the marketing division and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
+The Director of Operations will handle the day-to-day operations of the marketing department and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
 </div>
 
 ### Director of Public Relations <small>{{ site.data.ec.pr.name }}</small>
