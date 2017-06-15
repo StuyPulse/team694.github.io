@@ -18,7 +18,7 @@ title: Team History
         {% assign suffix = "th" %}
     {% endif %}
 {% endif %}
-Team 694 is now in our {{ year }}{{ suffix }} year as a FIRST team, having just recently celebrated our 10th anniversary in 2010. Since its founding in 2000, this team has significantly developed, accomplishing much in terms of experience, awards and outreach.
+Team 694 is now in its {{ year }}{{ suffix }} year as a FIRST team, having just recently celebrated its 15th anniversary in 2015. Since its founding in 2000, this team has significantly developed, accomplishing much in terms of experience, awards and outreach.
 
 Click on the links in the sidebar to explore our team's history!
 
