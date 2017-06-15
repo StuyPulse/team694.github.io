@@ -22,6 +22,6 @@ Team 694 is now in our {{ year }}{{ suffix }} year as a FIRST team, having just 
 
 Click on the links in the sidebar to explore our team's history!
 
-<div class="text-center">
-<iframe width="640" height="360" src="http://www.youtube.com/embed/nr2WkHondog" frameborder="0" allowfullscreen></iframe>
+<div class="responsive-video text-center">
+<iframe src="http://www.youtube.com/embed/nr2WkHondog" frameborder="0" allowfullscreen></iframe>
 </div>

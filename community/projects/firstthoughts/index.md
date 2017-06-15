@@ -8,6 +8,6 @@ Team members, mentors, and supporters can make a short, 2-minute video of themse
 
 [Go to the FIRSTthoughts website &raquo;](http://firstthoughts.org/)
 
-<div style="text-align: center">
-    <iframe width="640" height="360" src="http://www.youtube.com/embed/2p48MMW4GyY" frameborder="0"> </iframe>
+<div class="responsive-video text-center">
+    <iframe src="http://www.youtube.com/embed/2p48MMW4GyY" frameborder="0"> </iframe>
 </div>

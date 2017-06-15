@@ -7,25 +7,25 @@ Fundraising is a very important aspect of maintaining any FIRST Robotics team.  
 ## Sponsorships and Grants
 Raising money through sponsorships and grants can be an easy and reliable way of securing your team's budget.  The most important thing when applying for these grants is to appeal to what the foundation or company wants, and not what you want.
 
-The first step in initiating contact with a potential sponsor is to assess their needs. What are they looking for? How can your team meet these needs? Answering these questions are the key to building and maintaining relationships with corporate sponsors as well as successfully applying for grants. 
+The first step in initiating contact with a potential sponsor is to assess their needs. What are they looking for? How can your team meet these needs? Answering these questions are the key to building and maintaining relationships with corporate sponsors as well as successfully applying for grants.
 
-The following video highlights the basics of fundraising. 
+The following video highlights the basics of fundraising.
 
-<div style="text-align: center">
-    <iframe width="480" height="360" src="http://www.youtube.com/embed/kUIwFhXBVXE" frameborder="0"> </iframe>  
+<div class="responsive-video text-center">
+    <iframe src="http://www.youtube.com/embed/kUIwFhXBVXE" frameborder="0"> </iframe>
 </div>
 
 ## Sponsorships
-The best place to start with sponsorships is in your own community. Most schools have a portion of their annual budget set aside for extra curricular programs. Assuming that you've already established the team, or built interest towards creating one, schedule an appointment with the school administration. Prepare a presentation that highlights the advantages of FIRST to both the school and its students. One place to start is [the FIRST website](http://www.usfirst.org/) and specifically, <a href="http://www.usfirst.org/aboutus/content.aspx?id=46" data-proofer-ignore>the page on FIRST's impact</a>. Building a relationship with your school administration is important. It comes in handy when you need to stay late for build season, leave for competition during a school day, or take a classroom hostage. 
+The best place to start with sponsorships is in your own community. Most schools have a portion of their annual budget set aside for extra curricular programs. Assuming that you've already established the team, or built interest towards creating one, schedule an appointment with the school administration. Prepare a presentation that highlights the advantages of FIRST to both the school and its students. One place to start is [the FIRST website](http://www.usfirst.org/) and specifically, <a href="http://www.usfirst.org/aboutus/content.aspx?id=46" data-proofer-ignore>the page on FIRST's impact</a>. Building a relationship with your school administration is important. It comes in handy when you need to stay late for build season, leave for competition during a school day, or take a classroom hostage.
 
-Survey team members to discover any parents who work for corporations. Team parents are a great resource to build contacts within the corporate world. Once you find a contact, attempt to set up a face-to-face meeting. This meeting could involve inviting them to your lab or FIRST Competition, visiting their headquarters, or somewhere in between. Face to face meetings are ideal because they are more effective than online correspondence; when a sponsor is being actively engaged in the FIRST experience, it is beneficial for everyone involved. Keep in mind that you have much more to gain than just money from these potential relationships. If a company is unable to donate money, they are often willing to help teams in the form of mentors, volunteers, equipment, or event space. If all else fails, many corporations have programs where they match charitable donations made by their employees. 
+Survey team members to discover any parents who work for corporations. Team parents are a great resource to build contacts within the corporate world. Once you find a contact, attempt to set up a face-to-face meeting. This meeting could involve inviting them to your lab or FIRST Competition, visiting their headquarters, or somewhere in between. Face to face meetings are ideal because they are more effective than online correspondence; when a sponsor is being actively engaged in the FIRST experience, it is beneficial for everyone involved. Keep in mind that you have much more to gain than just money from these potential relationships. If a company is unable to donate money, they are often willing to help teams in the form of mentors, volunteers, equipment, or event space. If all else fails, many corporations have programs where they match charitable donations made by their employees.
 
-Local businesses are also a great resource. In most cases there will already be an underlying sense of community; they want to see you succeed. The same premises of building relationships apply to local businesses- get them involved! 
+Local businesses are also a great resource. In most cases there will already be an underlying sense of community; they want to see you succeed. The same premises of building relationships apply to local businesses- get them involved!
 
-One way of adding incentive for possible sponsors is to create sponsorship levels. Sponsors who donate different amounts are recognized in degrees proportional to their donation. An example of sponsorship levels can be found on our site [here](/sponsors/). Another important aspect of building relationships with sponsors is recognition and giving back. The video below further explains how. 
+One way of adding incentive for possible sponsors is to create sponsorship levels. Sponsors who donate different amounts are recognized in degrees proportional to their donation. An example of sponsorship levels can be found on our site [here](/sponsors/). Another important aspect of building relationships with sponsors is recognition and giving back. The video below further explains how.
 
-<div style="text-align: center">
-    <iframe width="480" height="360" src="http://www.youtube.com/embed/GFH6-c-eKlc" frameborder="0"> </iframe>  
+<div class="responsive-video text-center">
+    <iframe src="http://www.youtube.com/embed/GFH6-c-eKlc" frameborder="0"> </iframe>
 </div>
 
 Further Reading:
@@ -36,9 +36,9 @@ Rookie Grants are awarded to teams who fit [the criteria as defined by FIRST](ht
 
 The largest funder of FIRST rookie teams across is country is NASA. Grant instructions can be found [here](http://frc-grants.arc.nasa.gov/rcs/directions.php).
 
-Contact your local FIRST HQ for local grants. 
+Contact your local FIRST HQ for local grants.
 
-Besides FIRST specific and rookie team grants, there are hundreds of prospective grants to apply for. The best bet is to apply for education grants. Emphasize the hands on education that students receive 
+Besides FIRST specific and rookie team grants, there are hundreds of prospective grants to apply for. The best bet is to apply for education grants. Emphasize the hands on education that students receive
 
 ## Fundraising Drives/Events
 Raising money through fundraising drives can be effective if difficult.  The key thing to remember is that regardless of what you're doing, you and your team are investing something, whether it be time, energy, or money, so it's imperative that you keep these costs down while maximizing your profit.
@@ -52,14 +52,14 @@ To run an effective candy sale, a team needs to invest the following things:
 
 2. Time: your team members need to be regularly selling candy for an extended period of time
 
-3. Money: try to buy bulk candy at wholesalers like Costco 
+3. Money: try to buy bulk candy at wholesalers like Costco
 
 4. System of Monitoring Sales: it's necessary to track the amount of candy you buy and how much your team sells to track your profits.  This can be anything from a computerized system to a spreadsheet, but it must be accurate.
 Other things you may need but aren't completely necessary
 
 1. Storage place – it may be difficult to match up when you bring in your candy and when your team members sell it
 
-2. Publicity – for StuyPulse, word of mouth worked just fine.  You may need to make announcements or something similar. 
+2. Publicity – for StuyPulse, word of mouth worked just fine.  You may need to make announcements or something similar.
 
 As an example, this is how StuyPulse carried out its candy sales:
 
@@ -93,7 +93,7 @@ Our school is located in a fairly-high traffic area in NYC, so we hold booksales
 
 Here's how we carry it out:
 
-1. Location: We set up tables on the corner of two high-traffic streets, opposite a community college that's near our school.  
+1. Location: We set up tables on the corner of two high-traffic streets, opposite a community college that's near our school.
 
 2. Entertainment: We demo our robots outside if the weather is good, drawing in many professionals in our community and kids.  It's important to talk to everyone who stops by and engage them, because they just might be your next big sponsor or mentor!
 
@@ -103,9 +103,9 @@ Here's how we carry it out:
 
 5. People: Motivating our members to go to a booksale on the weekend is very difficult, so we make it mandatory.  It is also helpful when people on the team are friends and they hang out afterwards.
 
-Not all teams are located in urban areas so a booksale may not be suitable for all. One alternative is holding a carwash close to a highly trafficked street. 
+Not all teams are located in urban areas so a booksale may not be suitable for all. One alternative is holding a carwash close to a highly trafficked street.
 
-## Ideas: Magazine Fundraising 
+## Ideas: Magazine Fundraising
 One interesting way of raising money easily is through magazine fundraising programs.  One such program StuyPulse 694 uses allows team members to advertise an online subscription service for a large variety of discounted magazines and then reap a portion of the profit.  All that's required is for the teams to register its own campaign and for team members/parents/whoever to sign up for it.  Once that's completed, all that's needed is to advertise a link to subscribe for the magazine subscriptions.  It generally takes about a month for the actual magazines to start arriving in the mail, but the cost is incredibly low - you can get a year's worth of TIME for $14.
 
 Further Reading: [Chief Delphi post on Fundraising 101](http://www.chiefdelphi.com/forums/showthread.php?t=68044).

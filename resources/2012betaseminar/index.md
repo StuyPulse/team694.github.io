@@ -8,15 +8,15 @@ title: 2012 Beta Seminar
 <dt>Times</dt> <dd>11:00 AM - 3:00 PM</dd>
 <dt>Location</dt>
 <dd>
-Stuyvesant High School  
-345 Chambers St.  
+Stuyvesant High School
+345 Chambers St.
 New York, NY 10282
 </dd>
 </dl>
 
 ## Seminar Video
-<div style="text-align: center">
-    <iframe width="480" height="360" src="http://www.youtube.com/embed/DmNS5_cAR0Q" frameborder="0"> </iframe>
+<div class="responsive-video text-center">
+    <iframe src="http://www.youtube.com/embed/DmNS5_cAR0Q" frameborder="0"> </iframe>
 </div>
 
 ## Links and Resources
