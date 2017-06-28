@@ -9,5 +9,5 @@ Team members, mentors, and supporters can make a short, 2-minute video of themse
 [Go to the FIRSTthoughts website &raquo;](http://firstthoughts.org/)
 
 <div class="responsive-video text-center">
-    <iframe src="http://www.youtube.com/embed/2p48MMW4GyY" frameborder="0"> </iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?list=PLTzhdzF4LCm6dQEfV9vJgVtf336YnuIZQ" frameborder="0"> </iframe>
 </div>
