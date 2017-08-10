@@ -4,7 +4,7 @@ title: DEStiny
 year: 2016
 photo: /img/history/destiny.jpg
 source-link: https://github.com/Team694/DEStiny
-flickr-collection-url: https://www.flickr.com/photos/stuypulse/albums/72157677767723985
+flickr-collection-url: https://www.flickr.com/photos/stuypulse/sets/72157682402164502
 youtube-links:
     - name: Robot Reveal
       url: https://www.youtube.com/embed/GJgHRqm4ego
