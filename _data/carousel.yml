@@ -1,5 +1,7 @@
 # Carousel items on front page
 # There must be exactly 5 items
+- img: /img/carousel/crc-2017.jpg
+  caption-header: StuyPulse with team 9070 at the China Robotics Challenge!
 - img: /img/carousel/rafael.jpg
   caption-header: This year's robot, Rafael
 - img: /img/carousel/worlds-2017.jpg
@@ -8,5 +10,3 @@
   caption-header: Team Members dancing with Team 6354 at the NYC Regional!
 - img: /img/carousel/rafael-climbing.jpg
   caption-header: Rafael climbing at the South Florida Regional!
-- img: /img/carousel/crc-2017.jpg
-  caption-header: StuyPulse with team 9070 at the China Robotics Challenge!
