@@ -2,40 +2,40 @@
 # Used by: /about/ec
 # For each position, name is required and photo is optional.
 poe:
-    name: Jonah S.
-pom:
-    name: Courtney C.
-pse:
-    name: Wilson B.
-vpoe:
     name: Levi O.
+pom:
+    name: Yedoh K.
+pse:
+    name: Adris J.
+vpoe:
+    name: Navid K.
 vpom:
     name: Lamia B.
 vpse:
-    name: Adris J.
+    name: Hui Min W.
 lab-ops:
-    name: Arpita A.
+    name: Isabella R.
 ops:
-    name: Dana Y.
+    name: Leilei H.
 finance:
     name: Winne L.
 pr:
-    name: Yedoh K.
+    name: Eugene S.
 procurement:
-    name: James S.
+    name: Coby S.
 electronics:
-    name: Anthony Z.
-adoe:
     name: Brian L.
+adoe:
+    name: Colin H.
 field:
-    name: Meredith H.
-strategy:
-    name: Christopher S.
-ados:
-    name: Piotr M.
-design:
     name: Vacant
+strategy:
+    name: Eric C.
+ados:
+    name: Yi Lin M.
+design:
+    name: Piotr M.
 machinist:
-    name: Anya K.
+    name: Ethan K.
 webmaster:
-    name: James W.
+    name: Helen Y.
