@@ -12,7 +12,7 @@ FIRST (For Inspiration and Recognition of Science and Technology) is a multi-nat
 </div>
 
 ## Team 694 Today
-As of now Team 694 is comprised of approximately 100 Stuy students and participates annually in the FIRST Robotics Competition (FRC). During our six week build season we work almost daily in our laboratory at Stuyvesant as dedicated team members design, construct, and program our competing robot with the help of gracious parents and volunteer mentors.
+As of now Team 694 is comprised of approximately 150 Stuy students and participates annually in the FIRST Robotics Competition (FRC). During our six week build season we work almost daily in our laboratory at Stuyvesant as dedicated team members design, construct, and program our competing robot with the help of gracious parents and volunteer mentors.
 
 However our efforts do not end with the competition season; we strive to share our experience with anyone in need of help. To this end we mentor other teams and schools both in FRC and in FIRST's other competitions such as the First Tech Challenge and FIRST Lego League, as well as performing street-level demos in our and school. We also frequently create community-driven projects like FIRSThoughts with the goal of uniting all the teams of FIRST to even the playing field and make it easier for rookie teams to become a part of the competition and community that has changed each and all of our lives.
 
@@ -22,12 +22,12 @@ Team 694 has had an impact not only on the community of which we are a part, but
 Our team was founded in the fall of 2000 by a forward-looking group of dedicated students and parents. Although few on the team had known each other prior to forming the team, we shared a common interest in robotics and were ready to take on the formidable task of building our first robot. The team quickly learned the importance of cooperation and teamwork as we rallied together team members, sponsors, and mentors, as well as raising the initially daunting entrance fees to the FIRST competition. Our robot scored the highest in its division at the Championship Event making Team 694's rookie year an immense success as well as a jumping board to our exciting career as a FIRST team.
 
 ## What makes StuyPulse unique?
-One of the things that Team 694 takes pride in is our overwhelming diversity. Our team of approximately 100 members is made up of over one-third females, and half of the team members were either born outside of the United States or are children of first generation immigrants.
+One of the things that Team 694 takes pride in is our overwhelming diversity. Our team of approximately 150 members is made up of over one-third females, and half of the team members were either born outside of the United States or are children of first generation immigrants.
 
-Team 694 is a championship team. We won the Regional Chairman's Award at the South Florida Regional in 2017, and were regional champions and won the Engineering Inspiration Award at the NYC Regional in 2016. We were also the sub-division champions of the Curie Subdivision at World Championships in 2016.
+Team 694 is a championship team. We won the Regional Chairman's Award at the South Florida Regional and the Entrepreneurship Award at the New York City Regional in 2017. We were also regional champions and won the Engineering Inspiration Award at the NYC Regional, and were the sub-division champions of the Curie Subdivision at World Championships in 2016.
 
 ## About Stuyvesant High School
-[Stuyvesant High School](http://stuy.enschool.org/), a.k.a. "Stuy", one of New York City's specialized high schools for math and science, has demonstrated a tradition of excellence for over a century. Entrance is based on a rigorous and competitive test called the SHSAT; over 26000 students take the exam every year and only about 900 are admitted to attend Stuy.
+[Stuyvesant High School](http://stuy.enschool.org/), a.k.a. "Stuy", one of New York City's specialized high schools for math and science, has demonstrated a tradition of excellence for over a century. Entrance is based on a rigorous and competitive test called the SHSAT; over 22,300 students take the exam every year and only about 900 are admitted to attend Stuy.
 
 Totaling over 3200 students from all five city boroughs and diverse international backgrounds, Stuy is located in a modern, ten-story building in Lower Manhattan, having been relocated from the original building on East 15th Street in 1992.
 
