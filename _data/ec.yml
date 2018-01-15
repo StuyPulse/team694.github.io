@@ -3,16 +3,22 @@
 # For each position, name is required and photo is optional.
 poe:
     name: Levi O.
+    photo: /img/ec/levi_olevsky.jpg
 pom:
     name: Yedoh K.
+    photo: /img/ec/yedoh_kang.jpg
 pse:
     name: Adris J.
+    photo: /img/ec/adris_jautakas.jpg
 vpoe:
     name: Navid K.
+    photo: /img/ec/navid_kashem.jpg
 vpom:
     name: Lamia B.
+    photo: /img/ec/lamia_bushra.jpg
 vpse:
     name: Hui Min W.
+    photo: /img/ec/hui_min_wu.jpg
 lab-ops:
     name: Isabella R.
 ops:
