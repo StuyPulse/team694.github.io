@@ -73,7 +73,8 @@ Mel likes to shake things up. There is no point in the season where he isn't say
 
 ### Justin Kim
 <div markdown="1" class="ec-description">
-Justin Kim is another StuyPulse success story. After graduating Stuyvesant as the President of Software Engineering in 2015, he started working as a software engineer at Digital Ocean. Since graduating, he has come back to mentor engineering and SE.
+<img src="/img/mentors/justin.jpg" class="ec-photo" alt="Justin Kim">
+Justin Kim is another StuyPulse success story. After graduating Stuyvesant as the President of Software Engineering in 2015, he started working as a software engineer at DigitalOcean. Since graduating, he has come back to mentor engineering, SE, and marketing.
 </div>
 
 ### Fritz Heckel
