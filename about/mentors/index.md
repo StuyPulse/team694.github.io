@@ -77,9 +77,11 @@ Mel likes to shake things up. There is no point in the season where he isn't say
 Justin Kim is another StuyPulse success story. After graduating Stuyvesant as the President of Software Engineering in 2015, he started working as a software engineer at DigitalOcean. Since graduating, he has come back to mentor engineering, SE, and marketing.
 </div>
 
-### Fritz Heckel
-
 ### Evan Forbes
+<div markdown="1" class="ec-description">
+Evan Forbes has been mentoring SE since January 2017. He was previously a member of team 3507, Ubotics, and is now working at Google NYC. After moving to New York City, he became involved in NYC First and joined StuyPulse as a mentor. He's an expert on the yearly updates for the control systems, helping us update radios and learning the new WPILib.
+
+### Fritz Heckel
 
 ### Samantha Unger
 
