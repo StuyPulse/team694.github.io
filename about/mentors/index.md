@@ -50,7 +50,7 @@ Dan Lavin was integral in helping us use this year's new control system. He pore
 ### Jeanne Boyarsky
 <div markdown="1" class="ec-description">
 <img src="/img/mentors/jeanne.jpg" class="ec-photo" alt="Jeanne Boyarsky">
-Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addition to her volunteering at JavaRanch. She has not only provided invaluable guidance with code, but also has kept us organized, and helped lead us to our Innovation in Control award in 2010.
+Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addition to her volunteering at CodeRanch. She has not only provided invaluable guidance with code, but also has kept us organized, and helped lead us to our Innovation in Control award in 2010. Jeanne even found time to write three Java books (and mentioned 694 in all of them). She has also spoken at several conferences.
 
 [Read about Jeanne in her Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/jeanne)
 </div>
