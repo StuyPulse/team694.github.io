@@ -2,8 +2,7 @@
 # Checks for instances where "StuyPulse" is incorrectly capitalized as "Stuypulse".
 
 grep -rn --color \
-    --exclude-dir=./.git --exclude-dir=./_site \
-    --exclude-dir=./_scripts --exclude-dir=./vendor \
+    --exclude-dir={ .git, _site, _scripts, vendor}
     Stuypulse .
 
 if [[ $? -eq 0 ]]; then
