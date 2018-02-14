@@ -9,4 +9,4 @@ Right now, there are two major projects in the works.  First, we have created a 
 ## How to stay updated
 Sign up for the [newsletter](https://docs.google.com/forms/d/1ibxnPmwnTsjxcc138j-ikK4j8tiUejuMw_92FX4x2Ak/viewform) and [chat group](https://groups.google.com/forum/?hl=en#!forum/stuypulse694alumni) (click "Apply for membership").
 
-Help us spread the word! Send this out to friends you had on the team.  Lastly, if you're interested in helping us organize alumni activities, send an email over to Alex Carrillo, Stuy ‘12, at aecarrillo594 \[at gmail dot com\], or to the [stuypulse694alumni](https://groups.google.com/forum/?hl=en#!forum/stuypulse694alumni) Google Group so that we can once again work together and build something great!
+Help us spread the word! Send this out to friends you had on the team.  Lastly, if you're interested in helping us organize alumni activities, send an email over to Justin Kim, Stuy '15, at <justin.kim@stuypulse.com>, or to the [stuypulse694alumni](https://groups.google.com/forum/?hl=en#!forum/stuypulse694alumni) Google Group so that we can once again work together and build something great!
