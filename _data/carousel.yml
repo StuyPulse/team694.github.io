@@ -1,12 +1,12 @@
 # Carousel items on front page
 # There must be exactly 5 items
+- img: /img/carousel/wildcard.png
+  caption-header: This year's robot, Wildcard!
+- img: /img/carousel/group-2018.png
+  caption-header: StuyPulse with Wildcard on Stop Build Day.
+- img: /img/carousel/mentors-2018.png
+  caption-header: Mentors and alumni who have helped us!
 - img: /img/carousel/crc-2017.jpg
   caption-header: StuyPulse with team 9070 at the China Robotics Challenge!
-- img: /img/carousel/rafael.jpg
-  caption-header: This year's robot, Rafael
-- img: /img/carousel/worlds-2017.jpg
-  caption-header: StuyPulse at the St. Louis World Championship!
 - img: /img/carousel/dancing-nyc-regional.jpg
-  caption-header: Team Members dancing with Team 6354 at the NYC Regional!
-- img: /img/carousel/rafael-climbing.jpg
-  caption-header: Rafael climbing at the South Florida Regional!
+  caption-header: Team Members dancing with Team 6354 at the 2017 NYC Regional!
