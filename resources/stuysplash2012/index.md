@@ -49,6 +49,7 @@ In 2012 we held Stuy Splash at the New York City College of Technology in Brookl
 
 ### Robot Electronics <small>with Samuel Lijin</small>
 > We will begin with a brief overview of the current FRC control system and then proceed to discuss tips of the trade, including effective tools, recommended wiring configurations, and a brief overview of troubleshooting procedures, followed by what's new in 2013.
+[Download presentation](https://stuypulse.nyc3.digitaloceanspaces.com/site/stuysplash/2012/Robot%20Electronics.pdf)
 
 ### Animation and CGI <small>with Alex Pan</small>
 > We will discuss how to manipulate simple 3D geometric figures to create a vast variety of objects and shapes and learn how to apply textures, lighting, and other properties to imbue our creations with life. By the end of the workshop, you will have gained a solid understanding of how to use the same CGI used to make games, movies and advertisements
