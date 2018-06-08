@@ -18,6 +18,8 @@ Joe Blay has had a tremendous impact on our team since his high school years. Jo
 ### James Lonardo
 <div markdown="1" class="ec-description">
 James Lonardo has ceaselessly served our team for over eight years. He is essentially the "backbone of our team". As an attentive mentor, James organizes all medical, contact, and trip forms, and signs us up for events. Not only was he devoted to our team, he was also a FIRST advocate on the streets. He even organized a competition for robotics classes with members of the U. S. Coast Guard, which inspired many children within and outside of school. His supportive attitude and contribution is indispensable to our team.
+
+[Read about Mr. Lonardo in his Woodie Flowers nomination &raquo;](https://stuypulse.nyc3.digitaloceanspaces.com/site/woodieflowers/lonardo.pdf)
 </div>
 
 ### Tom Ferguson
