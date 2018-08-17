@@ -84,6 +84,11 @@ The Director of Operations will handle the day-to-day operations of the marketin
 The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media.
 </div>
 
+### Director of Media <small>{{ site.data.ec.media.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.media.photo %} <img src="{{ site.data.ec.media.photo }}" class="ec-photo" alt="Director of Media"> {% endif %}
+</div>
+
 ### Director of Strategy <small>{{ site.data.ec.strategy.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.strategy.photo %} <img src="{{ site.data.ec.strategy.photo }}" class="ec-photo" alt="Director of Strategy"> {% endif %}
@@ -112,6 +117,21 @@ The Primary Machinist is responsible for the maintaining the mill, lathe, and th
 <div markdown="1" class="ec-description">
 {% if site.data.ec.field.photo %} <img src="{{ site.data.ec.field.photo }}" class="ec-photo" alt="Director of Field Construction"> {% endif %}
 It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
+</div>
+
+### Director of Pneumatics <small>{{ site.data.ec.pneumatics.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.pneumatics.photo %} <img src="{{ site.data.ec.pneumatics.photo }}" class="ec-photo" alt="Director of Pneumatics"> {% endif %}
+</div>
+
+### Director of Newbie Relations <small>{{ site.data.ec.nr.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.nr.photo %} <img src="{{ site.data.ec.nr.photo }}" class="ec-photo" alt="Director of Newbie Relations"> {% endif %}
+</div>
+
+### Director of Research and Development <small>{{ site.data.ec.rad.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.rad.photo %} <img src="{{ site.data.ec.rad.photo }}" class="ec-photo" alt="Director of Research and Development"> {% endif %}
 </div>
 
 ### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
