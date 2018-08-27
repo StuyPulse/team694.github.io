@@ -3,22 +3,22 @@
 # For each position, name is required and photo is optional.
 poe:
     name: Navid K.
-    photo: /img/ec/levi_olevsky.jpg
+    photo: /img/ec/navid_kashem.jpg
 pom:
     name: Coby S.
-    photo: /img/ec/yedoh_kang.jpg
+    photo:
 pse:
     name: Hui Min W.
-    photo: /img/ec/adris_jautakas.jpg
+    photo: /img/ec/hui_min_wu.jpg
 vpoe:
     name: Eric C.
-    photo: /img/ec/navid_kashem.jpg
+    photo:
 vpom:
     name: Dechen P.
-    photo: /img/ec/lamia_bushra.jpg
+    photo:
 vpse:
     name: Pratham R.
-    photo: /img/ec/hui_min_wu.jpg
+    photo:
 lab-ops:
     name: Endar L. & Alyson L.
 ops:
@@ -33,7 +33,7 @@ procurement:
     name: Ryan A.
 electronics:
     name: Colin H.
-    photo: /img/ec/brian_leung.jpg
+    photo:
 adoe:
     name: Seonga O.
 field:
