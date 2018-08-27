@@ -1,14 +1,28 @@
 language: ruby
 rvm:
 - 2.4.1
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
 script:
 - bundle exec jekyll build && bundle exec htmlproofer --check-html --assume-extension --url-ignore "/#.*/" ./_site --file-ignore "/blog/"
 - "./_scripts/check-carousel-size.rb"
 - "./_scripts/check-stuypulse-capitalization.sh"
 - "./_scripts/check-image-extensions.sh"
+
+cache:
+  directories:
+  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer #https://github.com/gjtorikian/html-proofer/issues/381
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev # required to avoid SSL errors
+
+sudo: false
+
 notifications:
   slack:
     secure: GTTwtxsBy5Q5SpY/S0Kq6I9bMlJCqI1aRw0ZwLKCyr/ntCr1SLNO07E7uCG5cU1spf28cPeCndLpssDCGChmtkb8v0GRusmmkPaQICiN/1XYQpJztKRyKBc4g6mTXn5Nbr41yQAUzSO3paWpUDCG/tQjRD2M17WUY0aTtWrHwa0=
