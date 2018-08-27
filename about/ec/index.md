@@ -84,6 +84,12 @@ The Director of Operations will handle the day-to-day operations of the marketin
 The Director of Public Relations will plan for outreach events and direct all outreach initiatives, such as Stuy Splash and public demonstrations. At the same time, the DoPR is responsible for creating a strong team media presence using blogs, photographs, videos, social media, and other media.
 </div>
 
+### Director of Media <small>{{ site.data.ec.media.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.media.photo %} <img src="{{ site.data.ec.media.photo }}" class="ec-photo" alt="Director of Media"> {% endif %}
+The Director of Media is responsible for the creation of all visual and media content for our social media platforms. They are also responsible for taking pictures and videos at all team events. They are to work alongside the Director of Public Relations to create necessary content. The DoM is also responsible for leading and educating the members of the media team.
+</div>
+
 ### Director of Strategy <small>{{ site.data.ec.strategy.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.strategy.photo %} <img src="{{ site.data.ec.strategy.photo }}" class="ec-photo" alt="Director of Strategy"> {% endif %}
@@ -112,6 +118,24 @@ The Primary Machinist is responsible for the maintaining the mill, lathe, and th
 <div markdown="1" class="ec-description">
 {% if site.data.ec.field.photo %} <img src="{{ site.data.ec.field.photo }}" class="ec-photo" alt="Director of Field Construction"> {% endif %}
 It is the job of the Director of Field Construction to construct the field of the released game with acceptable accuracy. For each function that the robot has to perform, it is this person’s responsibility to ensure that at least one set of the field elements involved in that task is procured and produced. However, the DoFC will also be responsible for all other fields, including FLL, FTC, and FRC fields. They are responsible for the upkeep of the shipping/robot crates and building new robot carts.
+</div>
+
+### Director of Pneumatics <small>{{ site.data.ec.pneumatics.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.pneumatics.photo %} <img src="{{ site.data.ec.pneumatics.photo }}" class="ec-photo" alt="Director of Pneumatics"> {% endif %}
+The Director of Pneumatics is responsible for the creation and management of the pneumatic system on the robot according to FIRST regulations. They cooperate with the electronics subdepartment to organize the pneumatics system alongside the electronics. The director is responsible for the upkeep and maintenance of all compressors, solenoids, and pistons. The DoPn is also responsible for the education of other teams members on the subject of pneumatics.
+</div>
+
+### Director of Newbie Relations <small>{{ site.data.ec.nr.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.nr.photo %} <img src="{{ site.data.ec.nr.photo }}" class="ec-photo" alt="Director of Newbie Relations"> {% endif %}
+The Director of Newbie Relations for software engineering is responsible for the education of new members in software engineering, development of a curriculum, and ensuring the lessons are made in advance. The DoNR is also responsible for ensuring the new members feel included, and have tasks during the off-season.
+</div>
+
+### Director of Research and Development <small>{{ site.data.ec.rad.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.rad.photo %} <img src="{{ site.data.ec.rad.photo }}" class="ec-photo" alt="Director of Research and Development"> {% endif %}
+The Director of Research and Development is in charge of researching and developing various topics in software engineering. They are to make sure Proof-Of-Concepts (PoCs) are made for each topic. The DoR&D is also responsible for apportioning people to look into certain projects, and ensuring the projects are ready for use on the robot if/when they are needed.
 </div>
 
 ### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
