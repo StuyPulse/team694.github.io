@@ -8,7 +8,7 @@ We are StuyPulse, Stuyvesant High School's award-winning FIRST Robotics team. Ot
 FIRST (For Inspiration and Recognition of Science and Technology) is a multi-national non-profit organization that, in the words of its founder, Dean Kamen, seeks to "transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology heroes." Through partnerships with local and global businesses, dedicated volunteers with professional backgrounds, and the tireless efforts of students, teachers, and parents, FIRST opens a whole new world for generations of young adults and equips them with the skills to achieve success.
 
 <div class="responsive-video text-center">
-<iframe src="https://www.youtube.com/embed/PgNOmo2jCC8" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Ep_47UfYn7I" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Team 694 Today
