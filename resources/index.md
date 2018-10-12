@@ -23,6 +23,9 @@ Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stu
 #### [Driver Station Troubleshooting Guide](/downloads/docs/694%20Troubleshooting%20Guide.docx)
 A document published by our Software Engineering department in 2011 with solutions to common Driver Station issues.
 
+#### [Newbie FRC Games](/resources/newbiegames/)
+Documentation for all current and previous newbie games that we have made.
+
 ### Tutorials
 
 #### [Fundraising](/resources/tutorials/fundraising/)
