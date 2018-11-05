@@ -126,3 +126,18 @@ article{
     width: 100%;
     height: 100%;
 }
+
+/* NavBar Styles */
+#donate :hover{
+        background-color: #2E86C1;
+        color: #F2F3F4;
+}
+
+#donate {
+        background-color: #3498DB;
+}
+
+#donate a {
+        color: white;
+        text-shadow: none;
+}
