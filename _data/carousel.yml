@@ -1,12 +1,12 @@
 # Carousel items on front page
 # There must be exactly 5 items
+- img: /img/carousel/IRI.jpg
+  caption-header: StuyPulse at Indiana Robotics Invitational!
+- img: /img/carousel/HVR.jpg
+  caption-header: StuyPulse with all 3 robots at Hudson Valley Regional!
+- img: /img/carousel/china-2018.jpg
+  caption-header: StuyPulse at China's Robotics Competition in Hangzhou, China!
 - img: /img/carousel/wildcard.png
   caption-header: This year's robot, Wildcard!
 - img: /img/carousel/group-2018.png
   caption-header: StuyPulse with Wildcard on Stop Build Day.
-- img: /img/carousel/mentors-2018.png
-  caption-header: Mentors and alumni who have helped us!
-- img: /img/carousel/crc-2017.jpg
-  caption-header: StuyPulse with team 9070 at the China Robotics Challenge!
-- img: /img/carousel/dancing-nyc-regional.jpg
-  caption-header: Team Members dancing with Team 6354 at the 2017 NYC Regional!
