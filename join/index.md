@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Join the Team
-description: For newbies to access the contact form.
+description: Page for those who are interested in joining Robotics.
 ---
-Please contact Yedoh Kang at <yedoh.kang@stuypulse.com> if you would like to join the team!
+Please contact Coby Sontag at <coby.sontag@stuypulse.com> if you would like to join the team!
+## Want to be a member? 
+
+To join the team you need...
+
+## Applying as a mentor?
+
+To become a mentor you need...
