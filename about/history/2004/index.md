@@ -3,7 +3,7 @@ layout: history
 title: Larry
 year: 2004
 photo: /img/history/larry.jpg
-source-link: https://github.com/Team694/ifi/larry
+source-link: https://github.com/Team694/ifi/tree/master/larry
 awards:
     - NY KPC&amp;B Entrepreunership
     - NY Regional quarterfinalist
