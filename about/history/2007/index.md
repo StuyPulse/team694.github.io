@@ -3,7 +3,7 @@ layout: history
 title: Tom
 year: 2007
 photo: /img/history/tom.jpg
-source-link: http://svn.stuypulse.com/ififrc/tom/
+source-link: https://github.com/Team694/ifi/tree/master/tom
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632646273578/
 awards:
     - NY UL Industrial Safety Award

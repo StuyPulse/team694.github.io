@@ -3,7 +3,7 @@ layout: history
 title: Joshua
 year: 2006
 photo: /img/history/joshua.jpg
-source-link: http://svn.stuypulse.com/ififrc/joshua/
+source-link: https://github.com/Team694/ifi/tree/master/joshua
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632646270872/
 awards:
     - NY Regional Finalist
