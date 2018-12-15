@@ -3,7 +3,7 @@ layout: page
 title: Join the Team!
 description: Page for those who are interested in joining Robotics.
 ---
-Please contact Coby Sontag at <coby.sontag@stuypulse.com> if you would like to join the team!
+Please contact us at <info@stuypulse.com> if you would like to join the team!
 <br><br>
 ## Want to be a member? 
 
