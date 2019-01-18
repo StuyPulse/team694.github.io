@@ -43,7 +43,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 
 ### Team Documents
 
-#### [Press Packet](/downloads/teamdocs/PressPacket2016-2017.pdf)
+#### [Press Packet](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
 #### [Team Charter](https://stuypulse.nyc3.digitaloceanspaces.com/site/charter/StuyPulseCharter2019v1.pdf)
