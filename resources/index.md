@@ -16,6 +16,7 @@ From our robot code to [this very website](/about/website/), everything we devel
 [Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
 
 We have uploaded the presentations from the event, and they are available for download.
+
 #### [2012 Beta Seminar](/resources/2012betaseminar/)
 Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stuyvesant High School in December, 2011.
 
@@ -42,7 +43,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 
 ### Team Documents
 
-#### [Press Packet](https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket)
+#### [Press Packet](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
 #### [Team Charter](https://stuypulse.nyc3.digitaloceanspaces.com/site/charter/StuyPulseCharter2019v1.pdf)
@@ -59,27 +60,27 @@ A statement of the long-term vision and goals of our team, and a plan for the ye
 - [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
 
 #### Magazines
-        - [2017 Magazine](/downloads/teamdocs/magazines/2017Magazine.pdf)
-        - [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
-        - [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
-        - [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
-        - [2009 Magazine](/downloads/teamdocs/magazines/09mag.pdf)
-        - [2008 Magazine](/downloads/teamdocs/magazines/08mag.pdf)
-        - [2007 Magazine](/downloads/teamdocs/magazines/07mag.pdf)
-        - [2006 Magazine](/downloads/teamdocs/magazines/06mag.pdf)
-        - [2005 Magazine](/downloads/teamdocs/magazines/05mag.pdf)
-        - [2004 Magazine](/downloads/teamdocs/magazines/04mag.pdf)
-        - [2003 Magazine](/downloads/teamdocs/magazines/03mag.pdf)
-        - [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
+- [2017 Magazine](/downloads/teamdocs/magazines/2017Magazine.pdf)
+- [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
+- [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
+- [2010 Magazine](/downloads/teamdocs/magazines/10mag.pdf)
+- [2009 Magazine](/downloads/teamdocs/magazines/09mag.pdf)
+- [2008 Magazine](/downloads/teamdocs/magazines/08mag.pdf)
+- [2007 Magazine](/downloads/teamdocs/magazines/07mag.pdf)
+- [2006 Magazine](/downloads/teamdocs/magazines/06mag.pdf)
+- [2005 Magazine](/downloads/teamdocs/magazines/05mag.pdf)
+- [2004 Magazine](/downloads/teamdocs/magazines/04mag.pdf)
+- [2003 Magazine](/downloads/teamdocs/magazines/03mag.pdf)
+- [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
 - [2001 Magazine](/downloads/teamdocs/magazines/01mag.pdf)
 
 #### Scrapbooks
-        - [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
+- [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
 - [2009 Scrapbook](/downloads/teamdocs/scrapbooks/09scrapbook.pdf)
 
 ### For Members
 
 #### [Team Forms](/resources/forms/)
-        Team members must fill out these forms in order to participate on the team.
-        </div>
-        </div>
+Team members must fill out these forms in order to participate on the team.
+</div>
+</div>
