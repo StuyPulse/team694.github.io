@@ -64,7 +64,7 @@ We are Stuyvesant High School's award winning FIRST Robotics team.  FIRST (For I
 - A FIRST team spends thousands of dollars on registration fees, a basic kit of parts, additional building materials, robot transportation, administrative expenses, and more.
 - In addition to funds, we seek [mentors](/about/mentors/) who are specialists or hobbyists in engineering design, machine operation, programming, or marketing, and who are willing to work with highly motivated students from NYC's most highly rated science high school!
 
-For more information and resources, see our press packet [here](/downloads/teamdocs/PressPacket2016-2017.pdf).
+For more information and resources, see our press packet [here](https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket).
 
 ### Sponsorship Levels
 

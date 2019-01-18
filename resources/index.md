@@ -9,14 +9,6 @@ description: StuyPulse has many resources available, including source code, docu
 
 ### Resources
 
-#### [Open Source Software](https://github.com/Team694)
-From our robot code to [this very website](/about/website/), everything we develop is open source. Check out our code on GitHub!
-
-#### [Stuy Splash Presentations](/community/projects/stuysplash/): [2012](/resources/stuysplash2012/) | [2013](/resources/stuysplash2013/) | [2014](/resources/stuysplash2014/) | [2015](/resources/stuysplash2015) | [2016](/resources/stuysplash2016) | [2017](/resources/stuysplash2017)
-[Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
-
-We have uploaded the presentations from the event, and they are available for download.
-
 #### [2012 Beta Seminar](/resources/2012betaseminar/)
 Video and resources from our 2012 Java, hardware, and Kinect beta seminar at Stuyvesant High School in December, 2011.
 
@@ -43,7 +35,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 
 ### Team Documents
 
-#### [Press Packet](/downloads/teamdocs/PressPacket2016-2017.pdf)
+#### [Press Packet](https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket)
 Information and materials for potential [sponsors](/sponsors/).
 
 #### [Team Charter](https://stuypulse.nyc3.digitaloceanspaces.com/site/charter/StuyPulseCharter2019v1.pdf)
