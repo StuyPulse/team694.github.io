@@ -34,7 +34,7 @@ Further Reading:
 ## Grants
 Rookie Grants are awarded to teams who fit [the criteria as defined by FIRST](http://www.usfirst.org/roboticsprograms/frc/content.aspx?id=6632).
 
-The largest funder of FIRST rookie teams across is country is NASA. Grant instructions can be found [here](http://frc-grants.arc.nasa.gov/rcs/directions.php).
+The largest funder of FIRST rookie teams across is country is NASA. More information can be found [here](https://robotics.nasa.gov/events/2018_sponsorship.php).
 
 Contact your local FIRST HQ for local grants.
 
