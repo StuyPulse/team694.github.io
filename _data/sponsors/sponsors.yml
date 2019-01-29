@@ -2,33 +2,36 @@
 # Used by: /sponsors, front page
 # For each sponsor, name is required and logo/site are optional.
 - name: D.E. Shaw &amp; Co.
-  logo: /img/sponsors/deshaw.gif
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/deshaw.gif
   site: http://www.deshaw.com/
 - name: The Wallace Foundation
-  logo: /img/sponsors/wallacefoundation.gif
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/wallacefoundation.gif
   site: http://www.wallacefoundation.org/Pages/default.aspx
 - name: Con Edison
-  logo: /img/sponsors/conedison.gif
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/conedison.gif
   site: http://www.coned.com/
 - name: SHS Alumni Association
-  logo: /img/sponsors/shsaa.gif
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/shsaa.gif
   site: http://www.shsaa.org/
 - name: SHS Parents' Association
   site: https://stuy-pa.org/
 - name: Ann &amp; Donovan Moore
 - name: Abby &amp; Tom Ferguson
 - name: Bloomberg
-  logo: /img/sponsors/bloomberg.gif
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/bloomberg.gif
   site: http://www.bloomberg.com/
 - name: Solidworks
-  logo: /img/sponsors/solidworks.png
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/solidworks.png
   site: http://www.solidworks.com/
+- name: RiskEcon Lab for Decision Metrics
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/RiskEcon.png
+- name: Numerati
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/Numerati.png
 - name: Joe Ricci
 - name: Justin Kim
 - name: Rehab One Physical Therapy PC
 - name: Investor's Bank
 - name: Leung Family
 - name: Rocha Family
-- name: UKD Foundation
-  logo: /img/sponsors/ukdfoundation.png
-  site: http://www.ukdcure.org/
+- name: Zang Family
+- name: Krembs Family
