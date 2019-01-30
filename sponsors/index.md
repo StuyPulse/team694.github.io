@@ -36,8 +36,6 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
 {% endfor %}
 </div>
 
-## Special Thanks To
-
 <div class="row">
 {% for thanks in site.data.sponsors.special-thanks %}
     <div class="span3 sponsor-logo-container">
