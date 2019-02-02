@@ -26,7 +26,7 @@ StuyPulse emails allows for easier communication as all students are listed in a
 Team Manager is a website located [here](https://manage.stuypulse.com), and is used to manage all the private information kept by the team. Aside from only keeping team form records, the website also keeps track of student interest. One primary example is the ability to go on FIRST Competition Trips.
 
 #### Google Groups:
-Students with stuypulse emails will also have to sign up for Google Groups [here](https://groups.google.com/a/stuypulse.com/forum/#!myforums). The reason for this is identical to Team Manager and storing private information.
+Students with stuypulse emails will also have to sign up for Google Groups [here](https://groups.google.com/forum/#!forum/stuyvesant-robotics/join). The reason for this is identical to Team Manager and storing private information.
 <a>
 ## Q & A:
 
