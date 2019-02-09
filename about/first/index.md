@@ -55,7 +55,7 @@ Started in 1999, the FLL (FIRST Lego League) is directed toward the younger audi
 
 Since 2005, Team 694 has hosted the Manhattan Borough Lego League Tournament. In addition, we have provided FLL mentoring to local schools such as I.S. 89 across the street from Stuyvesant. [Visit our Outreach page](/community/) to learn more about our efforts to inspire middle school students.
 
-[Go to the official FLL site &raquo;](http://www.usfirst.org/roboticsprograms/fll)
+[Go to the official FLL site &raquo;](https://www.firstinspires.org/robotics/fll)
 
 </div>
 </div>
