@@ -18,9 +18,6 @@ In 2017, we held Stuy Splash at Stuyvesant High School on December 16. Below are
 > In FTC, the design choices we make in the beginning of the season may greatly impact the strategy that we pursue during competition. Here, we will discuss some of the design choices that teams can make in order to perform certain common functions (driving, acquiring, lifting, etc.), the parts and tools that may be needed and scouting and strategy that may be used from kickoff to competition.
 
 ### A Maniac’s Approach to an FRC Competition <small>with Joseph Blay</small>
-[Presentation](
-https://docs.google.com/presentation/d/1KYQqN0NNuvvC8Vyvj0CvNkjqRPje7qnppp4E9arSyAs/edit?usp=sharing)
-
 > We will discuss some key practices in preparation for and at an FRC event that lead to success on the field. We will delve deep into the mind of an FRC maniac and everything he does in order to try to give his team the best chance to win.
 
 ### Intro to 3D Printing <small>with Jon Lu</small>
@@ -40,8 +37,6 @@ https://docs.google.com/presentation/d/1Vze8476anFM1utZV2J0OJ-krT0gGEkTcrWkNVtyE
 > Learn about the importance of networking and how to effectively network in the FRC World and beyond.
 
 ### A Strategic Approach to FRC <small>with Joseph Blay</small>
-[Presentation](https://docs.google.com/presentation/d/1NKC3YLelvW7PpviZz4noWCvwX_LLhRitmeA5-0Z1XjY/edit?usp=sharing)
-
 > There is so much more to success in FRC than robots. Good strategy can be the difference between good robots and winning robots. Hear all about strategy in FRC from our regional and championship division winning coach, Joe Blay.
 
 ### Steering a Ship that No One Taught You How to Pilot <small>with Noah Tom-Wong</small>
