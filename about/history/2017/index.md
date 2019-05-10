@@ -3,7 +3,7 @@ layout: history
 title: Rafael
 year: 2017
 photo: /img/history/rafael.jpg
-source-link: https://github.com/Team694/Rafael
+source-link: https://github.com/StuyPulse/Rafael
 flickr-collection-url: https://www.flickr.com/photos/stuypulse/albums/72157685563341536
 youtube-links:
     - name: Robot Reveal
