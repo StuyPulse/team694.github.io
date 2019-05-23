@@ -3,7 +3,7 @@ layout: history
 title: Donovan
 year: 2010
 photo: /img/history/donovan.jpg
-source-link: https://github.com/Team694/frc/tree/master/donovan/trunk/Donovan
+source-link: https://github.com/StuyPulse/frc/tree/master/donovan/trunk/Donovan
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632647858456/
 youtube-links:
     - name: New York City Regional videos

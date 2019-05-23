@@ -3,7 +3,7 @@ layout: history
 title: DESbot
 year: 2008
 photo: /img/history/desbot.jpg
-source-link: https://github.com/Team694/ifi/tree/master/desbot
+source-link: https://github.com/StuyPulse/ifi/tree/master/desbot
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632643550497/
 awards:
     - NY Engineering Inspiration Awards

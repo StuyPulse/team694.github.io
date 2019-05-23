@@ -10,13 +10,11 @@ Rather than relying on a complex content management system to serve content, thi
 
 Much of our content is formatted with Markdown, which gets converted into HTML when the site is built. This makes it easy for team members to add content to the site without any HTML experience, while avoiding the complexity of using a CMS with a WYSIWYG page editor.
 
-If you're interested in learning more about building websites using Jekyll, [this blog post ](https://web.archive.org/web/20121123082430/http://blog.controlgroup.com/2012/10/19/controlgroup-com-built-using-jekyll) is a great resource and is highly recommended.
-
 ### The StuyPulse Network
 The StuyPulse Network is the collection of websites that have been developed by the StuyPulse Web Team. Check out the sidebar for links to other sites in the StuyPulse Network. Furthermore, see the footer navigation bar for our media presence on sites such as Facebook, YouTube, and more!
 
 ### Problems? Questions? Comments?
-Interested in how our site is built? Our site is 100% open source; feel free to take a look at our [source code](https://github.com/Team694/team694.github.com) to learn more about how we use Jekyll to create our website.
+Interested in how our site is built? Our site is 100% open source; feel free to take a look at our [source code](https://github.com/StuyPulse/team694.github.io) to learn more about how we use Jekyll to create our website.
 
 If you would like to contact our web team, [send us an email](/contact/) and we'll get back to you as soon as we can. We're happy to help with any questions you may have!
 

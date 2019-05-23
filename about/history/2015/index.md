@@ -3,7 +3,7 @@ layout: history
 title: PEGasus1
 year: 2015
 photo: /img/history/PEGasus1.jpg
-source-link: https://github.com/Team694/PEGasus1
+source-link: https://github.com/StuyPulse/PEGasus1
 flickr-collection-url: https://www.flickr.com/photos/stuypulse/albums/72157650169739381
 youtube-links:
     - name: Monty Madness 2015 Videos

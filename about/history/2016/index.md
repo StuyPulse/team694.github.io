@@ -3,7 +3,7 @@ layout: history
 title: DEStiny
 year: 2016
 photo: /img/history/destiny.jpg
-source-link: https://github.com/Team694/DEStiny
+source-link: https://github.com/StuyPulse/DEStiny
 flickr-collection-url: https://www.flickr.com/photos/stuypulse/sets/72157682402164502
 youtube-links:
     - name: Robot Reveal
