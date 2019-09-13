@@ -2,55 +2,48 @@
 # Used by: /about/ec
 # For each position, name is required and photo is optional.
 poe:
-    name: Navid K.
-    photo: /img/ec/navid_kashem.jpg
-pom:
-    name: Coby S.
-    photo:
-pse:
-    name: Hui Min W.
-    photo: /img/ec/hui_min_wu.jpg
-vpoe:
     name: Eric C.
-    photo:
+pom:
+    name: Areyan K.
+pse:
+    name: Pratham R.
+vpoe:
+    name: Brianna L.
 vpom:
-    name: Dechen P.
-    photo:
+    name: Sabrina N.
 vpse:
     name: Pratham R.
-    photo:
 lab-ops:
-    name: Endar L. & Alyson L.
+    name: Endar L.
 ops:
     name: Vacant
 finance:
-    name: Vacant
+    name: Isabella R.
 media:
     name: Vacant
 pr:
-    name: Areyan K.
+    name: Tony J.
 procurement:
-    name: Ryan A.
+    name: Patrick W.
 electronics:
-    name: Colin H.
-    photo:
-adoe:
     name: Seonga O.
+adoe:
+    name: Alan L.
 field:
-    name: Vacant
+    name: Brian R.
 pneumatics:
     name: Bryant G.
 nr:
-    name: Winston P.
+    name: Vacant
 rad:
     name: Kevin C.
 strategy:
-    name: Yi Lin M.
-ados:
     name: Anna L.
+ados:
+    name: Nicole P.
 design:
     name: Qiong Zhou H.
 machinist:
-    name: Ethan K.
+    name: Jason C.
 webmaster:
     name: Bryan L.
