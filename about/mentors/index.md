@@ -11,7 +11,7 @@ Team 694 would like to thank any individual who has mentored us in the past, inc
 
 ### Joe Blay
 <div markdown="1" class="ec-description">
-<img src="/img/mentors/blay.jpg" class="ec-photo" alt="Joe Blay">
+<img src="https://stuypulse.nyc3.digitaloceanspaces.com/site/img/Blay.jpg" class="ec-photo" alt="Joe Blay">
 Joe Blay has had a tremendous impact on our team since his high school years. Joe Blay was a former StuyPulse student, graduating in 2009. While a student, he was an engineer and the main driver. After graduating, he made sure to stay with the team, despite his time studying in Stony Brook University. After graduating, he has come back to Stuyvesant to teach as well as coach StuyPulse. He mentors every aspect of the team in one way or another trying to make sure that every department of 694 is constantly growing. His main strengths are engineering and strategy. During competitions, he works on the drive team, as the coach, setting up our match strategy and making sure the drivers are ready to play as well as making sure that the strategy team is gets us ready for every match and the elimination rounds.
 </div>
 
