@@ -12,7 +12,7 @@ vpoe:
 vpom:
     name: Sabrina N.
 vpse:
-    name: Pratham R.
+    name: Renee M.
 lab-ops:
     name: Endar L.
 ops:
@@ -47,3 +47,5 @@ machinist:
     name: Jason C.
 webmaster:
     name: Bryan L.
+assistant_webmaster:
+    name: Victor S.
