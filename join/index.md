@@ -8,7 +8,7 @@ Please contact us at <info@stuypulse.com> if you would like to join the team!
 ## Want to be a member? 
 
 ### To join the team you need to fill out a multitude of forms:
-1. [Contact Form](https://goo.gl/forms/oWd0ZdO5dw0XKgBs2): A form that must be filled out requiring information about parents and students.
+1. [Contact Form](https://forms.gle/PJBX7jofxsT82PMD8): A form that must be filled out requiring information about parents and students.
 2. [Media Consent Form](https://drive.google.com/file/d/0B8g81hwwtg-rSlZZQTRmVVA3N2c/view): This form must be signed by a parent or guardian to give permission for their child to be photographed, quoted, filmed, or videotaped for non-profit use (e.g.: educational, public service or health awareness purposes).
 3. [Medical Form](https://drive.google.com/file/d/0B8g81hwwtg-rYy15Yzhhd2ltSlk/view): A form for medical purposes regarding allergies, vaccinations, etc.
 4. [STIMS](https://my.firstinspires.org/Dashboard/): A form for FIRSTInspires that registers you to a specific robotics team. It also requires you to create an online account for FIRST to complete STIMS.
