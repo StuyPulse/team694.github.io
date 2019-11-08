@@ -9,7 +9,7 @@ Red Cross is giving 2 volunteer hours for your first coat, and 1 hour for every 
 We encourage students and families to set up collections in their own buildings, schools and communities. Flyers can be found below.
 If you collect more coats than you can carry, contact cobysontag@gmail.com and we may be able to help!
 
-[Printable Flyer:](https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/Coat%20Drive%20Public%20Flyer.pdf)
+[Printable Flyer:](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/Coat%20Drive%20Public%20Flyer.pdf)
 
 If you have any other questions, please reach out to cobysontag@gmail.com! We hope to help you have a greater impact in whatever way we can. 
 <hr>
