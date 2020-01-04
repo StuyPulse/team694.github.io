@@ -14,7 +14,7 @@ Resources for StuyPulse on Kickoff
 
 ## FIRST Downloads
 ### Encryption Key:
-Nothing at the moment.
+R!$E2geTHeR#2020
 
 ### Decrypted Versions:
 * 2020 FRC Game Season Manual
@@ -24,7 +24,7 @@ Nothing at the moment.
 * Layout and Marking Diagram
 
 ### Videos:
-Nothing at the moment.
+* 
 
 ### Schedule:
 <table class="table table-striped">
@@ -100,37 +100,51 @@ Nothing at the moment.
   <thead>
     <tr>
       <th scope="col"> Group Number </th>
+      <th scope="col"> Group Leaders </th>
       <th scope="col"> Group Members </th>
+      <th scope="col"> Group Mentors </th>
     </tr>
   </thead>
   <tbody>
   <tr>
     <th scope="row"> 1 </th>
-    <th scope="row"> Anna, Renee </th>
+    <td> Anna, Renee </td>
+    <td> Kano, Emily Zhang, Daniel Jung, Justin Mohabir, John Chen, Kelvin Zhao, Edward Wu </td>
+    <td> Mr Lonardo </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
-    <th scope="row"> Nicole, Endar </th>
+    <td> Nicole, Endar </td>
+    <td> Natalie Soler, Alyson, Chris Jin, Randy Lu, Daniel Shepel, Sumaya Hafizur, Faiza Huda </td>
+    <td> Mel, Shelly </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
-    <th scope="row"> Eric, Michelle </th>
+    <td> Eric, Michelle </td>
+    <td> Katherine Wu, Macy, Bryan Zhang, Myles P., Max Zeng, Kelvin Zhao,  Miguel Quiroz </td>
+    <td> None </td>
   </tr>
   <tr>
     <th scope="row"> 4 </th>
-    <th scope="row"> Lei, Enrique </th>
+    <td> Lei, Enrique </td>
+    <td> Brian R., Nicky, Ella Z., Akram K., Jeremy Kwok, Jin Cheng Zhang, Daniel Liu </td>
+    <td> Mr. Blay </td>
   </tr>
   <tr>
     <th scope="row"> 5 </th>
-    <th scope="row"> Junhee, Sam </th>
+    <td> Junhee, Sam </td>
+    <td> Wonjjong Park, Max G., Brian Yang, Ivan Chen, Zhao Yu Lin, Seong Yoon, Qicheng Sun </td>
+    <td> Ryan, Chris </td>
   </tr>
   <tr>
     <th scope="row"> 6 </th>
-    <th scope="row"> Angel, Christin </th>
+    <td> Angel, Christin </td>
+    <td> Pratham, Angel Liu, Ryan Lee, Stephanie Park, Stanley Zheng, Jeffrey jiang, Alan Guo </td>
+    <td> Tom </td>
   </tr>
   <tr>
     <th scope="row"> 7 </th>
-    <th scope="row"> Katie, Bryan </th>
+    <td> Katie, Bryan </td>
   </tr>
   <tr>
     <th scope="row"> 8 </th>
