@@ -17,7 +17,7 @@ Resources for StuyPulse on Kickoff
 Nothing at the moment.
 
 ### Decrypted Versions:
-* [2020 FRC Game Season Manual](https://stuypulse.com/)
+* 2020 FRC Game Season Manual
 * Manual Team Updates
 * Team Drawings
 * Field Drawings
