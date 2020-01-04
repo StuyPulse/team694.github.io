@@ -139,11 +139,11 @@ Nothing at the moment.
     <th scope="row"> Brianna, Winston  </th>
   </tr>
   <tr>
-    <th scope="row"> 9 </th>
+    <th scope="row"> 11 </th>
     <th scope="row"> Alan L., Qiong (Joseph)  </th>
   </tr>
   <tr>
-    <th scope="row"> 10 </th>
+    <th scope="row"> 12 </th>
     <th scope="row"> Tahsin, Coby  </th>
   </tr>
   </tbody>
