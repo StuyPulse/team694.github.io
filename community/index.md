@@ -13,6 +13,8 @@ It all began in the spring of 2001 when Team 694 gave a presentation about insti
 
 Our involvement with FLL increased in December 2005 when the Manhattan Borough FLL Tournament was first held in our school. After last year's successful event, the great amount of experience gained was used to make this year's tournament even better. This year we also worked to upgrade our event to the standards of an official FIRST event. We also continued to send volunteers to help referee and queue teams at the NYC FLL tournament in Riverbank State Park as well as the Queens FLL Qualifier.
 
+As of 2019, we helped a variety of FLL Teams in Puerto Rico. More specifically, we aided in programming and their project presentations. These four teams were the ASJ Robotigers, Knight Hackers, The LEGO Builders and The Robogens.
+
 ## Team 694 in the School
 After our successful rookie year, Stuyvesant High School was inspired to start a robotics class. Today, this course is still available to Juniors and Seniors as it helps spread the message of FIRST as well as awareness and interest in the Robotics Team. The class was such a success that several schools considered the possibility of adding a similar course to their curriculums.
 
