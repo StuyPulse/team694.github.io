@@ -55,8 +55,6 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
 {% endfor %}
 </div>
 ---
-##The Westgate NYC
-Planning on staying a weekend in the Big Apple? Stay at [The Westgate NYC](https://www.westgateresorts.com/hotels/new-york/midtown-manhattan/westgate-new-york-grand-central/) Hotel and get easy access to Midtown's world-class hotspots, with an affordable rate in the City that Never Sleeps.
 
 ## Get Involved!
 We are Stuyvesant High School's award winning FIRST Robotics team.  FIRST (For Inspiration and Recognition of Science and Technology) is an international, non-profit organization which promotes the spread of science and technology. We partner with local businesses, educational institutions and volunteer mentors to cultivate skills in teamwork, strategic thinking, and community outreach.
