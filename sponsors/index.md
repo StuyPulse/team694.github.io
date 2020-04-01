@@ -55,7 +55,7 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
 {% endfor %}
 </div>
 ---
-##The Westgate NYC
+## The Westgate NYC
 Planning on staying a weekend in the Big Apple? Stay at [The Westgate NYC](https://www.westgateresorts.com/hotels/new-york/midtown-manhattan/westgate-new-york-grand-central/) Hotel and get easy access to Midtown's world-class hotspots, with an affordable rate in the City that Never Sleeps.
 
 ## Get Involved!
