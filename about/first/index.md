@@ -29,7 +29,7 @@ Awards are bestowed based upon a wide range of criteria which rewards not only t
 
 Team 694 has participated in the FIRST Robotics Competition since 2000. To learn more about our team and its history, please [visit our Team section.](/about/)
 
-[Go to the official FRC site &raquo;](http://www.usfirst.org/roboticsprograms/frc)
+[Go to the official FRC site &raquo;](https://www.firstinspires.org/robotics/frc)
 
 <div class="row">
 <div markdown="1" class="span6">
