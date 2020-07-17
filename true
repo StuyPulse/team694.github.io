@@ -1,0 +1,8 @@
+Running ["HtmlCheck", "ImageCheck", "LinkCheck", "ScriptCheck"] on ["./_site"] on *.html... 
+
+
+Checking 165 external links...
+Ran on 61 files!
+
+
+htmlproofer 3.15.1 | Error:  HTML-Proofer found 8 failures!
