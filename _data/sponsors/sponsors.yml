@@ -12,7 +12,7 @@
   site: http://www.wallacefoundation.org/Pages/default.aspx
 - name: Con Edison
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/conedison.gif
-  site: http://www.coned.com/
+  site: http://www.coned.com/ 
 - name: SHS Alumni Association
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/shsaa.gif
   site: http://www.shsaa.org/
@@ -29,15 +29,15 @@
 - name: RiskEcon Lab for Decision Metrics
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/RiskEcon.png
   site: https://wp.nyu.edu/riskeconlab/
-- name: Rosenbaum Law
-  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/Rosenbaum_LOGO.png
-  site: https://www.rosenbaumnylaw.com/  
 - name: Numerati
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/Numerati.png
   site: http://numeratipartners2012.com/
 - name: David Resnick & Associates
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/david.png 
   site: https://www.injuryclaimnyclaw.com/
+- name: Rosenbaum Law
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/Rosenbaum_LOGO.png
+  site: https://www.rosenbaumnylaw.com/ 
 - name: Joe Ricci
 - name: Justin Kim
 - name: Rehab One Physical Therapy PC
