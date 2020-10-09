@@ -62,6 +62,20 @@ Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addit
 Mel likes to shake things up. There is no point in the season where he isn't saying that something is wrong with the robot. This lack of satisfaction constantly keeps all of us on our toes. Mel continues to come to meetings every year to help make us improve year after year.
 </div>
 
+### Rafael Colón
+<div markdown="1" class="ec-description">
+<img src="/img/mentors/colon.jpg" class="ec-photo" alt="Rafael Colón">
+Rafael gives his time generously all year long. Our team is able to work in our school's lab until nine at night after school, on weekends, and throughout school vacations only because he is willing to be with us. Rafael is so completely dedicated that three years ago, when he sustained a life-threatening injury in our lab, he not only called us every day to see how things were going, but also made the robotics lab his first stop after being discharged from the hospital. Rafael's spirit that robotics is your home away from home" has become the StuyPulse mantra.
+
+As a teacher, Rafael knows how to guide members without doing their work for them. He starts off the day with a team-wide meeting where everyone, from president to newbie, figures out exactly what to do, how to do it, and what is needed to accomplish it. By holding us strictly to our deadlines, we are taught time management skills. More significantly, Rafael emphasizes teamwork above victory. When tempers flare in the lab, he reminds us that what we'll remember years from now are the people we worked with, not the matches we won.
+
+Rafael was selected by New York 1, the local news channel at NYC, as the New Yorker of the week for his hardwork, commitment, and contributions. The article and the video for the report can be found here!
+
+Although Rafael has now retired, we are thankful for all the insight he has given us throughout the years.
+
+[Read about Mr. Colón in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/colon)
+</div>
+
 ### Honkit Ng
 
 ### Howard Cohen
