@@ -57,68 +57,25 @@ Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addit
 [Read about Jeanne in her Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/jeanne)
 </div>
 
-### Jim Potter
-<div markdown="1" class="ec-description">
-<img src="/img/mentors/jim.jpg" class="ec-photo" alt="Jim Potter">
-James Potter was invaluable to the engineering department this year. In the words of President Seth Berg, “When I first saw him, I thought he was an old mentor who decided to come back.” Jim jumped right into the robotics spirit, attended numerous meetings and competitions, and offered innovative solutions that greatly improved the robot, such as the empty cell holder.
-</div>
-
-### Catherine Kunicki
-<div markdown="1" class="ec-description">
-Catherine Kunicki, like her husband Ron, joined the team as a parent for her daughter Theo. Even though Theo graduated in 2008, Catherine comes back every year. She mentors our marketing team helping them come up with fantastic ideas for marketing the team at and away from the competitions.
-</div>
-
 ### Mel Hauptman
 <div markdown="1" class="ec-description">
 Mel likes to shake things up. There is no point in the season where he isn't saying that something is wrong with the robot. This lack of satisfaction constantly keeps all of us on our toes. Mel continues to come to meetings every year to help make us improve year after year.
 </div>
 
-### Justin Kim
-<div markdown="1" class="ec-description">
-<img src="/img/mentors/justin.jpg" class="ec-photo" alt="Justin Kim">
-Justin Kim is another StuyPulse success story. After graduating Stuyvesant as the President of Software Engineering in 2015, he started working as a software engineer at DigitalOcean. Since graduating, he has come back to mentor engineering, SE, and marketing.
-</div>
+### Honkit Ng
 
-### Evan Forbes
-<div markdown="1" class="ec-description">
-Evan Forbes has been mentoring SE since January 2017. He was previously a member of team 3507, Ubotics, and is now working at Google NYC. After moving to New York City, he became involved in NYC First and joined StuyPulse as a mentor. He's an expert on the yearly updates for the control systems, helping us update radios and learning the new WPILib.
+### Howard Cohen
 
-### Fritz Heckel
+### Jerry Chang
 
-### Samantha Unger
+### Levi Olevsky
 
-## Previous Mentors
+### Navid Kashem
 
-### Rafael Colón
-<div markdown="1" class="ec-description">
-<img src="/img/mentors/colon.jpg" class="ec-photo" alt="Rafael Colón">
-Rafael gives his time generously all year long. Our team is able to work in our school's lab until nine at night after school, on weekends, and throughout school vacations only because he is willing to be with us. Rafael is so completely dedicated that three years ago, when he sustained a life-threatening injury in our lab, he not only called us every day to see how things were going, but also made the robotics lab his first stop after being discharged from the hospital. Rafael's spirit that robotics is your home away from home" has become the StuyPulse mantra.
+### Noah Tom-Wong
 
-As a teacher, Rafael knows how to guide members without doing their work for them. He starts off the day with a team-wide meeting where everyone, from president to newbie, figures out exactly what to do, how to do it, and what is needed to accomplish it. By holding us strictly to our deadlines, we are taught time management skills. More significantly, Rafael emphasizes teamwork above victory. When tempers flare in the lab, he reminds us that what we'll remember years from now are the people we worked with, not the matches we won.
+### Phil Lopreiato
 
-Rafael was selected by New York 1, the local news channel at NYC, as the New Yorker of the week for his hardwork, commitment, and contributions. The article and the video for the report can be found here!
+### Piotr Milewski
 
-Although Rafael has now retired, we are thankful for all the insight he has given us throughout the years.
-
-[Read about Mr. Colón in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/colon)
-</div>
-
-### Seth Berg
-
-### Mark Cohen
-
-### Robert Lin
-
-### Robin Blumberg
-
-### James Carpino
-
-### Paul Desiderio Sr.
-
-### Robert LaMarca
-
-### Adam Leeb
-
-### Stephen Hilton
-
-### Colin Holgate
+### Shelley Grant
