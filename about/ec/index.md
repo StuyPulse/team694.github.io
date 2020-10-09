@@ -148,5 +148,5 @@ The Director of Research and Development is in charge of researching and develop
 ### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested. 
+The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
 </div>
