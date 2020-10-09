@@ -57,37 +57,10 @@ Jeanne Boyarsky has volunteered since 2010 as a Java programming mentor in addit
 [Read about Jeanne in her Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/jeanne)
 </div>
 
-### Jim Potter
-<div markdown="1" class="ec-description">
-<img src="/img/mentors/jim.jpg" class="ec-photo" alt="Jim Potter">
-James Potter was invaluable to the engineering department this year. In the words of President Seth Berg, “When I first saw him, I thought he was an old mentor who decided to come back.” Jim jumped right into the robotics spirit, attended numerous meetings and competitions, and offered innovative solutions that greatly improved the robot, such as the empty cell holder.
-</div>
-
-### Catherine Kunicki
-<div markdown="1" class="ec-description">
-Catherine Kunicki, like her husband Ron, joined the team as a parent for her daughter Theo. Even though Theo graduated in 2008, Catherine comes back every year. She mentors our marketing team helping them come up with fantastic ideas for marketing the team at and away from the competitions.
-</div>
-
 ### Mel Hauptman
 <div markdown="1" class="ec-description">
 Mel likes to shake things up. There is no point in the season where he isn't saying that something is wrong with the robot. This lack of satisfaction constantly keeps all of us on our toes. Mel continues to come to meetings every year to help make us improve year after year.
 </div>
-
-### Justin Kim
-<div markdown="1" class="ec-description">
-<img src="/img/mentors/justin.jpg" class="ec-photo" alt="Justin Kim">
-Justin Kim is another StuyPulse success story. After graduating Stuyvesant as the President of Software Engineering in 2015, he started working as a software engineer at DigitalOcean. Since graduating, he has come back to mentor engineering, SE, and marketing.
-</div>
-
-### Evan Forbes
-<div markdown="1" class="ec-description">
-Evan Forbes has been mentoring SE since January 2017. He was previously a member of team 3507, Ubotics, and is now working at Google NYC. After moving to New York City, he became involved in NYC First and joined StuyPulse as a mentor. He's an expert on the yearly updates for the control systems, helping us update radios and learning the new WPILib.
-
-### Fritz Heckel
-
-### Samantha Unger
-
-## Previous Mentors
 
 ### Rafael Colón
 <div markdown="1" class="ec-description">
@@ -103,22 +76,20 @@ Although Rafael has now retired, we are thankful for all the insight he has give
 [Read about Mr. Colón in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/colon)
 </div>
 
-### Seth Berg
+### Honkit Ng
 
-### Mark Cohen
+### Howard Cohen
 
-### Robert Lin
+### Jerry Chang
 
-### Robin Blumberg
+### Levi Olevsky
 
-### James Carpino
+### Navid Kashem
 
-### Paul Desiderio Sr.
+### Noah Tom-Wong
 
-### Robert LaMarca
+### Phil Lopreiato
 
-### Adam Leeb
+### Piotr Milewski
 
-### Stephen Hilton
-
-### Colin Holgate
+### Shelley Grant

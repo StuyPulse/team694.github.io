@@ -108,11 +108,18 @@ The Assistant Director of Strategy is to be familiar with all aspects of strateg
 The Director of Design is responsible for the upkeep of the CAD model of the robot and all elements thereof with the aid of a CAD team. This CAD team is to be instructed in the use of CAD programs and led by the Director of Design.
 </div>
 
-### Primary Machinist <small>{{ site.data.ec.machinist.name }}</small>
+### Director of Machining <small>{{ site.data.ec.dom.name }}</small>
 <div markdown="1" class="ec-description">
-{% if site.data.ec.machinist.photo %} <img src="{{ site.data.ec.machinist.photo }}" class="ec-photo" alt="Primary Machinist"> {% endif %}
+{% if site.data.ec.dom.photo %} <img src="{{ site.data.ec.dom.photo }}" class="ec-photo" alt="Director of Machining"> {% endif %}
 The Primary Machinist is responsible for the maintaining the mill, lathe, and their parts. He/she must also make sure that there will be at least two members of the team that will be able to use the mill in the upcoming year, including the Primary Machinist. If there are fewer than two such members, the Primary Machinist is responsible for training new members.
 </div>
+
+### Assistant Director of Machining <small>{{ site.data.ec.adom.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.adom.photo %} <img src="{{ site.data.ec.adom.photo }}" class="ec-photo" alt="Assistant Director of Machining"> {% endif %}
+The Assistant Machinist is to be familiar with all aspects of machining and be ready to assume the jobs of Director of Machining if necessary.
+</div>
+
 
 ### Director of Field Construction <small>{{ site.data.ec.field.name }}</small>
 <div markdown="1" class="ec-description">
