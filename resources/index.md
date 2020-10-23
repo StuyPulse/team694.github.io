@@ -54,11 +54,6 @@ A statement of the long-term vision and goals of our team, and a plan for the ye
 
 #### [Branding Guide](/downloads/teamdocs/BrandingGuide2016-2017.pdf)
 
-### Team Publications
-
-#### Press Releases
-- [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
-
 ### For Members
 
 #### [Team Forms](/resources/forms/)

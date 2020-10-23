@@ -3,6 +3,9 @@ layout: page
 title: Team Publications
 ---
 
+#### Press Releases
+- [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
+
 #### Magazines
 - [2017 Magazine](/downloads/teamdocs/magazines/2017Magazine.pdf)
 - [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
