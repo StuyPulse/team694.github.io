@@ -3,10 +3,10 @@ layout: page
 title: Team Publications
 ---
 
-#### Press Releases
+## Press Releases
 - [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
 
-#### Magazines
+## Magazines
 - [2017 Magazine](/downloads/teamdocs/magazines/2017Magazine.pdf)
 - [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
 - [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
@@ -21,6 +21,6 @@ title: Team Publications
 - [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
 - [2001 Magazine](/downloads/teamdocs/magazines/01mag.pdf)
 
-#### Scrapbooks
+## Scrapbooks
 - [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
 - [2009 Scrapbook](/downloads/teamdocs/scrapbooks/09scrapbook.pdf)
