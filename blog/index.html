@@ -4,7 +4,7 @@ title: Latest Posts
 ---
 {% for post in paginator.posts %}
     <div class="post-preview">
-        {% if post.title contains "Newsletter" %}
+        {% if post.link %}
             <h3><a href="{{ post.link }}">&raquo; {{ post.title }}</a></h3>
         {% else %}
             <h3><a href="{{ post.url }}">&raquo; {{ post.title }}</a></h3>
