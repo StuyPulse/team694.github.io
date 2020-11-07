@@ -7,9 +7,9 @@ title: Team 694 - Stuyvesant High School's award winning FIRST Robotics team
     <div class="carousel-inner">
         {% for item in site.data.carousel | limit: 5 %}
             <div class="{% if forloop.first %}active {% endif %}item">
-                {% if item.read-more-link %}</a>{% endif %}
                 {% if item.read-more-link %}<a target="_blank" href="{{ item.read-more-link }}">{% endif %}
                 <img src="{{ item.img }}" alt="{{ item.caption-header }}">
+                {% if item.read-more-link %}</a>{% endif %}
                 <div class="carousel-caption">
                     <h4>{{ item.caption-header }}</h4>
                     <p>{{ item.caption-body }}</p>
