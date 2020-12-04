@@ -7,6 +7,7 @@ title: Team Publications
 - [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
 
 ## Magazines
+- [2020 Magazine](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/2020%20Magazine.pdf)
 - [2017 Magazine](/downloads/teamdocs/magazines/2017Magazine.pdf)
 - [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
 - [2012 Magazine](/downloads/teamdocs/magazines/2012Magazine.pdf)
