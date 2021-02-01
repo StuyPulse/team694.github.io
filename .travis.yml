@@ -3,7 +3,7 @@ rvm:
 - 2.4.1
 
 script:
-- bundle exec jekyll build && bundle exec htmlproofer --check-html --assume-extension --url-ignore "/#.*/, https://twitter.com/" ./_site --file-ignore "/blog/" typhoeus = { :timeout => 60, :verbose => true }
+- bundle exec jekyll build && bundle exec htmlproofer --check-html --assume-extension --url-ignore "/#.*/, https://twitter.com/, ./_site" --file-ignore "/blog/" typhoeus = { :timeout => 60, :verbose => true }
 - "./_scripts/check-carousel-size.rb"
 - "./_scripts/check-stuypulse-capitalization.sh"
 - "./_scripts/check-image-extensions.sh"
