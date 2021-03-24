@@ -79,6 +79,5 @@ https://docs.google.com/presentation/d/1Vze8476anFM1utZV2J0OJ-krT0gGEkTcrWkNVtyE
 > Learn Java from last year’s seniors? Who learned it from the seniors two years ago? Who, well you get the idea. Come learn about how new features in Java 8 can help you write clearer and easier Java code for your robot. And for coding things other than robots too. Jeanne Boyarsky has written three books about Java 8 and will be giving away a copy to one of the attendees.
 
 ### Sponsorships, Fundraising, Branding Your Best Self <small>with Yubin Kim</small>
-[Presentation](https://docs.google.com/presentation/d/1a0a8aEAPMs0gSzQlzCkxFMrgblo8-LFC5_vd610xB0I/edit?usp=sharing)
 
 > Fundraising for any engineering organization is important. Teams, projects, research labs, and entrepreneurs in engineering face the problem of being able to fund themselves. It is important that team leaders learn and develop different strategies to fund their teams through crowdfunding, outreach, and fundraising. This lecture will focus on how teams can effectively reach out to potential sponsors and strategize methods to succeed in crowdfunding/fundraising initiatives while marketing and presenting their best selves.
