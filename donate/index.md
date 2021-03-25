@@ -5,7 +5,7 @@ description: Contribute to StuyPulse by donating an item from our wish list!
 ---
 <br/>
 
-## [PayPal Donations](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
+## [PayPal Donations](https://www.paypal.com/donate?token=o52pdiSBHUO4qDzJnl2yn5NV30Wllg3Z0RVZ17sVf14oqp36RA8P7gf47spvcFJ7vk_oRf2WO88fRtTz)
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="HS5273F9CJHU4">
