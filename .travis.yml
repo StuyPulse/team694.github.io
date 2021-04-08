@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.4.1
+- 2.7.2
 
 script:
 - bundle exec jekyll build && bundle exec htmlproofer --check-html --assume-extension --url-ignore "/#.*/,https://twitter.com/StuyPulse" ./_site --file-ignore "/blog/" typhoeus = { :timeout => 60, :verbose => true }
