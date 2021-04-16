@@ -7,11 +7,6 @@ description: StuyPulse has many resources available, including source code, docu
 <div markdown="1" class="span8">
 ## Community
 
-### Technical Binders
-
-#### [2020 Technical Binder](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/Technical%20Binder%202020.pdf)
-Our 2020 season's technical  binder.
-
 ### Resources
 
 #### [Open Source Software](https://github.com/StuyPulse)
