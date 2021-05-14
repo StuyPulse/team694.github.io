@@ -55,8 +55,6 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
 {% endfor %}
 </div>
 ---
-## The Westgate NYC
-Planning on staying a weekend in the Big Apple? Stay at [The Westgate NYC](https://www.westgateresorts.com/hotels/new-york/midtown-manhattan/westgate-new-york-grand-central/) Hotel and get easy access to Midtown's world-class hotspots, with an affordable rate in the City that Never Sleeps.
 
 ## Get Involved!
 We are Stuyvesant High School's award winning FIRST Robotics team.  FIRST (For Inspiration and Recognition of Science and Technology) is an international, non-profit organization which promotes the spread of science and technology. We partner with local businesses, educational institutions and volunteer mentors to cultivate skills in teamwork, strategic thinking, and community outreach.
@@ -66,25 +64,4 @@ We are Stuyvesant High School's award winning FIRST Robotics team.  FIRST (For I
 
 For more information and resources, see our press packet [here](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket.pdf).
 
-### Sponsorship Levels
-
-#### Nuts &amp; Bolts <small>$50-$99</small>
-Contributors receive a letter of appreciation.
-
-#### Sheet Metal <small>$100-$499</small>
-Contributors shall receive a link to their website on StuyPulse.com, along with an invitation to visit the robotics lab during build season.
-
-#### Aluminum <small>$500-$1999</small>
-Contributors shall be named on the back of the year's T-shirt.
-
-#### Bronze <small>$2000-$4999</small>
-Contributors shall receive a signed team photograph and have their Decal placed on the competing robot.
-
-#### Silver <small>$5000-$9999</small>
-Contributors shall receive a thank you package and have their name associated with StuyPulse.
-
-#### Gold <small>$10000+</small>
-Contributors shall receive a plaque of appreciation.
-
-#### Platinum <small>Highest Contributor</small>
-Contributor shall receive the honor of naming the robot.
+{% include sponsorship-levels.html %}
