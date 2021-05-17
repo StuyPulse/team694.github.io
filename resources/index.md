@@ -46,7 +46,7 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 #### [Press Packet](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket.pdf)
 Information and materials for potential [sponsors](/sponsors/).
 
-#### [Team Charter](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/StuyPulse%20Charter%202020-2021.pdf)
+#### [Team Charter](https://charter.stuypulse.com)
 A formal description of our team's structure and government.
 
 #### [Operations Plan](/downloads/teamdocs/2016-2017OpsPlan.pdf)
