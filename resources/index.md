@@ -26,6 +26,10 @@ A document published by our Software Engineering department in 2011 with solutio
 #### [Newbie FRC Games](/resources/newbiegames/)
 Documentation for all current and previous newbie games that we have made.
 
+#### [2021 Technical Binder [Elektra]](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/IR@H%20Presentation%20%281%29.pdf)
+#### [2020 Technical Binder [Edwin]](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/Technical%20Binder%202020.pdf)
+Our Technical Binders are available here.
+
 ### Tutorials
 
 #### [Fundraising](/resources/tutorials/fundraising/)

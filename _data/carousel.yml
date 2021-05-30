@@ -2,12 +2,12 @@
 # There must be exactly 5 items
 
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/stuysplash2019.jpg
-  caption-header: Join us for Stuy Splash 2020!
-  read-more-link: https://docs.google.com/document/d/1-wfOFpTE6Q36ReIMZRtnKW7zUEZPBRBYLk7UL3aYsSI/edit?fbclid=IwAR054MuDQkrl6zrySiN7f7M2lg57fk6TutiaM0jUY4PFjBLRTFNEh3CkiIY
-- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/strat-2019.jpg
-  caption-header: StuyPulse's strategy team at the Central New York Regional!
-- img: https://stuypulse.nyc3.digitaloceanspaces.com/site/img/cny-2019.jpg
-  caption-header: StuyPulse at the Central New York Regional!
+  caption-header: Check out Stuy Splash 2020! A YouTube playlist is available.
+  read-more-link: https://docs.google.com/document/d/1KNNnll-WENjqaWWsoex1aiRei_i4giS5dEUaoC-IV2c/edit
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/group-2020.jpg
+  caption-header: Our 2020 season robot, Edwin!
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/palmetto-2020.JPG
+  caption-header: StuyPulse at the Palmetto Regional!
 - img: https://stuypulse.nyc3.digitaloceanspaces.com/site/img/Alfred.jpg
   caption-header: Our 2019 season robot, Alfred!
 - img: https://stuypulse.nyc3.digitaloceanspaces.com/site/img/group-2019.jpg
