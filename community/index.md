@@ -15,6 +15,8 @@ Our involvement with FLL increased in December 2005 when the Manhattan Borough F
 
 As of 2019, we helped a variety of FLL Teams in Puerto Rico. More specifically, we aided in programming and their project presentations. These four teams were the ASJ Robotigers, Knight Hackers, The LEGO Builders and The Robogens.
 
+Recently, as of 2021, we've also devised our own FLL curriculum, designed specifically to help new teams and their mentors get a solid foundation in the basics of FLL robotics and its associated activities such as the FLL research project. A short introduction to the guide and the links to its resources can be found in [this PDF](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/FLL%20Curriculum%20Guide.pdf).
+
 ## Team 694 in the School
 After our successful rookie year, Stuyvesant High School was inspired to start a robotics class. Today, this course is still available to Juniors and Seniors as it helps spread the message of FIRST as well as awareness and interest in the Robotics Team. The class was such a success that several schools considered the possibility of adding a similar course to their curriculums.
 
