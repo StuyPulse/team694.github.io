@@ -145,12 +145,6 @@ The Director of Newbie Relations for software engineering is responsible for the
 The Assistant Director of Newbie Relations is to be familiar with all aspects of newbie relations and should be ready to assume the job of the Director of Newbie Relations if necessary.
 </div>
 
-### Director of Research and Development <small>{{ site.data.ec.rad.name }}</small>
-<div markdown="1" class="ec-description">
-{% if site.data.ec.rad.photo %} <img src="{{ site.data.ec.rad.photo }}" class="ec-photo" alt="Director of Research and Development"> {% endif %}
-The Director of Research and Development is in charge of researching and developing various topics in software engineering. They are to make sure Proof-Of-Concepts (PoCs) are made for each topic. The DoR&D is also responsible for apportioning people to look into certain projects, and ensuring the projects are ready for use on the robot if/when they are needed.
-</div>
-
 ### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
