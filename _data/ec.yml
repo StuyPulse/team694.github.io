@@ -2,50 +2,52 @@
 # Used by: /about/ec
 # For each position, name is required and photo is optional.
 poe:
-    name: Brianna L.
-pom:
-    name: Sabrina N.
-pse:
-    name: Renee M.
-vpoe:
     name: Michelle Z.
-vpom:
+pom:
     name: Ian C.
-vpse:
+pse:
     name: Sam B.
+vpoe:
+    name: Janna W.
+vpom:
+    name: Isabella J.
+vpse:
+    name: Myles P.
 lab-ops:
-    name: Winnie H.
+    name: Wonjong P.
 ops:
-    name: Sumaya H.
+    name: Macy J.
 finance:
     name: Vacant
 media:
-    name: Zhi Xuan L. &amp; Steven S.
+    name: Max Z.
 pr:
-    name: Vacant
+    name: Manolee M.
 procurement:
     name: Patrick W.
 electronics:
-    name: Christin L. &amp; Alan L.
+    name: Michael Y.
 adoe:
-    name: Vacant
+    name: Verit L.
 field:
     name: Andy Z.
 pneumatics:
-    name: Junhao S.
+    name: Bryan Z.
 nr:
-    name: Pak L.
+    name: Elaine Y.
+adnr:
+    name: Shaurya S.
 rad:
-    name: Lei L.
+    name:
 strategy:
-    name: Nicole P.
-ados:
     name: Katie C.
+ados:
+    name: Vacant
 design:
-    name: Jeremy Z.
+    name: Edwin Z. &amp; Sean Z.
 dom:
-    name: Jason C.
+    name: Katie C.
 adom:
-    name: Ryan L.
+    name: April L.
 webmaster:
-    name: Myles P. &amp; Nicky L.
+    name: Anthony C. &amp; Ben G. &amp; Vincent W. &amp; Nicky L.
