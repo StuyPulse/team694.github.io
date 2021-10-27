@@ -60,12 +60,6 @@ The Assistant Director of Electronics is familiar with all aspects of the electr
 The Director of Lab Operations and Safety, at the highest level, is responsible for the smooth running of the team’s workspaces. They are responsible for keeping a detailed inventory of the tools and construction materials in the laboratory as well as a record of materials used in the construction of the robot. The DoLOS is also responsible for ensuring that all necessary safety rules are observed in the lab during build season. The DoLOS will automatically be appointed Safety Captain at the competition and will be responsible for carrying out all duties therein.
 </div>
 
-### Director of Procurement <small>{{ site.data.ec.procurement.name }}</small>
-<div markdown="1" class="ec-description">
-{% if site.data.ec.procurement.photo %} <img src="{{ site.data.ec.procurement.photo }}" class="ec-photo" alt="Director of Procurement"> {% endif %}
-The Director of Procurement is responsible for overseeing and actualizing the procurement of goods necessary for the team’s operation. The DoP is similarly responsible for identifying adequate substitutes when a necessary resource cannot be obtained from the traditional supplier for a reasonable cost. All procurement requests must be approved by a faculty advisor. The DoP is also required to maintain a detailed, up­to­date account of the team’s expenditures, available on request.
-</div>
-
 ### Director of Finance <small>{{ site.data.ec.finance.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.finance.photo %} <img src="{{ site.data.ec.finance.photo }}" class="ec-photo" alt="Director of Finance"> {% endif %}
