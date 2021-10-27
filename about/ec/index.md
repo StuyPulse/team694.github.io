@@ -142,7 +142,7 @@ The Director of Newbie Relations for software engineering is responsible for the
 ### Assistant Director of Newbie Relations <small>{{ site.data.ec.adnr.name}}</small>
 <div markdown="1" class = "ec-description">
 {% if site.data.ec.nr.photo %} <img src="{{ site.data.ec.nr.photo }}" class="ec-photo" alt="Director of Newbie Relations"> {% endif %}
-The assistant Director of Newbie Relations is to be familiar with all aspects of newbie relations and should be ready to assume the job of the Director of Newbie Relations if necessary.
+The Assistant Director of Newbie Relations is to be familiar with all aspects of newbie relations and should be ready to assume the job of the Director of Newbie Relations if necessary.
 </div>
 
 ### Director of Research and Development <small>{{ site.data.ec.rad.name }}</small>
