@@ -41,9 +41,7 @@ In 2018, we held Stuy Splash at Stuyvesant High School on December 8. Below are 
 > Decision making in FRC is challenging, perhaps arbitrary at best. In this presentation, we will explore what factors to take in consideration when designing a robot, along with how these can evolve throughout a season. Using StuyPulse's 2018 robot as a case study, I will explain how our decisions and mistakes drove our thought process, demonstrating how sometimes "bad" decisions are not as bad as they seem.  
 
 ### How to Bribe Your Robot Inspector <small>with Noah Tom-Wong</small>
-> Robot inspection can be a stressful time for a lot of teams, but it really doesn't have to be! I'll walk you through the inspection checklist and how make your inspection goes as smoothly as possible.
-
-You won't actually be taught how to bribe inspectors.
+> Robot inspection can be a stressful time for a lot of teams, but it really doesn't have to be! I'll walk you through the inspection checklist and how make your inspection goes as smoothly as possible. You won't actually be taught how to bribe inspectors.
 
 ### Game Strategy <small>with Howard Cohen</small>
 
