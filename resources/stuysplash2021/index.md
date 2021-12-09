@@ -33,7 +33,7 @@ https://docs.google.com/presentation/d/1koR_LJUQr0Bl9JbjXiroavUQUp-aPUIsiXEXa5tI
 [Presentation](
 https://docs.google.com/presentation/d/1DR4fiVbVvcC46MpaIfKRxfQ5okzx3CciGr-sISU3pTU/edit?usp=sharing)
 
-> Crash course of what the season is like for those who have not attended an in-person FRC season before; what to expect, what to plan for, and how to have fun
+> Crash course of what the season is like for those who have not attended an in-person FRC season before; what to expect, what to plan for, and how to have fun.
 
 ### Programming with the Romi <small>with Michael Lee</small>
 [Presentation](
@@ -45,4 +45,4 @@ https://docs.google.com/presentation/d/1-4Id9CF9UfpHhG_Rlr7_rLpahwCxcPAz/edit?us
 [Presentation](
 https://docs.google.com/presentation/d/1c716GScX0mzcnDAIznfAcWcDShFhdcn6/edit?usp=sharing&ouid=117641438514045868531&rtpof=true&sd=true)
 
-> "Presenting and answering questions is different in person than on Zoom/Teams. In this interactive session, attendees will learn tips they can use at the 2022 competition. Whether you are presenting Chairmans or encountering a judge in the pit, you’ll be prepared to communicate effectively! Jeanne Boyarsky is a Distinguished Toastmaster and has given over a hundred speeches. She has also written six books about Java and will be giving away a copy to one of the attendees."
+> Presenting and answering questions is different in person than on Zoom/Teams. In this interactive session, attendees will learn tips they can use at the 2022 competition. Whether you are presenting Chairmans or encountering a judge in the pit, you’ll be prepared to communicate effectively! Jeanne Boyarsky is a Distinguished Toastmaster and has given over a hundred speeches. She has also written six books about Java and will be giving away a copy to one of the attendees.
