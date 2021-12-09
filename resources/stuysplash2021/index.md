@@ -5,7 +5,7 @@ title: Stuy Splash 2021
 
 [Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
 
-In 2017, we held Stuy Splash at Stuyvesant High School on December 4. Below are the presentations from the event.
+In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are the presentations from the event.
 
 ### Beta Testing <small>with Nicky Lin</small>
 [Presentation](https://docs.google.com/presentation/d/1F00SK0r5_fpESj5BRldIC0qP32ThpbPQUoDMvAnivJs/edit?usp=sharing)
