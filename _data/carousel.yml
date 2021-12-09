@@ -1,10 +1,10 @@
 # Carousel items on front page
 # There must be exactly 5 items
 
-- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/stuysplash2019.jpg
-  caption-header: Check out Stuy Splash 2020! A YouTube playlist is available.
-  img-link: https://docs.google.com/document/d/1KNNnll-WENjqaWWsoex1aiRei_i4giS5dEUaoC-IV2c/edit
-  read-more-link: https://docs.google.com/document/d/1KNNnll-WENjqaWWsoex1aiRei_i4giS5dEUaoC-IV2c/edit
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/stuysplash2021.jpg
+  caption-header: Check out Stuy Splash 2021!
+  img-link: https://drive.google.com/drive/folders/1nrTNPP_3gJfcmTTOtQU3lFotwvUJDjks?usp=sharing
+  read-more-link: https://docs.google.com/document/d/1AJYNXKlTIg2xEQEvYFWsogLXYhHoj8KnY0LloDK9eEM/edit
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/group-2020.jpg
   caption-header: Our 2020 season robot, Edwin!
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/palmetto-2020.JPG
