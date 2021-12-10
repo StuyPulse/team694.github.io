@@ -52,6 +52,7 @@ In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are 
 > How to render everything from a table to robots using Fusion360. We will learn about how to manipulate appearances and scene settings to produce high quality renderings.
 
 ### Leadership in FIRST <small>with Levi Olevsky</small>
+[Presentation](https://docs.google.com/presentation/d/1prgClbZfVdqj4ZCCAqOk6GzPXfn9WX9IqTCB02pEvTs/edit#slide=id.p)
 
 > What is one skill that every single person on a FIRST team should have? A good leader will be able to not only manage, but enhance the skills of their team, regardless if the team is two people or one hundred. Come learn what I think it takes to be a good leader.
 
@@ -60,5 +61,6 @@ In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are 
 >
 
 ### Continuing SE Through The Pandemic <small>with Sam Belliveau & Myles Pasetsky</small>
+[Presentation](https://docs.google.com/presentation/d/1nnuLUtVbdOD9wvXOKgZkySYfOO3KMaRGQvy1q63L6ew/edit)
 
 > Sam and I will talk about the how we were able to continue newbie education and software research through the pandemic this past year. We discuss the usage of simulations and ROMIs in learning, teaching, and testing motion profiling and computer vision. We also discuss the specific techniques we used to create IR@H ready code while only being able to meet over zoom.
