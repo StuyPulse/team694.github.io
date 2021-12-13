@@ -39,9 +39,6 @@
 - name: Verizon
   site: https://www.verizon.com/
   logo: https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/img/verizon.jpg
-- name: David Resnick Associates, PC
-  site: https://www.injuryclaimnyclaw.com/
-  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/davidresnick.png
 - name: Rosenbaum & Rosenbaum 
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/rosenbaum.png
   site: https://www.rosenbaumnylaw.com/
