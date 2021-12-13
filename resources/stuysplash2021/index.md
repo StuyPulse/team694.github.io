@@ -7,6 +7,8 @@ title: Stuy Splash 2021
 
 In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are the presentations from the event.
 
+Video recordings of the presentations can be found [here](https://drive.google.com/drive/folders/1itwWdO65sMhELYBWhSkx9dkiRcLyg3zj?usp=sharing).
+
 ### Presenting in person! Communicating for Chairmans and Pit Interviews <small>with Jeanne Boyarsky</small>
 [Presentation](https://docs.google.com/presentation/d/1c716GScX0mzcnDAIznfAcWcDShFhdcn6/edit?usp=sharing&ouid=117641438514045868531&rtpof=true&sd=true)
 
@@ -28,8 +30,9 @@ In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are 
 > What is dead wheel odometry, why we should use it, and how, along with an introduction to RoadRunner.
 
 ### Intro to FRC Awards <small>with Ian Codner, Izzy Jia, & Manolee Merlet</small>
+[Presentation](https://docs.google.com/presentation/d/1dSAKF2Ae68Cw63m7sAkSPxGSL-J2MeaWRCJ8Wevppk4/edit?usp=sharing)
 
-> 
+> Introduction to the three big awards in FRC: the Dean's List Award, the Woodie Flowers Award, and the Chairman's Award.
 
 ### How to Analyze FTC Robot Games For Success <small>with Eileen Kuo & Sinan Roumie</small>
 [Presentation](https://docs.google.com/presentation/d/13kD5RFwNN5SWCgJHRploBdMRVvhd0AP-q254TjuV5xs/edit?usp=sharing)
@@ -57,8 +60,9 @@ In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are 
 > What is one skill that every single person on a FIRST team should have? A good leader will be able to not only manage, but enhance the skills of their team, regardless if the team is two people or one hundred. Come learn what I think it takes to be a good leader.
 
 ### Life of a Mechanical Engineer <small>with Howard Cohen</small>
+[Presentation](https://drive.google.com/file/d/1o3YQ9zAeZmLDtWydtqtswe2dvFKibvxq/view?usp=sharing)
 
->
+> 
 
 ### Continuing SE Through The Pandemic <small>with Sam Belliveau & Myles Pasetsky</small>
 [Presentation](https://docs.google.com/presentation/d/1nnuLUtVbdOD9wvXOKgZkySYfOO3KMaRGQvy1q63L6ew/edit)
