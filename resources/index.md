@@ -38,15 +38,15 @@ Documentation for all current and previous newbie games that we have made.
 
 Our Technical Binders are available here.
 
-#### [FLL Curriculum](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/FLL%20Curriculum%20Guide.pdf)
-
-Our FLL curriculum guide, designed to help new teams and mentors.
-
 ### Tutorials
 
 #### [Fundraising](/resources/tutorials/fundraising/)
 
 Fundraising is a very important aspect of maintaining any FIRST Robotics team. Here is a guide to help you raise money.
+
+#### [FLL Curriculum](/resources/tutorials/fll/)
+
+Our FLL curriculum guide, designed to help new teams and mentors.
 
 #### [How to Recruit](/resources/tutorials/recruitment/)
 
