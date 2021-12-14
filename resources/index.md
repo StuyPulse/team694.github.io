@@ -3,9 +3,13 @@ layout: page
 title: Documents &amp; Tutorials
 description: StuyPulse has many resources available, including source code, documents, and tutorials on a variety of subjects.
 ---
+### For Members
 
-<div class="row">
-<div markdown="1" class="span8">
+#### [Team Forms](/resources/forms/)
+
+Team members must fill out these forms in order to participate on the team.
+
+<br/>
 
 ### Resources
 
@@ -51,9 +55,6 @@ A robotics team can sound very intimidating to a high school student, especially
 
 Creating videos for or about your team can be fun or can very tedious. Whether your experience are one or the other is dependent on how you carry out all the parts of the video production process.
 
-</div>
-<div markdown="1" class="span4">
-
 <br/>
 
 ### Team Documents
@@ -73,12 +74,3 @@ Information and materials for potential [sponsors](/sponsors/).
 #### [Team Charter](https://charter.stuypulse.com)
 
 A formal description of our team's structure and government.
-
-### For Members
-
-#### [Team Forms](/resources/forms/)
-
-Team members must fill out these forms in order to participate on the team.
-
-</div>
-</div>
