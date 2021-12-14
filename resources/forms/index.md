@@ -7,16 +7,16 @@ In order to join and participate on the team, the following must be completed:
 <details>
 <summary>Media Consent Form</summary>
 <br/>
-Please have this filled out for photo purposes:
-<iframe src="/downloads/teamdocs/forms/MediaConsentForm.pdf" height="500px" width="100%"></iframe>
+Please have this <a href="/downloads/teamdocs/forms/MediaConsentForm.pdf">form</a> filled out for photo purposes:
+<iframe src="https://drive.google.com/file/d/1vqRcrqGt89DYi_p43XDBxM0iFZI3wF6X/preview?usp=sharing" height="500px" width="100%"></iframe>
 </details>
 
 
 <details>
 <summary>Medical Form</summary>
 <br/>
-Please have your doctor/physician complete this form:
-<iframe src="/downloads/teamdocs/forms/MedicalForm.pdf" height="500px" width="100%"></iframe>
+Please have your doctor/physician complete this <a href="/downloads/teamdocs/forms/MedicalForm.pdf">form</a>:
+<iframe src="https://drive.google.com/file/d/1X1JhrtUJzZqmVKH_vOXHZXnsaIlKAWZ0/preview?usp=sharing" height="500px" width="100%"></iframe>
 </details>
 <br/>
 
