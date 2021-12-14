@@ -3,10 +3,10 @@ layout: page
 title: Team Publications
 ---
 
-## Press Releases
+### Press Releases
 - [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
 
-## Magazines
+### Magazines
 - [2020 Magazine](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/2020%20Magazine.pdf)
 - [2017 Magazine](/downloads/teamdocs/magazines/2017Magazine.pdf)
 - [2016 Magazine](/downloads/teamdocs/magazines/2016Magazine.pdf)
@@ -22,6 +22,10 @@ title: Team Publications
 - [2002 Magazine](/downloads/teamdocs/magazines/02mag.pdf)
 - [2001 Magazine](/downloads/teamdocs/magazines/01mag.pdf)
 
-## Scrapbooks
+### Scrapbooks
 - [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
 - [2009 Scrapbook](/downloads/teamdocs/scrapbooks/09scrapbook.pdf)
+
+### Technical Binders
+- [2020 Technical Binder: Edwin](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/Technical%20Binder%202020.pdf)
+- [2021 Technical Binder: Elektra](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/IR@H%20Presentation%20%281%29.pdf)
