@@ -9,8 +9,6 @@ description: StuyPulse has many resources available, including source code, docu
 
 Team members must fill out these forms in order to participate on the team.
 
-<br/>
-
 ### Resources
 
 #### [2012 Beta Seminar](/resources/2012betaseminar/)
@@ -30,8 +28,6 @@ From our robot code to [this very website](/about/website/), everything we devel
 [Stuy Splash](/community/projects/stuysplash/) is an intensive camp for FRC, covering everything from the foundation of your robot to the 0's and 1's that make it overweight.
 
 We have uploaded the presentations from the event, and they are available for download.
-
-<br/>
 
 ### Tutorials
 
@@ -54,8 +50,6 @@ A robotics team can sound very intimidating to a high school student, especially
 #### [Video Production](/resources/tutorials/videoproduction/)
 
 Creating videos for or about your team can be fun or can very tedious. Whether your experience are one or the other is dependent on how you carry out all the parts of the video production process.
-
-<br/>
 
 ### Team Documents
 
