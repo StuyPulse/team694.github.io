@@ -58,7 +58,6 @@ Creating videos for or about your team can be fun or can very tedious. Whether y
 
 Team members must fill out these forms in order to participate on the team.
 
-
 ### Team Documents
 
 #### [Branding Guide](/downloads/teamdocs/BrandingGuide2016-2017.pdf)

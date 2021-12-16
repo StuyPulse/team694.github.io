@@ -5,7 +5,7 @@ title: Team Publications
 ### Magazines
 Over the years, StuyPulse has published several magazines covering the highlights of the year. The collection of magazines is available below, and each one can be clicked on to view and download.
 
-<style>td {padding:10px;}</style>
+<style>td {padding:15px;}</style>
 
 | [![2001Magazine](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/publications/2001Magazine.png)](/downloads/teamdocs/magazines/01mag.pdf) | [![2002Magazine](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/publications/2002Magazine.png)](/downloads/teamdocs/magazines/02mag.pdf) | [![2003Magazine](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/publications/2003Magazine.png)](/downloads/teamdocs/magazines/03mag.pdf) |  
 
@@ -25,7 +25,6 @@ Over the years, StuyPulse has published several magazines covering the highlight
 
 ### Press Releases
 - [2014 Buckeye Regional](/downloads/teamdocs/pressreleases/OhioBuckeyeRegionalPressRelease.pdf)
-
 
 ### Scrapbooks
 - [2010 Scrapbook](/downloads/teamdocs/scrapbooks/10scrapbook.pdf)
