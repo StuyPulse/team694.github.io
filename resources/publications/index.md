@@ -2,6 +2,7 @@
 layout: page
 title: Team Publications
 ---
+
 ### Magazines
 Over the years, StuyPulse has published several magazines covering the highlights of the year. The collection of magazines is available below, and each one can be clicked on to view and download.
 
