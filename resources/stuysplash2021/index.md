@@ -7,6 +7,8 @@ title: Stuy Splash 2021
 
 In 2021, we held Stuy Splash at Stuyvesant High School on December 4. Below are the presentations from the event.
 
+[Video Recording Playlist](https://www.youtube.com/playlist?list=PLTzhdzF4LCm5OqTtf8pqx5DV-KHXJ2QOU)
+
 ### Presenting in person! Communicating for Chairmans and Pit Interviews <small>with Jeanne Boyarsky</small>
 [Presentation](https://docs.google.com/presentation/d/1c716GScX0mzcnDAIznfAcWcDShFhdcn6/edit?usp=sharing&ouid=117641438514045868531&rtpof=true&sd=true)
 
