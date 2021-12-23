@@ -1,22 +1,14 @@
 ---
 layout: page
-title: 2020 Kickoff Information
+title: 2022 Mock Kickoff Information
+description: Dedicated page for Kickoff information
 ---
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-## FRC Kickoff 2020
-Resources for StuyPulse on Kickoff
-
-## FIRST Downloads
 ### Encryption Key:
 R!$E2geTHeR#2020
 
 ### Decrypted Versions:
-* [2020 FRC Game Season Manual](/img/2020FRCGameSeasonManual.pdf)
+* [2022 FRC Game Season Manual](/img/2020FRCGameSeasonManual.pdf)
 
 ### Videos:
 * [Game Animation](https://www.youtube.com/watch?v=gmiYWTmFRVE)
@@ -25,6 +17,8 @@ R!$E2geTHeR#2020
 * [2020 Field Tour Video: Loading Bay](https://www.youtube.com/watch?v=41UgChIeSQw)
 * [2020 Field Tour Video: Rockwell](https://www.youtube.com/watch?v=WH0H8fHIP6I)
 * [2020 Field Tour Video: Alliance Station](https://www.youtube.com/watch?v=Yky0AQUACVQA)
+
+&nbsp;
 
 ### Schedule:
 <table class="table table-striped">
@@ -74,6 +68,8 @@ R!$E2geTHeR#2020
   </tbody>
 </table>
 
+&nbsp;
+
 ### Group Discussion Points
 * NO MECHANISMS
 * Make sure that everyone understands the game.
@@ -93,6 +89,8 @@ R!$E2geTHeR#2020
 * All a ways a robot can defend
 * What shouldn't we do?
 * Perfect Cycles/Perfect Autons
+
+&nbsp;
 
 ### Small Group Assignments
 
