@@ -80,7 +80,7 @@ description: Dedicated page for Kickoff information
   <tbody>
   <tr>
     <th scope="row"> 1 </th>
-    <td> 350 </td>
+    <td> 339 </td>
     <td> Katie Collins, Michelle Zhang </td>
     <td> Ian Codner, Jiayu Yan, John Cehn, Gary Jiang, Brandon Chen, Allison Choi, Zhi Ming Xu, Ivan Wei, Sydney Moy, Adeeb Khan, Nelson So, Tim Goretsky </td>
   </tr>
@@ -98,7 +98,7 @@ description: Dedicated page for Kickoff information
   </tr>
   <tr>
     <th scope="row"> 4 </th>
-    <td> 339 </td>
+    <td> 350 </td>
     <td> Bryan Zhang, Sean Zhan, Mr. Blay </td>
     <td> Michael Yang, Andrew Che, Rain Shao, Hongwei Li, Stephen Cheung, Reya Miller, Jaco Xia, Joseph Wu, Aiden Tan, Rong Zheng Wu, Elaine Huang, William Liu, Tazrian Sazzad </td>
   </tr>
