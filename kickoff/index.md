@@ -82,37 +82,37 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 1 </th>
     <td> 339 </td>
     <td> Katie Collins, Michelle Zhang </td>
-    <td> Ian Codner, Jiayu Yan, John Cehn, Gary Jiang, Brandon Chen, Allison Choi, Zhi Ming Xu, Ivan Wei, Sydney Moy, Adeeb Khan, Nelson So, Tim Goretsky </td>
+    <td> Ian Codner, Jiayu Yan, John Cehn, Gary Jiang, Brandon Chen, Allison Choi, Zhi Ming Xu,Ivan Wei, Sydney Moy, Adeeb Khan, William Vongphanith, Mason Grant,  Nelson So, Tim   Goretsky, Zhengrong (Ronny) Qian </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
     <td> 351 </td>
     <td> April Li, Jason Zhou </td>
-    <td> Wonjong Park, Jason Xie, Hannah Choi, Edison Zhu, Yujia Xue, Samantha Unger, Tracey Lin, Allen Lin, Orion Xiang, Tiffany Hermawan, Mason Grant, Mia Haas, Yujia Xue </td>
+    <td> Wonjong Park, Jason Xie, Hannah Choi, Kenneth Wong, Edison Zhu, Samantha Unger, Tracey Lin, Allen Lin, Orion Xiang, Benjamin Goldfisher, Jack Zheng, Mia Haas, Yujia Xue </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
     <td> 351 </td>
     <td> Janna Wang, Oston Chen </td>
-    <td> Macy Jiang, Manolee Merlet, Jason Yang, Jasmine Yuen, Andy Zheng, Yonna Yueng, Kimberly Ye, Hui Wen Weng, Qi Wang, Chloe Kim, Niki Chen, Vedant Kothari, Chuer Zong </td>
+    <td> Macy Jiang, Manolee Merlet, Jason Yang, Jasmine Yuen, Andy Zheng, Yonna Yueng, Kimberly Ye, Hui Wen Weng, Richard (Gus) Watkins, Chloe Kim, Niki Chen, Vedant Kothari, Chuer Zong </td>
   </tr>
   <tr>
     <th scope="row"> 4 </th>
     <td> 350 </td>
     <td> Bryan Zhang, Sean Zhan, Mr. Blay </td>
-    <td> Michael Yang, Andrew Che, Rain Shao, Hongwei Li, Stephen Cheung, Reya Miller, Jaco Xia, Joseph Wu, Aiden Tan, Rong Zheng Wu, Elaine Huang, William Liu, Tazrian Sazzad </td>
+    <td> Michael Yang, Andrew Che, Rita (Rain) Shao, Hongwei Li, Stephen Cheung, Reya Miller, Jaco Xia, Joseph Wu, Aiden Tan, Rong Zheng Wu, Elaine Huang, William Liu, Tazrian Sazzad </td>
   </tr>
   <tr>
     <th scope="row"> 5 </th>
     <td> 335 </td>
     <td> Edwin Zheng, Ivan Wei </td>
-    <td> Tony Chen, Yuchen Pan, Andre Wang, Brandon Tang, Harry Belliveau, Evan Wong, Ethan Lee, Corina Chen, Benjamin Belotser, Jack Zheng, Howard Kong, Ethan Lee, Ian Bae, Jameson Ha </td>
+    <td> Tony Chen, Yuchen Pan, Andre Wang, Brandon Tang, Harry Belliveau, Evan Wong, Corina Chen, Benjamin Belotser, Crystal Yang, Carmin Vuong, Howard Kong, Ethan Lee, Ian Bae, Jameson Ha </td>
   </tr>
   <tr>
     <th scope="row"> 6 </th>
     <td> 333 </td>
     <td> Kano Kitaguchi, Sam Belliveau </td>
-    <td> Izzy Jia, Hui Wang, Francis Zweifler, Christopher Choe, John Jay Wang, Jeff Chen, Eric Lin, Eliezer Cho, Manaal Khurram, Richard (Gus) Watkins, Jennifer Ye, Colyi Chen, Christopher Choe, Anson Lau </td>
+    <td> Isabella Jia, Hui Wang, Francis Zweifler, John Jay Wang, Jeff Chen, Eric Lin, Eliezer Cho, Manaal Khurram, Qi Wang, Jennifer Ye, Colyi Chen, Christopher Choe, Anson Lau </td>
   </tr>
   <tr>
     <th scope="row"> 7 </th>
@@ -124,19 +124,19 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 8 </th>
     <td> 327 </td>
     <td> Nicky Lin, Natalie Soler </td>
-    <td> Vincent Wang, Qianjun Zhou, Nikkol Chen, Ian Jiang, Yao Shen He, Brandon Chao, Tedd Lee, Jonathan Song, Daniel Chang, Sudipta Chakraborty, Howard Kong, Snigdho Somprity, Zhengrong (Ronny) Qian </td>
+    <td> Vincent Wang, Qianjun Zhou, Ian Jiang, Yao Shen He, Brandon Chao, Tedd Lee, Jonathan Song, Daniel Chang, Sudipta Chakraborty, John Chen, Nikkol Chen, Snigdho Somprity </td>
   </tr>
   <tr>
     <th scope="row"> 9 </th>
     <td> 315 </td>
     <td> Shaurya Sen, Jeremy Kwok  </td>
-    <td> Anthony Chen, Zoey Zhou, Edward Wu, Aidan Kou, Anna Zheng, Ahmed A Radwan, Elwin Au, Zhao Yu Lin, Vincent Wan, Joseph Mei, Eben Eichenwald, Eben Eichenwald, Sophie Liu, Mandy Wang, Michelle Zhu </td>
+    <td> Anthony Chen, Edward Wu, Aidan Kuo, Anna Zheng, Ahmed A Radwan, Elwin Au, Zhao Yu Lin, Andrew Liu, Vincent Wan, Joseph Mei, Eben Eichenwald, Sophie Liu, Mandy Wang, Michelle Zhu </td>
   </tr>
   <tr>
     <th scope="row"> 10 </th>
     <td> 313 </td>
     <td> Max Zeng, Melanie Lin </td>
-    <td> Elaine Ye, Milo Zaks, Emily Ng, Daniel Uh, Zoey Zhou, Marc Jiang, Samuel Chen, Anita Liang, Krishna Dudani, Vincent Lin, James Li, Sophia Zheng, Amelia Ng </td>
+    <td> Elaine Ye, Milo Zaks, Emily Ng, Daniel Uh, Zoey Zhou, Marc Jiang, Samuel Chen, Anita Liang, Krishna Dudani, Vincent Lin, Tiffany Hermawan, James Li, Sophia Zheng, Amelia Ng  </td>
   </tr>
   </tbody>
 </table>
