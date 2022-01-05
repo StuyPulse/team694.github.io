@@ -80,43 +80,43 @@ description: Dedicated page for Kickoff information
   <tbody>
   <tr>
     <th scope="row"> 1 </th>
-    <td> Ceramics Lab </td>
+    <td> 350 </td>
     <td> Katie Collins, Michelle Zhang </td>
     <td> Ian Codner, Jiayu Yan, John Cehn, Gary Jiang, Brandon Chen, Allison Choi, Zhi Ming Xu, Ivan Wei, Sydney Moy, Adeeb Khan, Nelson So, Tim Goretsky </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
-    <td> Ceramics Lab </td>
+    <td> 351 </td>
     <td> April Li, Jason Zhou </td>
     <td> Wonjong Park, Jason Xie, Hannah Choi, Edison Zhu, Yujia Xue, Samantha Unger, Tracey Lin, Allen Lin, Orion Xiang, Tiffany Hermawan, Mason Grant, Mia Haas, Yujia Xue </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
-    <td> Computer Lab </td>
+    <td> 351 </td>
     <td> Janna Wang, Oston Chen </td>
     <td> Macy Jiang, Manolee Merlet, Jason Yang, Jasmine Yuen, Andy Zheng, Yonna Yueng, Kimberly Ye, Hui Wen Weng, Qi Wang, Chloe Kim, Niki Chen, Vedant Kothari, Chuer Zong </td>
   </tr>
   <tr>
     <th scope="row"> 4 </th>
-    <td> Computer Lab </td>
+    <td> 339 </td>
     <td> Bryan Zhang, Sean Zhan, Mr. Blay </td>
     <td> Michael Yang, Andrew Che, Rain Shao, Hongwei Li, Stephen Cheung, Reya Miller, Jaco Xia, Joseph Wu, Aiden Tan, Rong Zheng Wu, Elaine Huang, William Liu, Tazrian Sazzad </td>
   </tr>
   <tr>
     <th scope="row"> 5 </th>
-    <td> 339 </td>
+    <td> 335 </td>
     <td> Edwin Zheng, Ivan Wei </td>
     <td> Tony Chen, Yuchen Pan, Andre Wang, Brandon Tang, Harry Belliveau, Evan Wong, Ethan Lee, Corina Chen, Benjamin Belotser, Jack Zheng, Howard Kong, Ethan Lee, Ian Bae, Jameson Ha </td>
   </tr>
   <tr>
     <th scope="row"> 6 </th>
-    <td> 335 </td>
+    <td> 333 </td>
     <td> Kano Kitaguchi, Sam Belliveau </td>
     <td> Izzy Jia, Hui Wang, Francis Zweifler, Christopher Choe, John Jay Wang, Jeff Chen, Eric Lin, Eliezer Cho, Manaal Khurram, Richard (Gus) Watkins, Jennifer Ye, Colyi Chen, Christopher Choe, Anson Lau </td>
   </tr>
   <tr>
     <th scope="row"> 7 </th>
-    <td> 333 </td>
+    <td> 350 </td>
     <td> Myles Pasetsky, Verit Li </td>
     <td> Ben Goldfisher, Ivan Chen, Natalie Keung, Vinson Chen, Calvin Pun, Amber Shen, Nelson Li, Ya Qi Chew, Russell Goychayev, William Wang, Raihan Nadeem, Raphael Zheng, Wai Sum Fong </td>
   </tr>
