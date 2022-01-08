@@ -7,7 +7,7 @@ description: Dedicated page for Kickoff information
 ### Materials:
 * [Game Animation](https://www.youtube.com/watch?v=LgniEjI9cCM)
 * [Game Manual](https://firstfrc.blob.core.windows.net/frc2022/Manual/2022FRCGameManual.pdf)
-  * [Decrypted Version](https://slack-files.com/files-pri-safe/T02HPEJDF-F02ST365WG7/2022frcgamemanual-unlocked.pdf?c=1641664676-5f8c1d09da470008)
+  * [Decrypted Version](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/2022FRCGameManual-unlocked.pdf)
 * [Game Field](https://www.firstinspires.org/robotics/frc/playing-field)
 * [Game Q&A Forum](https://frc-qa.firstinspires.org/)
 * Encryption Key: W3lc0m3B^Ck2022!
