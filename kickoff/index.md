@@ -130,7 +130,7 @@ description: Dedicated page for Kickoff information
   </tr>
   <tr>
     <th scope="row"> 4 </th>
-    <td> 339 </td>
+    <td> 350 </td>
     <td> Bryan Zhang, Sean Zhan </td>
     <td> Joseph Wu, Jaco Xia, Rong Zheng Wu, Rita (Rain) Shao, William Liu, Hongwei Li, Reya Miller, Andrew Che, Daniel St. John, Stephen Cheung, Aiden Tan </td>
     <td> Mr. Blay </td>
@@ -151,14 +151,14 @@ description: Dedicated page for Kickoff information
   </tr>
   <tr>
     <th scope="row"> 7 </th>
-    <td> 350 </td>
+    <td> 339 </td>
     <td> Myles Pasetsky, Verit Li </td>
     <td> Benjamin Goldfisher, Ivan Chen, Raphael Zheng, Nelson Li, Ya Qi Chew, Amber Shen, Calvin Pun, William Vongphanith, Natalie Keung, Raymond Zhang, Vinson Chen, Russell Goychayev, William Wang </td>
     <td> Piotr </td>
   </tr>
   <tr>
     <th scope="row"> 8 </th>
-    <td> 327 </td>
+    <td> 305  </td>
     <td> Nicky Lin, Natalie Soler </td>
     <td> Vincent Wang, Qianjun Zhou, Ian Jiang, Brandon Chao, Jonathan Song, Yao Shen He, Tedd Lee, Daniel Chang, Sudipta Chakraborty, John Chen, Kevin Liu </td>
     <td> Joe Ricci </td>
