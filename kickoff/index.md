@@ -1,33 +1,23 @@
 ---
 layout: page
-title: 2020 Kickoff Information
+title: 2022 Kickoff Information
+description: Dedicated page for Kickoff information
 ---
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-## FRC Kickoff 2020
-Resources for StuyPulse on Kickoff
+### Materials:
+* [Game Animation](#)
+* [Game Overview](#)
+* [Game Manual](#)
+* [Abridged Game Manual](#)
 
-## FIRST Downloads
-### Encryption Key:
-R!$E2geTHeR#2020
-
-### Decrypted Versions:
-* [2020 FRC Game Season Manual](/img/2020FRCGameSeasonManual.pdf)
-
-### Videos:
-* [Game Animation](https://www.youtube.com/watch?v=gmiYWTmFRVE)
-* [2020 Field Tour Video: Shield Generator](https://www.youtube.com/watch?v=YSPIPEJVZAw)
-* [2020 Field Tour Video: Power Port](https://www.youtube.com/watch?v=yl3Goq5VsyQ)
-* [2020 Field Tour Video: Loading Bay](https://www.youtube.com/watch?v=41UgChIeSQw)
-* [2020 Field Tour Video: Rockwell](https://www.youtube.com/watch?v=WH0H8fHIP6I)
-* [2020 Field Tour Video: Alliance Station](https://www.youtube.com/watch?v=Yky0AQUACVQA)
+&nbsp;
 
 ### Schedule:
 <table class="table table-striped">
+  <colgroup>
+    <col span="1" style="width:30%">
+    <col span="1" style="width:70%">
+  </colgroup>
   <thead>
     <tr>
       <th scope="col"> Time </th>
@@ -36,43 +26,49 @@ R!$E2geTHeR#2020
   </thead>
   <tbody>
   <tr>
-    <th scope="row"> 9:00 - 10:00 </th>
+    <th scope="row" style=""> 11:00 - 11:50  </th>
     <th scope="row"> Setup </th>
   </tr>
   <tr>
-    <th scope="row"> 10:00 - 12:00 </th>
+    <th scope="row"> 11:50 - 12:00 </th>
+    <th scope="row"> Mr. Blay Speech </th>
+  </tr>
+  <tr>
+    <th scope="row"> 12:00 - 2:00 </th>
     <th scope="row"> Kickoff Broadcast </th>
   </tr>
   <tr>
-    <th scope="row"> 12:00 - 1:00 </th>
+    <th scope="row"> 2:00 - 3:00 </th>
     <th scope="row"> Manual Reading </th>
   </tr>
   <tr>
-    <th scope="row"> 1:00 - 1:45 </th>
+    <th scope="row"> 3:00 - 3:30 </th>
     <th scope="row"> Lunch + Group Leader Briefing + Taping </th>
   </tr>
   <tr>
-    <th scope="row"> 1:45 - 3:50 </th>
+    <th scope="row"> 3:30 - 5:30 </th>
     <th scope="row"> Small Group Discussion </th>
   </tr>
   <tr>
-    <th scope="row"> 3:50 - 5:20 </th>
-    <th scope="row"> Large Group Discussion (Small groups recpa and strategy) </th>
+    <th scope="row"> 5:30 - 6:30 </th>
+    <th scope="row"> Big Group Discussion (Small Groups Recap and Strategy) </th>
   </tr>
   <tr>
-    <th scope="row"> 5:20 - 5:30 </th>
+    <th scope="row"> 6:30 - 6:40 </th>
     <th scope="row"> Break </th>
   </tr>
   <tr>
-    <th scope="row"> 5:30 - 7:45 </th>
-    <th scope="row"> Large Group Discussion (Continued) </th>
+    <th scope="row"> 6:40 - 7:40 </th>
+    <th scope="row"> Human Robots </th>
   </tr>
   <tr>
-    <th scope="row"> 7:45 - 8:15 </th>
-    <th scope="row"> Cleanup </th>
+    <th scope="row"> 7:40 - 8:00 </th>
+    <th scope="row"> Clean Up </th>
   </tr>
   </tbody>
 </table>
+
+&nbsp;
 
 ### Group Discussion Points
 * NO MECHANISMS
@@ -86,13 +82,15 @@ R!$E2geTHeR#2020
 * Autonomous Routines
 * Types of Robots
 * Types of Allances
-* What will be common bots we see?
 * What will win quals?
-* What will win NY?
+* What will win a regional?
 * What will win Champs?`
 * All a ways a robot can defend
 * What shouldn't we do?
-* Perfect Cycles/Perfect Autons
+* Perfect cycles/perfect autons
+* What will be common robots we will see?
+
+&nbsp;
 
 ### Small Group Assignments
 
@@ -109,84 +107,73 @@ R!$E2geTHeR#2020
   <tbody>
   <tr>
     <th scope="row"> 1 </th>
-    <td> Ceramics Lab </td>
-    <td> Anna, Renee </td>
-    <td> Kano, Emily Zhang, Daniel Jung, Justin Mohabir, John Chen, Edward Wu </td>
-    <td> Mr Lonardo </td>
+    <td> TBD </td>
+    <td> Katie Collins, Michelle Zhang </td>
+    <td> IIan Codner, Jiayu Yan, Gary Jiang, Allison Choi, Zhi Ming Xu, Sydney Moy, Adeeb Khan, John Cehn, Brandon Chen, Ivan Wei, Mason Grant </td>
+    <td> Nicole, Bryant </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
-    <td> 327 </td>
-    <td> Nicole, Endar </td>
-    <td> Natalie Soler, Alyson, Chris Jin, Randy Lu, Daniel Shepel, Sumaya Hafizur, Faiza Huda </td>
-    <td> Mel, Shelly </td>
+    <td> TBD </td>
+    <td> April Li, Jason Zhou </td>
+    <td> Wonjong Park, Jack Zheng, Tracey Lin, Orion Xiang, Hannah Choi, Kenneth Wong, Yujia Xue, Allen Lin, Jason Xie, Edison Zhu, Ayan Chowdhury </td>
+    <td> Levi </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
-    <td> 329 </td>
-    <td> Eric, Michelle </td>
-    <td> Katherine Wu, Macy, Bryan Zhang, Myles P., Max Zeng, Kelvin Zhao,  Miguel Quiroz </td>
-    <td> Anya </td>
+    <td> TBD </td>
+    <td> Janna Wang, Oston Chen </td>
+    <td> Andy Zheng, Jason Yang, Yonna Yueng, Kimberly Ye, Chloe Kim, Richard (Gus) Watkins, Macy Jiang, Manolee Merlet, Amelia Ng, Jasmine Yuen, Rachel Yu, Hui Wen Weng </td>
+    <td> Navid </td>
   </tr>
   <tr>
     <th scope="row"> 4 </th>
-    <td> Ceramics Lab </td>
-    <td> Lei, Enrique </td>
-    <td> Brian R., Nicky, Ella Z., Akram K., Jeremy Kwok, Jin Cheng Zhang, Daniel Liu </td>
+    <td> 339 </td>
+    <td> Bryan Zhang, Sean Zhan </td>
+    <td> Joseph Wu, Jaco Xia, Rong Zheng Wu, Rita (Rain) Shao, William Liu, Hongwei Li, Reya Miller, Andrew Che, Daniel St. John, Stephen Cheung, Aiden Tan </td>
     <td> Mr. Blay </td>
   </tr>
   <tr>
     <th scope="row"> 5 </th>
-    <td> 329 </td>
-    <td> Junhee, Sam </td>
-    <td> Wonjjong Park, Max G., Brian Yang, Ivan Chen, Zhao Yu Lin, Seong Yoon, Qicheng Sun </td>
-    <td> Ryan, Chris </td>
+    <td> 335 </td>
+    <td> Edwin Zheng, Ivan Wei </td>
+    <td> Tony Chen, Justin Zou, Yuchen Pan, Andre Wang, Brandon Tang, Evan Wong, Benjamin Belotser, Crystal Yang, Harry Belliveau, Corina Chen, Carmin Vuong, Kelvin Zhao </td>
+    <td> Samantha Unger </td>
   </tr>
   <tr>
     <th scope="row"> 6 </th>
     <td> 333 </td>
-    <td> Angel, Christin </td>
-    <td> Pratham, Angel Liu, Ryan Lee, Stephanie Park, Stanley Zheng, Jeffrey jiang, Alan Guo </td>
-    <td> Tom </td>
+    <td> Kano Kitaguchi, Sam Belliveau </td>
+    <td> Isabella Jia, Hui Wang, Francis Zweifler, John Jay Wang, Jeff Chen, Eric Lin, Eliezer Cho, Manaal Khurram, Anson Lau, Qi Wang, Aahan Shah, Euan Chung </td>
+    <td> Jeanne, Tom </td>
   </tr>
   <tr>
     <th scope="row"> 7 </th>
-    <td> 335 </td>
-    <td> Katie, Bryan </td>
-    <td> Junhao O., Tanvir, Pratham, Anita, Gossamer M,, Ryan Lee, Jonathan Song </td>
-    <td> Joe Ricci </td>
+    <td> 350 </td>
+    <td> Myles Pasetsky, Verit Li </td>
+    <td> Benjamin Goldfisher, Ivan Chen, Raphael Zheng, Nelson Li, Ya Qi Chew, Amber Shen, Calvin Pun, William Vongphanith, Natalie Keung, Raymond Zhang, Vinson Chen, Russell Goychayev, William Wang </td>
+    <td> Piotr </td>
   </tr>
   <tr>
     <th scope="row"> 8 </th>
     <td> 327 </td>
-    <td> Jeremy, Jason </td>
-    <td> Yu Ting, Oston, Melanie Lin, Emma Sudo, Surooj Khan, Sean Zhan, Yin Hei Chan </td>
-    <td> Navid, Hui Min </td>
+    <td> Nicky Lin, Natalie Soler </td>
+    <td> Vincent Wang, Qianjun Zhou, Ian Jiang, Brandon Chao, Jonathan Song, Yao Shen He, Tedd Lee, Daniel Chang, Sudipta Chakraborty, John Chen, Kevin Liu </td>
+    <td> Joe Ricci </td>
   </tr>
   <tr>
     <th scope="row"> 9 </th>
-    <td> 335 </td>
-    <td> Edwin, Patrick  </td>
-    <td> Winne Huang, Maya, Andy Zheng, Verit, Riyasat Chowdhury, Frank Wang </td>
-    <td> Jerry </td>
+    <td> 315 </td>
+    <td> Shaurya Sen, Jeremy Kwok  </td>
+    <td> Anthony Chen, Aidan Kuo, Ahmed A Radwan, Edward Wu, Mandy Wang, Michelle Zhu, Andrew Liu, Elwin Au, Michael Lee, Zhao Yu Lin, Vincent Wan, Joseph Mei, Gabriel Gutierrez </td>
+    <td> Anna </td>
   </tr>
   <tr>
     <th scope="row"> 10 </th>
-    <td> 335 </td>
-    <td> Brianna, Winston  </td>
-    <td> Seonga, Junhao S., Jason Z., Ayan, Steven Shi, Michael Yang </td>
-    <td> Yi Lin </td>
+    <td> 313 </td>
+    <td> Max Zeng, Melanie Lin </td>
+    <td> Elaine Ye, Emily Ng, Daniel Uh, Zoey Zhou, Marc Jiang, Samuel Chen, Anita Liang, Krishna Dudani, Vincent Lin, Tiffany Hermawan, Rui Dong, Abtahe Mazumder, Milo Zaks </td>
+    <td> Brianna </td>
   </tr>
-  <tr>
-    <th scope="row"> 11 </th>
-    <td> 339 </td>
-    <td> Alan L., Qiong (Joseph)  </td>
-    <td> Victor, Janna, Junhao O., Vansh, Yuk Kwan Lau, Rorie Taylor, Justin Zou </td>
-  <td> Piotr, Colin </td>
-  <tr>
-    <th scope="row"> 12 </th>
-    <td> 333 </td>
-    <td> Tahsin, Coby  </td>
-    <td> Sabrina, Jia Yang, Perry, Oliver, Anjini Katari, Vincent Wang </td>
-    <td> Jeanne, Chris </td>
-  </tr>
+  </tbody>
+</table>
