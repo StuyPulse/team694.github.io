@@ -5,10 +5,12 @@ description: Dedicated page for Kickoff information
 ---
 
 ### Materials:
-* [Game Animation](#)
-* [Game Overview](#)
-* [Game Manual](#)
-* [Abridged Game Manual](#)
+* [Game Animation](https://www.youtube.com/watch?v=LgniEjI9cCM)
+* [Game Manual](https://firstfrc.blob.core.windows.net/frc2022/Manual/2022FRCGameManual.pdf)
+  * [Decrypted Version](https://slack-files.com/files-pri-safe/T02HPEJDF-F02ST365WG7/2022frcgamemanual-unlocked.pdf?c=1641664676-5f8c1d09da470008)
+* [Game Field](https://www.firstinspires.org/robotics/frc/playing-field)
+* [Game Q&A Forum](https://frc-qa.firstinspires.org/)
+* Encryption Key: W3lc0m3B^Ck2022!
 
 &nbsp;
 
@@ -107,21 +109,21 @@ description: Dedicated page for Kickoff information
   <tbody>
   <tr>
     <th scope="row"> 1 </th>
-    <td> TBD </td>
+    <td> 327 </td>
     <td> Katie Collins, Michelle Zhang </td>
-    <td> IIan Codner, Jiayu Yan, Gary Jiang, Allison Choi, Zhi Ming Xu, Sydney Moy, Adeeb Khan, John Cehn, Brandon Chen, Ivan Wei, Mason Grant </td>
+    <td> Ian Codner, Jiayu Yan, Gary Jiang, Allison Choi, Zhi Ming Xu, Sydney Moy, Adeeb Khan, John Cehn, Brandon Chen, Ivan Wei, Mason Grant </td>
     <td> Nicole, Bryant </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
-    <td> TBD </td>
+    <td> 329 </td>
     <td> April Li, Jason Zhou </td>
     <td> Wonjong Park, Jack Zheng, Tracey Lin, Orion Xiang, Hannah Choi, Kenneth Wong, Yujia Xue, Allen Lin, Jason Xie, Edison Zhu, Ayan Chowdhury </td>
     <td> Levi </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
-    <td> TBD </td>
+    <td> 337 </td>
     <td> Janna Wang, Oston Chen </td>
     <td> Andy Zheng, Jason Yang, Yonna Yueng, Kimberly Ye, Chloe Kim, Richard (Gus) Watkins, Macy Jiang, Manolee Merlet, Amelia Ng, Jasmine Yuen, Rachel Yu, Hui Wen Weng </td>
     <td> Navid </td>
@@ -138,14 +140,14 @@ description: Dedicated page for Kickoff information
     <td> 335 </td>
     <td> Edwin Zheng, Ivan Wei </td>
     <td> Tony Chen, Justin Zou, Yuchen Pan, Andre Wang, Brandon Tang, Evan Wong, Benjamin Belotser, Crystal Yang, Harry Belliveau, Corina Chen, Carmin Vuong, Kelvin Zhao </td>
-    <td> Samantha Unger </td>
+    <td> Tom </td>
   </tr>
   <tr>
     <th scope="row"> 6 </th>
     <td> 333 </td>
     <td> Kano Kitaguchi, Sam Belliveau </td>
     <td> Isabella Jia, Hui Wang, Francis Zweifler, John Jay Wang, Jeff Chen, Eric Lin, Eliezer Cho, Manaal Khurram, Anson Lau, Qi Wang, Aahan Shah, Euan Chung </td>
-    <td> Jeanne, Tom </td>
+    <td> Jeanne </td>
   </tr>
   <tr>
     <th scope="row"> 7 </th>
@@ -164,8 +166,8 @@ description: Dedicated page for Kickoff information
   <tr>
     <th scope="row"> 9 </th>
     <td> 315 </td>
-    <td> Shaurya Sen, Jeremy Kwok  </td>
-    <td> Anthony Chen, Aidan Kuo, Ahmed A Radwan, Edward Wu, Mandy Wang, Michelle Zhu, Andrew Liu, Elwin Au, Michael Lee, Zhao Yu Lin, Vincent Wan, Joseph Mei, Gabriel Gutierrez </td>
+    <td> Anthony Chen, Jeremy Kwok  </td>
+    <td> Aidan Kuo, Ahmed A Radwan, Edward Wu, Mandy Wang, Michelle Zhu, Andrew Liu, Elwin Au, Michael Lee, Zhao Yu Lin, Vincent Wan, Joseph Mei, Gabriel Gutierrez </td>
     <td> Anna </td>
   </tr>
   <tr>
