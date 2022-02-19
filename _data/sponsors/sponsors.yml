@@ -4,44 +4,27 @@
 
 - name: SHS Parents' Association
   site: https://stuy-pa.org/
-- name: AIG
-  site: https://www.aig.com/
-  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/aig.jpg
 - name: D.E. Shaw &amp; Co.
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/deshaw.gif
   site: http://www.deshaw.com/
+- name: Mary Ann Belliveau
 - name: DigitalOcean
   logo: https://i.pcmag.com/imagery/reviews/06IGOgIipf2dmkiXBsUunYT-7.fit_scale.size_1028x578.v_1569474162.jpg
   site: https://digitalocean.com/ 
 - name: Con Edison
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/conedison.gif
   site: http://www.coned.com/
-- name: Zang Family
 - name: ABB
   site: https://global.abb/group/en
   logo: https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/img/abb.png
-- name: Mary Ann Belliveau
-- name: Instinet
-  site: https://www.instinet.com/
-  logo: https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/img/instinet.jpg
-- name: American Online Foundation
-  site: http://www.onlinegivingfoundation.org/
-  logo: https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/img/americanonlinefoundation.png
 - name: L3Harris Foundation
   site: https://www.l3harris.com/
   logo: https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/img/l3harris.png
+- name: Google
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/google.png
 - name: Bloomberg
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/bloomberg.gif
   site: http://www.bloomberg.com/
-- name: RiskEcon Lab for Decision Metrics
-  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/RiskEcon.png
-  site: https://wp.nyu.edu/riskeconlab/
-- name: Verizon
-  site: https://www.verizon.com/
-  logo: https://stuypulse.nyc3.digitaloceanspaces.com/site/sponsorships/img/verizon.jpg
-- name: Rosenbaum & Rosenbaum 
-  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/rosenbaum.png
-  site: https://www.rosenbaumnylaw.com/
 - name: Law Offices of Jay S. Knispel
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/knispel.png
   site: https://jknylaw.com/
