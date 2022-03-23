@@ -10,7 +10,7 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
         {% if sponsor.logo %}
             <img class="sponsor-logo-image" alt="{{ sponsor.name }}" title="{{ sponsor.name }}" src="{{ sponsor.logo }}">
         {% else %}
-            <div class="sponsor-text-sponsor-page"><h3><strong>{{ sponsor.name }}</strong></h3></div>
+            <div class="sponsor-text-sponsor-page"><h2><strong>{{ sponsor.name }}</strong></h2></div>
         {% endif %}
         {% if sponsor.site %}</a>{% endif %}
     </div>
