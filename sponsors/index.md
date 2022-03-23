@@ -4,11 +4,6 @@ title: Sponsors
 description: StuyPulse Robotics can function and participate in FIRST due to the generous support of our many sponsors. All donations support the team and help to keep it running.
 ---
 <div class="row">
-    <div class="span3 visible-phone sponsor-logo-container">
-        <div class="btn become-sponsor" style="width:100; max-width: 400px; margin-top: 10px;">
-            <h4>Interested in becoming a sponsor?</h4>
-        </div>
-    </div>
 {% for sponsor in site.data.sponsors.sponsors %}
     <div class="span3 sponsor-logo-container">
         {% if sponsor.site %}<a href="{{ sponsor.site }}">{% endif %}
@@ -19,20 +14,11 @@ description: StuyPulse Robotics can function and participate in FIRST due to the
         {% endif %}
         {% if sponsor.site %}</a>{% endif %}
     </div>
-    {% if forloop.index0 == 2 %}
-        <div class="span3 hidden-phone">
-            <div class="btn become-sponsor">
-                <h4>Interested in becoming a sponsor?</h4>
-            </div>
-        </div>
+{% assign modulo = forloop.index0 | modulo: 4 %}
+{% if modulo == 3 %} 
 </div>
 <div class="row">
-    {% endif %}
-    {% assign modulo = forloop.index0 | modulo: 4 %}
-    {% if modulo == 2 %} {% comment %} To make the rows align nicely. {% endcomment %}
-</div>
-<div class="row">
-    {% endif %}
+{% endif %}
 {% endfor %}
 </div>
 
