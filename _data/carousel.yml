@@ -2,14 +2,15 @@
 # There must be exactly 5 items
 
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/spbli-2022.jpg
-  caption-header: StuyPulse with our alliance partners at the SPBLI#2 regional!
+  caption-header: StuyPulse with our alliance partners at the SPBLI#2 Regional!
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/flr-2022.jpg
-  caption-header: StuyPulse cheering our drive team on at Finger Lakes Regional finals!
+  caption-header: StuyPulse cheering our drive team on at the Finger Lakes Regional finals!
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/excelsior-2022.jpg
   caption-header: Our robot for the 2022 FRC season, Excelsior!
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/stuysplash2021.jpg
   caption-header: Check out Stuy Splash 2021!
   img-link: https://www.youtube.com/playlist?list=PLTzhdzF4LCm5OqTtf8pqx5DV-KHXJ2QOU
   read-more-link: /resources/stuysplash2021/
-- img: https://stuypulse.nyc3.digitaloceanspaces.com/site/img/group-2019.jpg
-  caption-header: StuyPulse with Alfred on Stop Build Day.
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/edwin-2021.jpg
+  caption-header: Our robot for the 2021 FRC season, Edwin!
+  read-more-link: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/Technical%20Binder%202020.pdf
