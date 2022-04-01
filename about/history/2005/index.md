@@ -4,11 +4,11 @@ title: Yvette
 year: 2005
 photo: /img/history/yvette.jpg
 awards:
-    - NY Woodie Flowers Regional Award (Tom Ferguson)
-    - NY Regional Chairman's Award
-    - NY RadioShack Innovation in Control Award
-    - NY Regional semifinalist
-    - NAT Championship Galileo Division semifinalist (Triple Play Award by some team)
+    - New York City Regional Woodie Flowers Regional Award (Tom Ferguson)
+    - New York City Regional Chairman's Award
+    - New York City Regional Semifinalist
+    - Radio Shack Innovation in Control Award
+    - Galileo Divison Semifinalist
 ---
 Our fifth year (2004-05) as a team was one of our best. The City Council conferred on us a proclamation from the City of New York in honor of our 2003 robot, Lola. We had an amazing recruiting season; the entire lab was packed with over 70 students for the lab safety lecture!
 
