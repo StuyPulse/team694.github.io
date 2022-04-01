@@ -9,10 +9,12 @@ youtube-links:
     - name: New York City Regional videos
       url: http://www.youtube.com/playlist?list=PL0DDB763657F84265&amp;feature=plc
 awards:
-    - Winner of New York regional
-    - Regional Chairman's Award at Hartford
-    - Innovation in Control Award sponsored by Rockwell Automation Regional Winner
+    - New York City Regional Winner
+    - Northeast Utilities FIRST Connecticut Regional Quarterfinalist
+    - Northeast Utilities FIRST Connecticut Regional Chairman's Award
     - FIRST Dean's List Finalist Award (Seth Berg)
+    - Innovation in Control Award sponsored by Rockwell Automation
+
 ---
 2010 was, without a doubt, our most successful season. At our first event, the New York City Regional, all the teams were walking around saying that we would be their first pick. We ended up being the first pick of the number 1 alliance captain, 341. We joined forces with 341 and blazed a trail through every alliance in the elimination rounds, winning the New York City Regional for the second time.
 

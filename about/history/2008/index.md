@@ -6,10 +6,10 @@ photo: /img/history/desbot.jpg
 source-link: https://github.com/StuyPulse/ifi/tree/master/desbot
 flickr-collection-url: http://www.flickr.com/photos/stuypulse/collections/72157632643550497/
 awards:
-    - NY Engineering Inspiration Awards
+    - New York City Regional Semifinalists
+    - New Jersey Regional Semifinalists
+    - Regional Engineering Inspiration Award
     - 1190 Great Sportsmanship Award
-    - NJ Semifinals Captain 5
-    - NY Semifinals Captain 3
 ---
 In 2008, our eighth and strongest season yet, we finished in the semifinals at the New York and New Jersey Regional Competitions. We had a rough start in the Overdrive challenge, with our robot Desbot suffering fuse blowouts and drive train malfunctions, but we managed to pull through impressively, finishing in the top eight teams at both of our events. In New Jersey, we were given an alliance captain position for the first time since 2004. The same happened in New York City and we earned the Engineering Inspiration Award in New York, qualifying us for Championships in Atlanta where we set the high score in qualification matches.
 
