@@ -3,13 +3,13 @@
 # For each position, name is required and photo is optional.
 poe:
     name: Max Z.
-pom:
+pob:
     name: Isabella J.
 pse:
     name: Myles P.
 vpoe:
     name: Jason Y.
-vpom:
+vpob:
     name: Daniel U.
 vpse:
     name: Ivan C.

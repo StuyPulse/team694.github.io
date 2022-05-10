@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Team Leadership
-description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and marketing.
+description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and Business.
 # Looking for EC positions? You can find them in _data/ec.yml.
 ---
 Meet the Executive Council!
@@ -12,16 +12,16 @@ Meet the Executive Council!
 The President of Engineering is familiar with every part of the robot, able to explain the part to another team member or a judge, as well as able to repair any part of the robot if it is broken. They are also knowledgeable about the details of the Chairman’s Award submission and other award submissions.
 </div>
  
-### President of Marketing <small>{{ site.data.ec.pom.name }}</small>
+### President of Business <small>{{ site.data.ec.pob.name }}</small>
 <div markdown="1" class="ec-description">
-{% if site.data.ec.pom.photo %} <img src="{{ site.data.ec.pom.photo }}" class="ec-photo" alt="President of Marketing"> {% endif %}
-The President of Marketing holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
+{% if site.data.ec.pob.photo %} <img src="{{ site.data.ec.pob.photo }}" class="ec-photo" alt="President of Business"> {% endif %}
+The President of Business holds final responsibility for all outreach, logistics, and award submissions for the team. They have full knowledge of all awards and shall present the Chairman’s Award or assign the presentation to someone else deemed competent. The PoM also has adequate knowledge of the other two departments.
 </div>
  
 ### President of Software Engineering <small>{{ site.data.ec.pse.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.pse.photo %} <img src="{{ site.data.ec.pse.photo }}" class="ec-photo" alt="President of Software Engineering"> {% endif %}
-The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the marketing team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have the same level of familiarity with the robot as the PoE.
+The President of Software Engineering primarily manages the development of robot code and all related software. They also manage the design and development of all human interfaces and control systems. The PoSE is responsible for the production of documentation concerning the control system on all levels, such as pinout sheets and systems check guidelines. They work closely with the PoE to effectively manage the development of the control system alongside the hardware. The PoSE also collaborates with the strategy team to develop effective solutions for both the teleoperated and autonomous modes, as well as the Business team to coordinate events and regional activities, such as seminars. The PoSE must effectively manage the software development team in order to accomplish these responsibilities and must have the same level of familiarity with the robot as the PoE.
 </div>
  
 ### Vice President of Engineering <small>{{ site.data.ec.vpoe.name }}</small>
@@ -30,10 +30,10 @@ The President of Software Engineering primarily manages the development of robot
 The Vice President of Engineering is considered the second-in-command for the Engineering department. They have knowledge of what the Presidents are currently doing and is able to direct the Engineering department in the event of the PoE’s absence. The VPoE also has extensive knowledge of each part of the robot as well as basic knowledge of all awards submissions.
 </div>
  
-### Vice President of Marketing <small>{{ site.data.ec.vpom.name }}</small>
+### Vice President of Business <small>{{ site.data.ec.vpob.name }}</small>
 <div markdown="1" class="ec-description">
-{% if site.data.ec.vpom.photo %} <img src="{{ site.data.ec.vpom.photo }}" class="ec-photo" alt="Vice President of Marketing"> {% endif %}
-The Vice President of Marketing is the second-­in-­command for the Marketing department. The VPoM should have knowledge of what the President of Marketing is currently doing and should be able to direct the Marketing department in the event of the PoM’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
+{% if site.data.ec.vpob.photo %} <img src="{{ site.data.ec.vpob.photo }}" class="ec-photo" alt="Vice President of Business"> {% endif %}
+The Vice President of Business is the second-­in-­command for the Business department. The VPoB should have knowledge of what the President of Business is currently doing and should be able to direct the Business department in the event of the PoB’s absence. They have extensive knowledge of all award submissions as well as basic knowledge of each part of the robot.
 </div>
  
 ### Vice President of Software Engineering <small>{{ site.data.ec.vpse.name }}</small>
@@ -69,7 +69,7 @@ The Director of Finance must ensure the stability of the team’s finances, such
 ### Director of Operations <small>{{ site.data.ec.ops.name }}</small>
 <div markdown="1" class="ec-description">
 {% if site.data.ec.ops.photo %} <img src="{{ site.data.ec.ops.photo }}" class="ec-photo" alt="Director of Operations"> {% endif %}
-The Director of Operations will handle the day-to-day operations of the marketing department and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
+The Director of Operations will handle the day-to-day operations of the Business department and the whole team. The DoO is responsible for paperwork, trip planning, managing deadlines and other logistics regarding the team. The Director of Operations is also responsible for award submissions, as well as a timeline that will guide the team smoothly through a busy building season and keep the pace of work going through pre-season and post-season.
 </div>
  
 ### Director of Public Relations <small>{{ site.data.ec.pr.name }}</small>
