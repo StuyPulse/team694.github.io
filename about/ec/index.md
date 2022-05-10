@@ -139,8 +139,14 @@ The Director of Newbie Relations for software engineering is responsible for the
 The Assistant Director of Newbie Relations is to be familiar with all aspects of newbie relations and should be ready to assume the job of the Director of Newbie Relations if necessary.
 </div>
  
-### Webmaster <small>{{ site.data.ec.webmaster.name }}</small>
+### Director of I/T <small>{{ site.data.ec.doit.name }}</small>
 <div markdown="1" class="ec-description">
-{% if site.data.ec.webmaster.photo %} <img src="{{ site.data.ec.webmaster.photo }}" class="ec-photo" alt="Webmaster"> {% endif %}
-The job of the Webmaster is to maintain the team website and any other websites created by the team. The Webmaster is to update the website with the most recent progress of the team and to upload any relevant pictures. They must also use the website to keep the team and any visitors to the website informed and interested.
+{% if site.data.ec.doit.photo %} <img src="{{ site.data.ec.doit.photo }}" class="ec-photo" alt="Director of I/T"> {% endif %}
+The job of the Director of I/T is to create new technology related to team logistics,integrate and develop of existing technology, document existing tools, and teach members interested in I/T. The director ensures that I/T responsibilities are focused on the team website, the team manager, and important tools for attendance. The director of I/T will also have to communicate with business to ensure the team's website is up to date.
+</div>
+
+### Assistant Director of I/T <small>{{ site.data.ec.adoit.name }}</small>
+<div markdown="1" class="ec-description">
+{% if site.data.ec.adoit.photo %} <img src="{{ site.data.ec.adoit.photo }}" class="ec-photo" alt="Assistant Director of I/T"> {% endif %}
+The Assistant Director of I/T is to be familiar with all aspects of the I/T department and should be ready to assume the job of the Director of I/T if necessary.
 </div>

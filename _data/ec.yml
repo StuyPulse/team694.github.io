@@ -2,50 +2,52 @@
 # Used by: /about/ec
 # For each position, name is required and photo is optional.
 poe:
-    name: Michelle Z.
-pom:
-    name: Ian C.
-pse:
-    name: Sam B.
-vpoe:
-    name: Janna W.
-vpom:
-    name: Isabella J.
-vpse:
-    name: Myles P.
-lab-ops:
-    name: Wonjong P.
-ops:
-    name: Macy J.
-finance:
-    name: Vacant
-media:
     name: Max Z.
-pr:
-    name: Manolee M.
-procurement:
-    name: Patrick W.
-electronics:
-    name: Michael Y.
-adoe:
-    name: Verit L.
-field:
-    name: Richard C.
-pneumatics:
-    name: Bryan Z.
-nr:
-    name: Elaine Y.
-adnr:
-    name: Shaurya S.
-strategy:
-    name: Katie C.
-ados:
+pom:
+    name: Isabella J.
+pse:
+    name: Myles P.
+vpoe:
+    name: Jason Y.
+vpom:
+    name: Daniel U.
+vpse:
+    name: Ivan C.
+lab-ops:
+    name: Janna W.
+ops:
     name: Vacant
-design:
-    name: Edwin Z. &amp; Sean Z.
-dom:
-    name: Katie C.
-adom:
+finance:
+    name: Jiayu Y.
+media:
+    name: Oston C.
+pr:
+    name: Faiza M.
+procurement:
+    name: Rong Zheng W.
+electronics:
+    name: Verit L.
+adoe:
+    name: Elwin A.
+field:
+    name: Andy Z.
+pneumatics:
+    name: Jeremy K.
+nr:
+    name: Shaurya S.
+adnr:
+    name: Ben G.
+strategy:
     name: April L.
-webmaster:
-    name: Ivan C. &amp; Anthony C. &amp; Ben G. &amp; Vincent W. &amp; Nicky L.
+ados:
+    name: Andrew L.
+design:
+    name: Sean Z. &amp; Kano K.
+dom:
+    name: April L.
+adom:
+    name: Vacant
+doit:
+    name: Anthony C.
+adoit:
+    name: Vacant
