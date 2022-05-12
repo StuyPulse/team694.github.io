@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar
 title: Departments
-description: StuyPulse Robotics is divided into engineering, software engineering, and marketing.
+description: StuyPulse Robotics is divided into engineering, software engineering, and Business.
 ---
 ## Engineering
 <img class="photo-right" src="/img/departments/engineering-2017.jpg" alt="Engineering">
@@ -19,6 +19,6 @@ Team 694 also believes in open source software and the free distribution of our 
 
 All of our code (past and present) is open source and available for viewing on [GitHub](https://github.com/StuyPulse).
 
-## Marketing
-<img class="photo-right" src="/img/departments/marketing-2017.jpg" alt="Marketing and Logistics">
-Our marketing department has a very diverse list of responsibilities. It is in charge of fundraising, branding, logistical work like meals during build season and travel planning, award submissions, outreach as well as any other task that does not fall under the other departments. To make sure all these projects are running smoothly, we have a President and Vice President of Marketing. They are also responsible for being the primary contact for our sponsors. Our Director of Public Relations is responsible for coordinating all of our outreach efforts, which include mentoring FLL, FTC, and FRC teams as well as maintaining a strong presence on the media. Our Director of Finance maintains contact with sponsors and ensures the stability of the budget, and our Director of Operations helps out with the logistics of events and paperwork.
+## Business
+<img class="photo-right" src="/img/departments/marketing-2017.jpg" alt="Business and Logistics">
+Our Business department has a very diverse list of responsibilities. It is in charge of fundraising, branding, logistical work like meals during build season and travel planning, award submissions, outreach as well as any other task that does not fall under the other departments. To make sure all these projects are running smoothly, we have a President and Vice President of Business. They are also responsible for being the primary contact for our sponsors. Our Director of Public Relations is responsible for coordinating all of our outreach efforts, which include mentoring FLL, FTC, and FRC teams as well as maintaining a strong presence on the media. Our Director of Finance maintains contact with sponsors and ensures the stability of the budget, and our Director of Operations helps out with the logistics of events and paperwork.
