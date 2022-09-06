@@ -1,15 +1,15 @@
 # Carousel items on front page
 # There must be exactly 5 items
 
-- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/sbpli-2022.jpg
-  caption-header: StuyPulse with our alliance partners at the SBPLI#2 Regional!
-- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/nyc-2022.jpg
-  caption-header: StuyPulse with our alliance partners at the NYC Regional!
-- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/champs-2022.jpg
-  caption-header: StuyPulse at FRC Championship in Houston!
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/IRI2022.jpg
+  caption-header: StuyPulse at IRI 2022 in Indianapolis!
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/Extravaganza2022.jpg
+  caption-header: StuyPulse at our Extravaganza event!
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/BPCAsteamdreamday%202022.jpg
+  caption-header: StuyPulse at Battery Park City Steam and Dream Day!
 - img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/excelsior-2022.jpg
   caption-header: Our robot for the 2022 FRC season, Excelsior!
-- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/stuysplash2021.jpg
+- img: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/carousel/StuySplash2021.jpg
   caption-header: Check out StuySplash 2021!
   img-link: https://www.youtube.com/playlist?list=PLTzhdzF4LCm5OqTtf8pqx5DV-KHXJ2QOU
   read-more-link: /resources/stuysplash2021/
