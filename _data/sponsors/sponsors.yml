@@ -10,7 +10,7 @@
 - name: Mary Ann Belliveau
 - name: DigitalOcean
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/digitalocean.png
-  site: https://digitalocean.com/ 
+  site: https://digitalocean.com/
 - name: Con Edison
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/conedison.png
   site: http://www.coned.com/
@@ -29,3 +29,6 @@
 - name: Amazon
   site: http://tinyurl.com/smilepulse
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/amazon1.png
+- name: HKM Employment Attorneys
+  site: https://hkm.com/new-york/
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/hkm.svg
