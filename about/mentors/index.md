@@ -95,3 +95,5 @@ Although Rafael has now retired, we are thankful for all the insight he has give
 ### Shelley Grant
 
 ### Kevin Wang
+
+### Richard Leung
