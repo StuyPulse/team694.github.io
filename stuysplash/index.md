@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0;/blog/2022/11/16/stuy-splash">
