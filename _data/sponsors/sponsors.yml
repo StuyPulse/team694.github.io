@@ -38,3 +38,6 @@
 - name: NASA
   site: https://www.nasa.gov/
   logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/nasa.gif
+- name: Craftsman Ave
+  site: https://craftsmanave.com/
+  logo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/img/craftsmanave.png
