@@ -3,7 +3,7 @@ layout: post
 title: Stuy Splash 2022
 author: StuyPulse
 ---
-Stuy Splash will be held on December 10th, 2022 at 345 Chambers Street, New York City. It will be happening from 11:00 AM to 4:30 PM EST.
+Stuy Splash will be held on December 10th, 2022 at 345 Chambers Street, New York City. It will be happening from 10:00 AM to 4:30 PM EST.
 
 Stuy Splash is a series of lectures open to all FRC teams, veterans and rookies alike, throughout the northeast. The lectures cover a range of topics from pneumatics to finding sponsors, and are meant to teach teams more about FIRST and robotics.
 
