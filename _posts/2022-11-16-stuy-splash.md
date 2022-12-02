@@ -12,3 +12,5 @@ Feel free to sign up even if you and your team cannot attend in person, since we
 If you are interested in participating, fill out the [participant form](https://forms.gle/ij7CfUbxz7ESNRhC6)!
 
 If you are interested in lecturing, fill out the [lecturer form](https://docs.google.com/forms/u/6/d/e/1FAIpQLSeG0GEYqX99FQDue5CcI3M62pOk5G2n4mDUHdO2WEgHTLPTJA/viewform?usp=send_form)!
+
+Check the schedule [here](https://docs.google.com/spreadsheets/d/1BaZiPPt2_5361UKOHyEOUM5JcTPeePXMfUKvPDIiS-A/edit?usp=sharing)!
