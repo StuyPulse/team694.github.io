@@ -3,4 +3,37 @@ layout: page
 title: Event and Meeting Calendar
 description: You can check StuyPulse's calendar to see the meeting and event schedules.
 ---
-<iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=aW5mb0BzdHV5cHVsc2UuY29t&amp;src=c3R1eXB1bHNlLmNvbV9vcWdxZXYyMTU5MWh0cXNqZGhoZzM0bWgza0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23D50000&amp;color=%23D81B60" style="border-width:0 overflow:hidden" width="100%" height="500" frameborder="0" scrolling="yes"> </iframe>
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.0.1/index.global.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.0.1/index.global.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById("calendar");
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            googleCalendarApiKey: 'AIzaSyC8aX6KJLfEyiuSJ76hErHB8voNcoAi4yA',
+            headerToolbar: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'dayGridMonth,listYear'
+            },
+            eventSources: [
+                {
+                    googleCalendarId: 'info@stuypulse.com'
+                },
+                {
+                    googleCalendarId: 'stuypulse.com_oqgqev21591htqsjdhhg34mh3k@group.calendar.google.com'
+                }
+            ],
+            eventClick: function(arg) {
+            // opens events in a popup window
+            window.open(arg.event.url, '_blank', 'width=700,height=600');
+
+            // prevents current tab from navigating
+            arg.jsEvent.preventDefault();
+            }
+        });
+        calendar.render();
+    });
+</script>
+<body>
+    <div id="calendar"></div>
+</body>
