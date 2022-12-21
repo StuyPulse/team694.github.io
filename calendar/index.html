@@ -26,7 +26,7 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
             ],
             eventClick: function(arg) {
             // opens events in a popup window
-            window.open(arg.event.url, '_blank', 'width=700,height=600');
+            window.open(arg.event.url);
 
             // prevents current tab from navigating
             arg.jsEvent.preventDefault();
@@ -35,6 +35,4 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
         calendar.render();
     });
 </script>
-<body>
-    <div id="calendar"></div>
-</body>
+<div id="calendar"></div>
