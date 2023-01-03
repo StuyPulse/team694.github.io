@@ -1,16 +1,16 @@
 ---
 layout: page
-title: 2022 Kickoff Information
+title: 2023 Kickoff Information
 description: Dedicated page for Kickoff information
 ---
 
 ### Materials:
-* [Game Animation](https://www.youtube.com/watch?v=LgniEjI9cCM)
-* [Game Manual](https://firstfrc.blob.core.windows.net/frc2022/Manual/2022FRCGameManual.pdf)
-  * [Decrypted Version](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/2022FRCGameManual-unlocked.pdf)
+* [Game Animation]()
+* [Game Manual]()
+  * [Decrypted Version]()
 * [Game Field](https://www.firstinspires.org/robotics/frc/playing-field)
 * [Game Q&A Forum](https://frc-qa.firstinspires.org/)
-* Encryption Key: W3lc0m3B^Ck2022!
+* Encryption Key: 
 
 &nbsp;
 
@@ -109,73 +109,80 @@ description: Dedicated page for Kickoff information
   <tbody>
   <tr>
     <th scope="row"> 1 </th>
-    <td> 327 </td>
-    <td> Katie Collins, Michelle Zhang </td>
-    <td> Ian Codner, Jiayu Yan, Gary Jiang, Allison Choi, Zhi Ming Xu, Sydney Moy, Adeeb Khan, John Cehn, Brandon Chen, Ivan Wei, Mason Grant </td>
-    <td> Nicole, Bryant </td>
+    <td> 435 </td>
+    <td> April Li, Andrew Liu </td>
+    <td> Angelina Li, Jessie Wang, Christopher Choe, Ian Shi, Hassan Tahmim, Amelia Ng, Adeeb Khan, Eric Lin, Rabab Chowdhury, Yao Chen </td>
+    <td> Katie, Brianna </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
-    <td> 329 </td>
-    <td> April Li, Jason Zhou </td>
-    <td> Wonjong Park, Jack Zheng, Tracey Lin, Orion Xiang, Hannah Choi, Kenneth Wong, Yujia Xue, Allen Lin, Jason Xie, Edison Zhu, Ayan Chowdhury </td>
-    <td> Levi </td>
+    <td> 433 </td>
+    <td> Janna Wang, Myles Pasetsky </td>
+    <td> Angelina Weng, Jiefeng Ou, Rahul Deb, Imtiaz Ahmed, Colyi Chen , Andrew Che, Rafia Islam, Yuchen Pan, Richie Xue, Jowita Walkup </td>
+    <td> Samantha Unger, Samuel Crisanto </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
-    <td> 337 </td>
-    <td> Janna Wang, Oston Chen </td>
-    <td> Andy Zheng, Jason Yang, Yonna Yueng, Kimberly Ye, Chloe Kim, Richard (Gus) Watkins, Macy Jiang, Manolee Merlet, Amelia Ng, Jasmine Yuen, Rachel Yu, Hui Wen Weng </td>
-    <td> Navid </td>
-  </tr>
-  <tr>
-    <th scope="row"> 4 </th>
-    <td> 350 </td>
-    <td> Bryan Zhang, Sean Zhan </td>
-    <td> Joseph Wu, Jaco Xia, Rong Zheng Wu, Rita (Rain) Shao, William Liu, Hongwei Li, Reya Miller, Andrew Che, Daniel St. John, Stephen Cheung, Aiden Tan </td>
-    <td> Mr. Blay </td>
-  </tr>
-  <tr>
-    <th scope="row"> 5 </th>
-    <td> 335 </td>
-    <td> Edwin Zheng, Ivan Wei </td>
-    <td> Tony Chen, Justin Zou, Yuchen Pan, Andre Wang, Brandon Tang, Evan Wong, Benjamin Belotser, Crystal Yang, Harry Belliveau, Corina Chen, Carmin Vuong, Kelvin Zhao </td>
-    <td> Tom </td>
-  </tr>
-  <tr>
-    <th scope="row"> 6 </th>
-    <td> 333 </td>
-    <td> Kano Kitaguchi, Sam Belliveau </td>
-    <td> Isabella Jia, Hui Wang, Francis Zweifler, John Jay Wang, Jeff Chen, Eric Lin, Eliezer Cho, Manaal Khurram, Anson Lau, Qi Wang, Aahan Shah, Euan Chung </td>
-    <td> Jeanne </td>
-  </tr>
-  <tr>
-    <th scope="row"> 7 </th>
-    <td> 339 </td>
-    <td> Myles Pasetsky, Verit Li </td>
-    <td> Benjamin Goldfisher, Ivan Chen, Raphael Zheng, Nelson Li, Ya Qi Chew, Amber Shen, Calvin Pun, William Vongphanith, Natalie Keung, Raymond Zhang, Vinson Chen, Russell Goychayev, William Wang </td>
+    <td> 431 </td>
+    <td> Aiden Tan, Benjamin Goldfisher </td>
+    <td> Carrie Ko, Sarzil Chowdhury, Henry Santos Hendricks, Tasnim Islam, Felice Li, Fiona Huang, Samin Alam, Gulam Monawarah, Rahel Arka, Natalie Soler </td>
     <td> Piotr </td>
   </tr>
   <tr>
+    <th scope="row"> 4 </th>
+    <td> 429 </td>
+    <td> Kano Kitaguchi, Jason Zhou </td>
+    <td> Claire Nguyen, Veronika Gulko, William Liu, Rachel Prizant, Amy Kuang, Charles Li, Hyun Bum Hur, Raymond Zhang, Mohammed Humaidee, Melanie Lin, Thamidur </td>
+    <td> Tom, Mel </td>
+  </tr>
+  <tr>
+    <th scope="row"> 5 </th>
+    <td> 413 </td>
+    <td> Sean Zhan, Daniel Uh </td>
+    <td> Esther Lee, Leilah Yik, Ryan Liu, Kelly Liu, Chuer Zhong, Raihan Zaman, Allison Zhao, Mandy Wang, Edmund Chin, Richard Chen, Oston Chen </td>
+    <td> Blay, Ricci </td>
+  </tr>
+  <tr>
+    <th scope="row"> 6 </th>
+    <td> Practice Field </td>
+    <td> Rain Shao, Rong Zheng Wu </td>
+    <td> Ehsan Uddin, Kelly Lin, Rachel Uh, Daniel Gabai, Kimberly Ye, William Wang, Anthony Chen, Jennifer Ye, Niki Chen, Jason Xie, Kenneth Zheng </td>
+    <td> Levi, Shelley </td>
+  </tr>
+  <tr>
+    <th scope="row"> 7 </th>
+    <td> Practice Field </td>
+    <td> Vincent Wang, Verit Li </td>
+    <td> Daniel Weng, Kaif Kalimul, Victor Dotov, Eben Eichenwald, Marzuk Rashid, Raphael Zheng, Tasnim Islam, Faiza Mia, Yonna Yeung, Jiayu Yan, Isabella Jia </td>
+    <td> Navid, Bryant </td>
+  </tr>
+  <tr>
     <th scope="row"> 8 </th>
-    <td> 305  </td>
-    <td> Nicky Lin, Natalie Soler </td>
-    <td> Vincent Wang, Qianjun Zhou, Ian Jiang, Brandon Chao, Jonathan Song, Yao Shen He, Tedd Lee, Daniel Chang, Sudipta Chakraborty, John Chen, Kevin Liu </td>
-    <td> Joe Ricci </td>
+    <td> Lab </td>
+    <td> Elwin Au, Ivan Chen </td>
+    <td> Gavin Lin, Lucy Chen, Ethan Lee, Michelle Lee, Adam Choi, Jady Lei, Rui Dong, Crystal Yang, Zixi Feng, Tawseef Reza </td>
+    <td> Jeanne </td>
   </tr>
   <tr>
     <th scope="row"> 9 </th>
-    <td> 315 </td>
-    <td> Anthony Chen, Jeremy Kwok  </td>
-    <td> Aidan Kuo, Ahmed A Radwan, Edward Wu, Mandy Wang, Michelle Zhu, Andrew Liu, Elwin Au, Michael Lee, Zhao Yu Lin, Vincent Wan, Joseph Mei, Gabriel Gutierrez </td>
-    <td> Anna </td>
+    <td> Lab </td>
+    <td> Samuel Chen, Jason Yang  </td>
+    <td> Henry Zhang, Judy Wang, Rachel Kim, Elin Kim, Gary Jiang, Vinson Chen, Jaco Xia, Matthew Huang, Aidan Kuo, Carmin Vuong, Clemens Li, Jeremy Kwok </td>
+    <td> Edwin, Bryan </td>
   </tr>
   <tr>
     <th scope="row"> 10 </th>
-    <td> 313 </td>
-    <td> Max Zeng, Melanie Lin </td>
-    <td> Elaine Ye, Emily Ng, Daniel Uh, Zoey Zhou, Marc Jiang, Samuel Chen, Anita Liang, Krishna Dudani, Vincent Lin, Tiffany Hermawan, Rui Dong, Abtahe Mazumder, Milo Zaks </td>
-    <td> Brianna </td>
+    <td> Lab </td>
+    <td> Amber Shen, Ya Qi Chew </td>
+    <td> Ivan Chen, Mustafa Abdullah, Harry Belliveau, Justin Li, Chris Lam, Edison Zhu, Michelle Zhu, Shirina Rong, Reya Miller, Vi Lin </td>
+    <td> Michelle </td>
+  </tr>
+  <tr>
+    <th scope="row"> 11 </th>
+    <td> Lab </td>
+    <td> Shaurya Sen, Max Zeng </td>
+    <td> Jamie Li, Justin Codner, Lucas Zheng, Zixi Qiao, Ian Bae, Justin Moy, Rebecca Lin, Tracey Lin, Naowal Rahman, Ian Jiang, Marc Jiang </td>
+    <td> Sam Belliveau, Caroline </td>
   </tr>
   </tbody>
 </table>
