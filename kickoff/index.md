@@ -5,9 +5,9 @@ description: Dedicated page for Kickoff information
 ---
 
 ### Materials:
-* [Game Animation]()
-* [Game Manual]()
-  * [Decrypted Version]()
+* [Game Animation](https://www.youtube.com/watch?v=oxujTCgQPgg)
+* [Game Manual](https://docs.google.com/document/d/1AseBHNtNcwaz0ZQ5eoYbjlWivyn1e4cFEx6pgFOOi-8/edit#heading=h.b6zhvdecrot4)
+  <!-- * [Decrypted Version]() -->
 * [Game Field](https://www.firstinspires.org/robotics/frc/playing-field)
 * [Game Q&A Forum](https://frc-qa.firstinspires.org/)
 * Encryption Key: 
@@ -160,7 +160,7 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 8 </th>
     <td> Lab </td>
     <td> Elwin Au, Ivan Chen </td>
-    <td> Gavin Lin, Lucy Chen, Ethan Lee, Michelle Lee, Adam Choi, Jady Lei, Rui Dong, Crystal Yang, Zixi Feng, Tawseef Reza, Nia Chen, Gordon Doan </td>
+    <td> Gavin Lin, Lucy Chen, Ethan Lee, Michelle Lee, Adam Choi, Jady Lei, Rui Dong, Crystal Yang, Zixi Feng, Tawseef Reza, Nia Chen, Gordon Doan, Alvern Chen </td>
     <td> Jeanne </td>
   </tr>
   <tr>
@@ -181,7 +181,7 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 11 </th>
     <td> Lab </td>
     <td> Shaurya Sen, Max Zeng </td>
-    <td> Jamie Li, Justin Codner, Lucas Zheng, Zixi Qiao, Ian Bae, Justin Moy, Rebecca Lin, Tracey Lin, Naowal Rahman, Ian Jiang, Marc Jiang </td>
+    <td> Jamie Li, Justin Codner, Lucas Zheng, Zixi Qiao, Ian Bae, Justin Moy, Rebecca Lin, Tracey Lin, Naowal Rahman, Ian Jiang, Marc Jiang, Souvik Basak </td>
     <td> Sam Belliveau, Caroline </td>
   </tr>
   </tbody>
