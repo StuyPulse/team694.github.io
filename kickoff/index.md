@@ -110,29 +110,29 @@ description: Dedicated page for Kickoff information
   <tr>
     <th scope="row"> 1 </th>
     <td> 435 </td>
-    <td> April Li, Andrew Liu </td>
-    <td> Angelina Li, Jessie Wang, Christopher Choe, Ian Shi, Hassan Tahmim, Amelia Ng, Adeeb Khan, Eric Lin, Rabab Chowdhury, Yao Chen </td>
+    <td> April Li, Rain Shao </td>
+    <td> Angelina Li, Jessie Wang, Christopher Choe, Ian Shi, Hassan Tahmim, Amelia Ng, Adeeb Khan, Eric Lin, Rabab Chowdhury, Yao Chen, Michelle Chen </td>
     <td> Katie, Brianna </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
     <td> 433 </td>
     <td> Janna Wang, Myles Pasetsky </td>
-    <td> Angelina Weng, Jiefeng Ou, Rahul Deb, Imtiaz Ahmed, Colyi Chen , Andrew Che, Rafia Islam, Yuchen Pan, Richie Xue, Jowita Walkup </td>
+    <td> Angelina Weng, Jiefeng Ou, Rahul Deb, Imtiaz Ahmed, Colyi Chen , Andrew Che, Rafia Islam, Yuchen Pan, Richie Xue, Jowita Walkup, Ethan Kong, Ashley Li </td>
     <td> Samantha Unger, Samuel Crisanto </td>
   </tr>
   <tr>
     <th scope="row"> 3 </th>
     <td> 431 </td>
     <td> Aiden Tan, Benjamin Goldfisher </td>
-    <td> Carrie Ko, Sarzil Chowdhury, Henry Santos Hendricks, Tasnim Islam, Felice Li, Fiona Huang, Samin Alam, Gulam Monawarah, Rahel Arka, Natalie Soler </td>
+    <td> Carrie Ko, Sarzil Chowdhury, Henry Santos Hendricks, Tasnim Islam, Felice Li, Fiona Huang, Samin Alam, Gulam Monawarah, Rahel Arka, Natalie Soler, Joseph Mei </td>
     <td> Piotr </td>
   </tr>
   <tr>
     <th scope="row"> 4 </th>
     <td> 429 </td>
     <td> Kano Kitaguchi, Jason Zhou </td>
-    <td> Claire Nguyen, Veronika Gulko, William Liu, Rachel Prizant, Amy Kuang, Charles Li, Hyun Bum Hur, Raymond Zhang, Mohammed Humaidee, Melanie Lin, Thamidur </td>
+    <td> Claire Nguyen, Veronika Gulko, William Liu, Rachel Prizant, Amy Kuang, Charles Li, Hyun Bum Hur, Raymond Zhang, Mohammed Humaidee, Melanie Lin, Thamidur Rahman, Kelvin Zhao </td>
     <td> Tom, Mel </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ description: Dedicated page for Kickoff information
   <tr>
     <th scope="row"> 6 </th>
     <td> Practice Field </td>
-    <td> Rain Shao, Rong Zheng Wu </td>
+    <td> Andrew Liu, Rong Zheng Wu </td>
     <td> Ehsan Uddin, Kelly Lin, Rachel Uh, Daniel Gabai, Kimberly Ye, William Wang, Anthony Chen, Jennifer Ye, Niki Chen, Jason Xie, Kenneth Zheng </td>
     <td> Levi, Shelley </td>
   </tr>
@@ -153,28 +153,28 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 7 </th>
     <td> Practice Field </td>
     <td> Vincent Wang, Verit Li </td>
-    <td> Daniel Weng, Kaif Kalimul, Victor Dotov, Eben Eichenwald, Marzuk Rashid, Raphael Zheng, Tasnim Islam, Faiza Mia, Yonna Yeung, Jiayu Yan, Isabella Jia </td>
+    <td> Daniel Weng, Kaif Kalimul, Victor Dotov, Eben Eichenwald, Marzuk Rashid, Raphael Zheng, Tasnim Islam, Faiza Mia, Yonna Yeung, Jiayu Yan, Isabella Jia, Qi Wang </td>
     <td> Navid, Bryant </td>
   </tr>
   <tr>
     <th scope="row"> 8 </th>
     <td> Lab </td>
     <td> Elwin Au, Ivan Chen </td>
-    <td> Gavin Lin, Lucy Chen, Ethan Lee, Michelle Lee, Adam Choi, Jady Lei, Rui Dong, Crystal Yang, Zixi Feng, Tawseef Reza </td>
+    <td> Gavin Lin, Lucy Chen, Ethan Lee, Michelle Lee, Adam Choi, Jady Lei, Rui Dong, Crystal Yang, Zixi Feng, Tawseef Reza, Nia Chen, Gordon Doan </td>
     <td> Jeanne </td>
   </tr>
   <tr>
     <th scope="row"> 9 </th>
     <td> Lab </td>
     <td> Samuel Chen, Jason Yang  </td>
-    <td> Henry Zhang, Judy Wang, Rachel Kim, Elin Kim, Gary Jiang, Vinson Chen, Jaco Xia, Matthew Huang, Aidan Kuo, Carmin Vuong, Clemens Li, Jeremy Kwok </td>
+    <td> Henry Zhang, Judy Wang, Rachel Kim, Elin Kim, Gary Jiang, Vinson Chen, Jaco Xia, Matthew Huang, Aidan Kuo, Carmin Vuong, Clemens Li, Jeremy Kwok, Priyanshu Rana, Sebastian Ching </td>
     <td> Edwin, Bryan </td>
   </tr>
   <tr>
     <th scope="row"> 10 </th>
     <td> Lab </td>
     <td> Amber Shen, Ya Qi Chew </td>
-    <td> Ivan Chen, Mustafa Abdullah, Harry Belliveau, Justin Li, Chris Lam, Edison Zhu, Michelle Zhu, Shirina Rong, Reya Miller, Vi Lin </td>
+    <td> Ivan Chen, Mustafa Abdullah, Harry Belliveau, Justin Li, Chris Lam, Edison Zhu, Michelle Zhu, Shirina Rong, Reya Miller, Vi Lin, Wilson Lin, Daniel Palisoul  </td>
     <td> Michelle </td>
   </tr>
   <tr>
