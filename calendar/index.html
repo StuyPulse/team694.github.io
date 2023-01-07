@@ -10,17 +10,18 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
         var calendarEl = document.getElementById("calendar");
         var calendar = new FullCalendar.Calendar(calendarEl, {
             googleCalendarApiKey: 'AIzaSyC8aX6KJLfEyiuSJ76hErHB8voNcoAi4yA',
+            initialView: 'listWeek',
             headerToolbar: {
                 left: 'prev,next today addCalendar',
                 center: 'title',
-                right: 'dayGridMonth,timeGridWeek,listWeek'
+                right: 'listWeek,dayGridMonth,timeGridWeek'
             },
             nowIndicator: true,
             customButtons: {
               addCalendar: {
                 text: 'Add to Google Calendar',
                 click: function() {
-                  window.open("https://calendar.google.com/calendar/u/2/r?cid=info@stuypulse.com&cid=stuypulse.com_oqgqev21591htqsjdhhg34mh3k@group.calendar.google.com");
+                  window.open('https://calendar.google.com/calendar/u/2/r?cid=info@stuypulse.com&cid=stuypulse.com_oqgqev21591htqsjdhhg34mh3k@group.calendar.google.com');
                 }
               }
             },
