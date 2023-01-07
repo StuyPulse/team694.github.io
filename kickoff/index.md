@@ -5,7 +5,7 @@ description: Dedicated page for Kickoff information
 ---
 
 ### Materials:
-* [Game Animation]()
+* [Game Animation](https://www.youtube.com/watch?v=0zpflsYc4PA)
 * [Game Manual](https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf)
   * [Decrypted Version](https://stuypulse.nyc3.digitaloceanspaces.com/site/pdf/2023FRCGameManual-unlocked.pdf)
 * [Game Field](https://www.firstinspires.org/robotics/frc/playing-field)
