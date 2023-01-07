@@ -112,14 +112,12 @@ description: Dedicated page for Kickoff information
     <td> 440 </td>
     <td> April Li, Rain Shao </td>
     <td> Angelina Li, Jessie Wang, Christopher Choe, Ian Shi, Hassan Tahmim, Amelia Ng, Adeeb Khan, Eric Lin, Rabab Chowdhury, Yao Chen, Michelle Chen, Xuan Hao Cen, Leonna Wang, Gordon Doan, Shifaul Emdad </td>
-    <td> Angelina Li, Jessie Wang, Christopher Choe, Ian Shi, Hassan Tahmim, Amelia Ng, Adeeb Khan, Eric Lin, Rabab Chowdhury, Yao Chen, Michelle Chen, Xuan Hao Cen, Leonna Wang, Gordon Doan, Shifaul Emdad </td>
     <td> Katie, Brianna </td>
   </tr>
   <tr>
     <th scope="row"> 2 </th>
     <td> 429 </td>
     <td> Janna Wang, Myles Pasetsky </td>
-    <td> Angelina Weng, Jiefeng Ou, Imtiaz Ahmed, Colyi Chen , Andrew Che, Rafia Islam, Yuchen Pan, Richie Xue, Jowita Walkup, Ethan Kong, Ashley Li, Richard Wan, Urim Lee, Elizabeth Chen, Zhi Han Yao, Brandon Chao </td>
     <td> Angelina Weng, Jiefeng Ou, Imtiaz Ahmed, Colyi Chen , Andrew Che, Rafia Islam, Yuchen Pan, Richie Xue, Jowita Walkup, Ethan Kong, Ashley Li, Richard Wan, Urim Lee, Elizabeth Chen, Zhi Han Yao, Brandon Chao </td>
     <td> Samantha Unger, Samuel Crisanto </td>
   </tr>
@@ -134,7 +132,6 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 4 </th>
     <td> 405 </td>
     <td> Kano Kitaguchi, Jason Zhou </td>
-    <td> Claire Nguyen, Veronika Gulko, William Liu, Rachel Prizant, Amy Kuang, Charles Li, Hyun Bum Hur, Raymond Zhang, Mohammed Humaidee, Melanie Lin, Thamidur Rahman, Kelvin Zhao, Gus Watkins, Alvern Chen, Vi Lin, Debbie Zheng </td>
     <td> Claire Nguyen, Veronika Gulko, William Liu, Rachel Prizant, Amy Kuang, Charles Li, Hyun Bum Hur, Raymond Zhang, Mohammed Humaidee, Melanie Lin, Thamidur Rahman, Kelvin Zhao, Gus Watkins, Alvern Chen, Vi Lin, Debbie Zheng </td>
     <td> Tom, Mel </td>
   </tr>
