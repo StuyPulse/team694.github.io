@@ -7,10 +7,10 @@ description: Dedicated page for Kickoff information
 ### Materials:
 * [Game Animation]()
 * [Game Manual](https://firstfrc.blob.core.windows.net/frc2023/Manual/2023FRCGameManual.pdf)
-  * [Decrypted Version]()
-* [Game Field]()
+  * [Decrypted Version](https://stuypulse.nyc3.digitaloceanspaces.com/site/pdf/2023FRCGameManual-unlocked.pdf)
+* [Game Field](https://www.firstinspires.org/robotics/frc/playing-field)
 * [Game Q&A Forum](https://frc-qa.firstinspires.org/)
-* Encryption Key: 
+* Encryption Key: #2023ReAcH4th3T0p!
 
 &nbsp;
 
