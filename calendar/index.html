@@ -12,10 +12,11 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
             googleCalendarApiKey: 'AIzaSyC8aX6KJLfEyiuSJ76hErHB8voNcoAi4yA',
             initialView: 'listWeek',
             headerToolbar: {
-                left: 'prev,next today addCalendar',
-                center: 'title',
+                left: 'title',
+                center: 'prev,next,today addCalendar',
                 right: 'listWeek,dayGridMonth,timeGridWeek'
             },
+            contentHeight: screen.height / 2 - 60,
             nowIndicator: true,
             customButtons: {
               addCalendar: {
