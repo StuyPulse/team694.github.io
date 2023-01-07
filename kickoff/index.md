@@ -125,7 +125,7 @@ description: Dedicated page for Kickoff information
     <th scope="row"> 3 </th>
     <td> 435 </td>
     <td> Aiden Tan, Benjamin Goldfisher </td>
-    <td> Carrie Ko, Sarzil Chowdhury, Henry Santos Hendricks, Tasnim Islam, Felice Li, Fiona Huang, Samin Alam, Gulam Monawarah, Rahel Arka, Natalie Soler, Joseph Mei, Max Pettica, Kiran Yesley, Jessica Seto </td>
+    <td> Carrie Ko, Sarzil Chowdhury, Henry Santos Hendricks, Tasnim Islam, Felice Li, Fiona Huang, Samin Alam, Gulam Monawarah, Rahel Arka, Natalie Soler, Joseph Mei, Max Pettica, Kiran Yesley, Jessica Seto, MD Rahman </td>
     <td> Piotr, Pev </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ description: Dedicated page for Kickoff information
     <td> 439 </td>
     <td> Andrew Liu, Rong Zheng Wu </td>
     <td> Ehsan Uddin, Kelly Lin, Rachel Uh, Daniel Gabai, Kimberly Ye, William Wang, Anthony Chen, Jennifer Ye, Niki Chen, Jason Xie, Kenneth Zheng, Shihab Noah, Tasfiq Chowdhury, Karen Chen, Angela Lin, Natalie Keung, Daniella Nkunga, Amanda Derkach </td>
-    <td> Shelley, Bryant </td>
+    <td> Shelley, Bryant, Anya </td>
   </tr>
   <tr>
     <th scope="row"> 7 </th>
@@ -168,7 +168,7 @@ description: Dedicated page for Kickoff information
     <td> 427 </td>
     <td> Sam Chen, Jason Yang  </td>
     <td> Henry Zhang, Judy Wang, Rachel Kim, Elin Kim, Gary Jiang, Vinson Chen, Jaco Xia, Matthew Huang, Aidan Kuo, Carmin Vuong, Clemens Li, Jeremy Kwok, Priyanshu Rana, Sebastian Ching, Fukang Jiang, Arithra Saha, Phillip Guan </td>
-    <td> Edwin, Bryan </td>
+    <td> Edwin, Bryan, Yi Lin, Chris </td>
   </tr>
   <tr>
     <th scope="row"> 10 </th>
