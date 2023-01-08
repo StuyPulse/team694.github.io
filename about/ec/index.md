@@ -1,10 +1,9 @@
 ---
 layout: page-with-sidebar
-title: Team Leadership
+title: Executive & Appointed Council
 description: StuyPulse's Executive Council leads the team and includes the presidents and vice presidents of engineering, software engineering, and Business.
 # Looking for EC positions? You can find them in _data/ec.yml.
 ---
-Meet the Executive Council!
  
 ### President of Engineering <small>{{ site.data.ec.poe.name }}</small>
 <div markdown="1" class="ec-description">
