@@ -19,6 +19,14 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
             },
             contentHeight: screen.height / 2 - 60,
             nowIndicator: true,
+            customButtons: {
+              addCalendar: {
+                text: 'Add to Google Calendar',
+                click: function() {
+                  window.open('https://calendar.google.com/calendar/u/2/r?cid=info@stuypulse.com&cid=stuypulse.com_oqgqev21591htqsjdhhg34mh3k@group.calendar.google.com');
+                }
+              }
+            },
             eventSources: [
                 {
                     googleCalendarId: 'info@stuypulse.com'
