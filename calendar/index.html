@@ -5,6 +5,7 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
 ---
 <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.0.1/index.global.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.0.1/index.global.min.js"></script>
+<a href="https://calendar.google.com/calendar/u/2/r?cid=info@stuypulse.com&cid=stuypulse.com_oqgqev21591htqsjdhhg34mh3k@group.calendar.google.com" class="button">Add to Google Calendar</a>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById("calendar");
@@ -12,20 +13,12 @@ description: You can check StuyPulse's calendar to see the meeting and event sch
             googleCalendarApiKey: 'AIzaSyC8aX6KJLfEyiuSJ76hErHB8voNcoAi4yA',
             initialView: 'listWeek',
             headerToolbar: {
-                left: 'title',
-                center: 'prev,next,today addCalendar',
+                left: 'prev,next,today',
+                center: 'title',
                 right: 'listWeek,dayGridMonth,timeGridWeek'
             },
             contentHeight: screen.height / 2 - 60,
             nowIndicator: true,
-            customButtons: {
-              addCalendar: {
-                text: 'Add to Google Calendar',
-                click: function() {
-                  window.open('https://calendar.google.com/calendar/u/2/r?cid=info@stuypulse.com&cid=stuypulse.com_oqgqev21591htqsjdhhg34mh3k@group.calendar.google.com');
-                }
-              }
-            },
             eventSources: [
                 {
                     googleCalendarId: 'info@stuypulse.com'
