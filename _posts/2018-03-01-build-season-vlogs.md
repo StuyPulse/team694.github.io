@@ -2,6 +2,7 @@
 layout: post
 title: Build Season Vlogs, Recap, and Robot Reveal
 author: Yedoh Kang
+date: 2018-03-01
 ---
 Stay updated with our build season with our YouTube channel!
 

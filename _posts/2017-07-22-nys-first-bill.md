@@ -2,6 +2,7 @@
 layout: post
 title: NYS FIRST Bill
 author: Yedoh Kang
+date: 2017-07-22
 ---
 Hey everyone,<br>
 NYS is looking to pass a <a href="https://www.nysenate.gov/legislation/bills/2017/a5736/amendment/original">bill</a> that will give funding to NYS FIRST teams and those looking to start teams, to "help encourage students to study in the fields of STEM."

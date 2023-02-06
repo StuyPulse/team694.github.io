@@ -2,6 +2,7 @@
 layout: post
 title: FIRST Global Recap
 author: Levi Olevsky
+date: 2017-07-23
 ---
 Members of StuyPulse had an amazing experience in Washington, D.C. at the inaugural FIRST Global Challenge!
 They finally met in person the team they mentored, Team Hope, in addition to 162 other teams, representing over 150 countries.

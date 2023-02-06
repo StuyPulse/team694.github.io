@@ -2,6 +2,7 @@
 layout: post
 title: Introducing the new StuyPulse.com!
 author: Kevin Wang
+date: 2013-02-02
 ---
 The StuyPulse Web Team is proud to present the brand spanking new team website! This is the first time our website has been completely overhauled since 2008.
 

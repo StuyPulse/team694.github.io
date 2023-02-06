@@ -2,6 +2,7 @@
 layout: post
 title: Team Dinner
 author: Yedoh Kang
+date: 2017-06-05
 ---
 Hey everyone!
 Our Team Dinner & Mr. Colón's Retirement Party will be held on JUNE 17th, so save the date!

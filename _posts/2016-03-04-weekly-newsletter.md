@@ -2,6 +2,7 @@
 layout: post
 title: Weekly Newsletters
 author: Nicole Shin
+date: 2016-03-04
 ---
 Here are our weekly newsletters from the six weeks of the 2016 build season! Read about what each of our divisions have been up to throughout build season.
 

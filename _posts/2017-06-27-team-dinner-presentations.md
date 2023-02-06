@@ -2,6 +2,7 @@
 layout: post
 title: Team Dinner Presentations
 author: Yedoh Kang
+date: 2017-06-27
 ---
 Hey everyone! Thank you so much for coming to the Team Dinner & Mr. Colón's Retirement Party!
 Below are links to the presentations and videos shown!

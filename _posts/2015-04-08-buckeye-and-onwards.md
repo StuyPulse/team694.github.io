@@ -2,6 +2,7 @@
 layout: post
 title: Buckeye and Onwards
 author: Ivy Wong
+date: 2015-04-08
 ---
 StuyPulse returned from Buckeye last week, having made it to the regional semifinals. Unfortunately, we did not reach the finals, and as such we will not be going to championship this year. Fear not, however - we will be participating in scrimmages as well as other off-season events.
 

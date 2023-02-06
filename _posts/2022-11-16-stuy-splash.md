@@ -2,6 +2,7 @@
 layout: post
 title: Stuy Splash 2022
 author: StuyPulse
+date: 2022-11-16
 ---
 Stuy Splash will be held on December 10th, 2022 at 345 Chambers Street, New York City. It will be happening from 10:00 AM to 4:30 PM EST.
 

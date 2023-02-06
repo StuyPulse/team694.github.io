@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Recycle Rush and Kickoff
-author: Ivy Wong
+author: Ivy 
+date: 2015-01-03
 ---
 This year's game has been released! Check out the official game page here: [Recycle Rush](http://www.usfirst.org/roboticsprograms/frc/2015-game)
 

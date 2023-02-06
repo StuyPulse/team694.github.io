@@ -2,6 +2,7 @@
 layout: post
 title: Monty Madness and Upcoming Events
 author: Ivy Wong
+date: 2014-05-17
 ---
 StuyPulse returned today from our first off-season event [Monty Madness](http://www.montymadness.com/) in Skillman, New Jersey. Although we did not win the event, we reached the quarterfinals in eliminations and had a great time. 
 

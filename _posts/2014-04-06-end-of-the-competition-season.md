@@ -2,6 +2,7 @@
 layout: post
 title: End of the Competition Season
 author: Justin Kim
+date: 2014-04-06
 ---
 First, thank you to everybody who came to the Javits Convention Center to cheer for our team in the NYC regional! It was a great time and we appreciate all the support.
 

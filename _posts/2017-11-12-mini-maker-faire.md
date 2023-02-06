@@ -2,6 +2,7 @@
 layout: post
 title: Barnes & Noble Mini Maker Faire
 author: Eugene Seo
+date: 2017-11-12
 ---
 Today, StuyPulse members had a great time with Barnes & Noble Tribeca participating in the Barnes and Noble Mini Maker Faire!
 Members came and demoed the bot, and talked about the team, STEM, and FIRST.

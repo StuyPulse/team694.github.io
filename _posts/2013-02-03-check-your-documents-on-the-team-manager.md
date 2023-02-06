@@ -2,6 +2,7 @@
 layout: post
 title: Check your documents on the Team Manager
 author: Kevin Wang
+date: 2013-02-03
 ---
 Attention team members! Want to check whether your paperwork, dues, and trip forms have all been filed? The Web Team has just launched a new feature on the Team Manager which allows you to check the status of all of your documents.
 
