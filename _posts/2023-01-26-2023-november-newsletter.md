@@ -1,6 +1,6 @@
 ---
 layout: post
-title: December Newsletter
+title: November Newsletter
 author: StuyPulse
 link: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/pdf/StuyPost%20November%202022.pdf
 ---
