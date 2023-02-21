@@ -43,12 +43,6 @@ He joined the team in its second year, and since then, he's never left. While at
 [Read about Joe in his Woodie Flowers Award nomination &raquo;](/about/mentors/woodieflowers/joe)
 </div>
 
-### Dan Lavin
-<div markdown="1" class="ec-description">
-<img src="/img/mentors/dan.jpg" class="ec-photo" alt="Dan Lavin">
-Dan Lavin was integral in helping us use this year's new control system. He pored over manuals with us and contributed to everything electronics-related, including wiring signal lights and bringing in old security cameras to scrap for potentiometers. He was key in learning how to use the new camera and make precise movements in autonomous mode.
-</div>
-
 ### Jeanne Boyarsky
 <div markdown="1" class="ec-description">
 <img src="/img/mentors/jeanne.jpg" class="ec-photo" alt="Jeanne Boyarsky">
