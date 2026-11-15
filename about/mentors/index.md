@@ -11,7 +11,7 @@ Team 694 would like to thank any individual who has mentored us in the past, inc
 
 ### Joe Blay
 <div markdown="1" class="ec-description">
-<img src="https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/Blay.jpg" class="ec-photo" alt="Joe Blay">
+<img src="https://files.stuypulse.com/site/img/Blay.jpg" class="ec-photo" alt="Joe Blay">
 Joe Blay has had a tremendous impact on our team since his high school years. Joe Blay was a former StuyPulse student, graduating in 2009. While a student, he was an engineer and the main driver. After graduating, he made sure to stay with the team, despite his time studying in Stony Brook University. After graduating, he has come back to Stuyvesant to teach as well as coach StuyPulse. He mentors every aspect of the team in one way or another trying to make sure that every department of 694 is constantly growing. His main strengths are engineering and strategy. During competitions, he works on the drive team, as the coach, setting up our match strategy and making sure the drivers are ready to play as well as making sure that the strategy team is gets us ready for every match and the elimination rounds.
 </div>
 
@@ -19,7 +19,7 @@ Joe Blay has had a tremendous impact on our team since his high school years. Jo
 <div markdown="1" class="ec-description">
 James Lonardo has ceaselessly served our team for over eight years. He is essentially the "backbone of our team". As an attentive mentor, James organizes all medical, contact, and trip forms, and signs us up for events. Not only was he devoted to our team, he was also a FIRST advocate on the streets. He even organized a competition for robotics classes with members of the U. S. Coast Guard, which inspired many children within and outside of school. His supportive attitude and contribution is indispensable to our team.
 
-[Read about Mr. Lonardo in his Woodie Flowers nomination &raquo;](https://stuypulse.nyc3.digitaloceanspaces.com/site/woodieflowers/lonardo.pdf)
+[Read about Mr. Lonardo in his Woodie Flowers nomination &raquo;](https://files.stuypulse.com/site/woodieflowers/lonardo.pdf)
 </div>
 
 ### Tom Ferguson

@@ -2,7 +2,7 @@
 layout: history
 title: Edwin
 year: 2020
-photo: https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/img/edwin.jpg
+photo: https://files.stuypulse.com/site/img/edwin.jpg
 source-link: https://github.com/StuyPulse/Edwin
 youtube-links:
     - name: 6 Ball Auton

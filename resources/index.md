@@ -72,7 +72,7 @@ Information regarding team name, logo, and color usage.
 
 A statement of the long-term vision and goals of our team, and a plan for the year. The Operations Plan is prepared every summer by the incoming team leadership.
 
-#### [Press Packet](https://stuypulse.nyc3.cdn.digitaloceanspaces.com/site/sponsorships/2018SponsorshipPacket.pdf)
+#### [Press Packet](https://files.stuypulse.com/site/sponsorships/2018SponsorshipPacket.pdf)
 
 Information and materials for potential [sponsors](/sponsors/).
 
